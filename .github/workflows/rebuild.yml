@@ -7,10 +7,19 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
   rebuild:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Check out repository
         uses: actions/checkout@v7
@@ -55,3 +64,16 @@ jobs:
             git commit -m "Rebuild repository ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
             git push
           fi
+
+      # Commits pushed above use the default GITHUB_TOKEN, which GitHub
+      # deliberately does not use to trigger other workflows (recursion
+      # guard) - so pages.yml's `on: push` never fires for them. Deploy
+      # directly here instead of relying on that chain.
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: .
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
