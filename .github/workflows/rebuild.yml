@@ -1,0 +1,57 @@
+name: Rebuild APT repository
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Install reprepro and gnupg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y reprepro gnupg
+
+      - name: Import signing key
+        env:
+          GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
+        run: |
+          echo "$GPG_PRIVATE_KEY" | gpg --batch --import
+
+      - name: Download latest .deb from vladonv/monast and vladonv/starpy
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p dl
+          gh release download -R vladonv/monast -p "*.deb" -D dl --clobber
+          gh release download -R vladonv/starpy -p "*.deb" -D dl --clobber
+
+      - name: Update repository
+        run: |
+          shopt -s nullglob
+          debs=(dl/*.deb)
+          if [ ${#debs[@]} -eq 0 ]; then
+            echo "No .deb files downloaded, nothing to do."
+            exit 0
+          fi
+          reprepro includedeb stable "${debs[@]}"
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add db dists pool
+          if git diff --cached --quiet; then
+            echo "No changes to the repository."
+          else
+            git commit -m "Rebuild repository ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+            git push
+          fi
