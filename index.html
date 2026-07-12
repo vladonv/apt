@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>vladonv/apt</title>
+<style>
+  :root { color-scheme: light dark; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    max-width: 42rem;
+    margin: 3rem auto;
+    padding: 0 1.25rem;
+    line-height: 1.55;
+  }
+  h1 { font-size: 1.4rem; }
+  h2 { font-size: 1.1rem; margin-top: 2rem; }
+  code, pre {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 0.9em;
+  }
+  pre {
+    background: rgba(127, 127, 127, 0.12);
+    border-radius: 6px;
+    padding: 0.9rem 1rem;
+    overflow-x: auto;
+  }
+  a { color: #2563eb; }
+  ul { padding-left: 1.2rem; }
+</style>
+</head>
+<body>
+
+<h1>vladonv/apt</h1>
+<p>
+  APT repository for <a href="https://github.com/vladonv/monast">MonAst</a>
+  (<code>monast-daemon</code>, <code>monast-web</code>) and its patched
+  <a href="https://github.com/vladonv/starpy">starpy</a> dependency
+  (<code>python3-starpy</code>). GPG-signed, built with
+  <code>reprepro</code>, rebuilt on a schedule (and on demand) from each
+  source repo's latest GitHub Release.
+</p>
+
+<h2>Usage (Debian 12/13, amd64)</h2>
+<pre><code>curl -fsSL https://vladonv.github.io/apt/pubkey.asc | sudo gpg --dearmor -o /usr/share/keyrings/vladonv-apt.gpg
+echo "deb [signed-by=/usr/share/keyrings/vladonv-apt.gpg] https://vladonv.github.io/apt stable main" | sudo tee /etc/apt/sources.list.d/vladonv.list
+sudo apt update
+sudo apt install monast-daemon monast-web</code></pre>
+
+<h2>Links</h2>
+<ul>
+  <li><a href="https://github.com/vladonv/apt">Source (this repo)</a></li>
+  <li><a href="https://github.com/vladonv/monast">monast</a></li>
+  <li><a href="https://github.com/vladonv/starpy">starpy</a></li>
+  <li><a href="pubkey.asc">Signing key (pubkey.asc)</a></li>
+  <li><a href="dists/stable/main/binary-amd64/Packages">Package index</a></li>
+</ul>
+
+</body>
+</html>
