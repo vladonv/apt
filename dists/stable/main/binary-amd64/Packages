@@ -1,19 +1,19 @@
 Package: monast-daemon
 Source: monast
-Version: 4.15
+Version: 4.16
 Architecture: all
 Maintainer: Vlad Vorobyev <vlad.vorobev@gmail.com>
-Installed-Size: 186
+Installed-Size: 187
 Depends: python3 (>= 3.9), python3-twisted (>= 22.4.0), python3-starpy, adduser
 Recommends: python3-openssl, python3-service-identity
 Homepage: https://github.com/vladonv/monast
 Priority: optional
 Section: comm
-Filename: pool/main/m/monast/monast-daemon_4.15_all.deb
-Size: 55586
-SHA256: 420fc22d5fbccd1009cfadefaee71de5bb0a891ebe1f0a0d1a83ffec93878abf
-SHA1: 1b3593380c5f4d8002f2e8fff2b75f807aafdfd6
-MD5sum: 158eb67d211636a408cc57f6bb280b13
+Filename: pool/main/m/monast/monast-daemon_4.16_all.deb
+Size: 56036
+SHA256: 92390965ace8eb4692f45f06448dae2317994c34d5e8626180f13222410767fb
+SHA1: 5a1069bb0533cd736126560a34786cb5dae173d8
+MD5sum: 7f616bc80fbc1e8c20485177bbbc158b
 Description: Asterisk Manager Interface monitor daemon for MonAst
  MonAst is a web-based real-time monitor for Asterisk PBX servers.
  .
@@ -27,7 +27,7 @@ Description: Asterisk Manager Interface monitor daemon for MonAst
 
 Package: monast-web
 Source: monast
-Version: 4.15
+Version: 4.16
 Architecture: all
 Maintainer: Vlad Vorobyev <vlad.vorobev@gmail.com>
 Installed-Size: 754
@@ -36,11 +36,11 @@ Recommends: monast-daemon, apache2 | nginx | lighttpd, libapache2-mod-php | php-
 Homepage: https://github.com/vladonv/monast
 Priority: optional
 Section: comm
-Filename: pool/main/m/monast/monast-web_4.15_all.deb
-Size: 159260
-SHA256: 9fe9bfaa6c37e15ac4bcf59b345115312ab5d62a12fe75088228a156e4535426
-SHA1: 70e4095ea9438c7abc11205d351630312f4a88ca
-MD5sum: 3f8d53a617a4786bd8abeb111793cea7
+Filename: pool/main/m/monast/monast-web_4.16_all.deb
+Size: 159578
+SHA256: 2e86e12f180d1d35f06efb489afe9cac92ee855880cea6510ab9098282aba68c
+SHA1: 4ec756a7613c6f1baff25550fc756388fe2a9271
+MD5sum: d525f04d36cb7bb06a1a43b670f9b748
 Description: Web front end for the MonAst Asterisk monitor
  MonAst is a web-based real-time monitor for Asterisk PBX servers.
  .
