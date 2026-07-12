@@ -1,19 +1,19 @@
 Package: monast-daemon
 Source: monast
-Version: 4.17
+Version: 4.18
 Architecture: all
 Maintainer: Vlad Vorobyev <vlad.vorobev@gmail.com>
-Installed-Size: 187
+Installed-Size: 188
 Depends: python3 (>= 3.9), python3-twisted (>= 22.4.0), python3-starpy, adduser
 Recommends: python3-openssl, python3-service-identity
 Homepage: https://github.com/vladonv/monast
 Priority: optional
 Section: comm
-Filename: pool/main/m/monast/monast-daemon_4.17_all.deb
-Size: 56446
-SHA256: ec988cce55cbab0092ace598b372c6bd6f865d33408c76355c6d87db2ef5f0ca
-SHA1: 91f7d2e6719ec1c653d4165d5faf7c9dda3904f4
-MD5sum: 8cc0fc7e6ae57d48e6137a8f2e3b9ba8
+Filename: pool/main/m/monast/monast-daemon_4.18_all.deb
+Size: 56682
+SHA256: 2fee7baf644794ea16b442d01f4c0606fc5ac75e94a70614531a7a17d0a4cbb5
+SHA1: c257b029a1c982d9266eb2d57f895d9b2319fb26
+MD5sum: 688474e2819c70d5d7c026b1c81bdb29
 Description: Asterisk Manager Interface monitor daemon for MonAst
  MonAst is a web-based real-time monitor for Asterisk PBX servers.
  .
@@ -27,20 +27,20 @@ Description: Asterisk Manager Interface monitor daemon for MonAst
 
 Package: monast-web
 Source: monast
-Version: 4.17
+Version: 4.18
 Architecture: all
 Maintainer: Vlad Vorobyev <vlad.vorobev@gmail.com>
-Installed-Size: 754
+Installed-Size: 755
 Depends: php-cli (>= 8.2) | php8.2-cli, php-curl | php8.2-curl
 Recommends: monast-daemon, apache2 | nginx | lighttpd, libapache2-mod-php | php-fpm
 Homepage: https://github.com/vladonv/monast
 Priority: optional
 Section: comm
-Filename: pool/main/m/monast/monast-web_4.17_all.deb
-Size: 159832
-SHA256: 21f1c7917a198d3d9df853bec757e3d9c7a04141a260730beaea6623ff19c6dd
-SHA1: 21c5950d82dd76637c45bf5b4894092a2a09b74e
-MD5sum: 0b6c1de76ee27b625a84e6e42d04ee19
+Filename: pool/main/m/monast/monast-web_4.18_all.deb
+Size: 160116
+SHA256: 9539a2828d88f62ebc4a0cc4663d520d3f0be8243a82fd2e724ca8635212e8de
+SHA1: 24fab6a4d855efbaa1368373641f4af2dd4d301a
+MD5sum: eccd57085e5f76f68a13f0ac97a10ac7
 Description: Web front end for the MonAst Asterisk monitor
  MonAst is a web-based real-time monitor for Asterisk PBX servers.
  .
