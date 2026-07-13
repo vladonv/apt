@@ -53,7 +53,7 @@ Description: Web front end for the MonAst Asterisk monitor
 
 Package: python3-starpy
 Source: starpy
-Version: 1.1.1-1
+Version: 1.1.1-2
 Architecture: all
 Maintainer: Vlad Vorobyev <vlad.vorobev@gmail.com>
 Installed-Size: 106
@@ -61,11 +61,11 @@ Depends: python3-twisted (>= 22.4.0), python3:any
 Homepage: https://github.com/vladonv/starpy
 Priority: optional
 Section: python
-Filename: pool/main/s/starpy/python3-starpy_1.1.1-1_all.deb
-Size: 22960
-SHA256: c306bc7ada6ff0c6960c096f9c9796584e064368343c7886437d8a89acbdd865
-SHA1: 8daac248bf44f56aa83f3e26a5ea7e410423752c
-MD5sum: 1fc9fd6cead1c15187c6e26d74cc7530
+Filename: pool/main/s/starpy/python3-starpy_1.1.1-2_all.deb
+Size: 23514
+SHA256: 9cdbae5721af18bc6b6e2f01dcaec1ae960507fbb3867a10297efad5a8d21876
+SHA1: c809429d3138773f2541c54b46a04251591d3d43
+MD5sum: f9a71ef3a5e82fd54e381509aba8249a
 Description: Twisted protocols for interacting with the Asterisk PBX
  starpy provides Twisted-based protocol implementations for the
  Asterisk Manager Interface (AMI) and FastAGI, for building
