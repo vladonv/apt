@@ -2,19 +2,19 @@ Origin: vladonv
 Label: MonAst APT Repository
 Suite: stable
 Codename: stable
-Date: Sun, 12 Jul 2026 17:12:41 UTC
+Date: Mon, 13 Jul 2026 11:41:38 UTC
 Architectures: amd64
 Components: main
 Description: APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
 MD5Sum:
- 3c980924fe80d2f396abc6fbcd815da9 3194 main/binary-amd64/Packages
- 8e314adcef5ffef867ad772a1d36997a 1379 main/binary-amd64/Packages.gz
+ 7f528d0888cb6e0011410403dc6d268f 3194 main/binary-amd64/Packages
+ b08c15cb05a7b73e25f41472bc4c2f59 1378 main/binary-amd64/Packages.gz
  2c6c34c62d8ad6aa694864703385445b 215 main/binary-amd64/Release
 SHA1:
- 8165a83b1a099b5d4d6fd970cf9f1a3945e5f1bf 3194 main/binary-amd64/Packages
- 21bbe2f45b21327dd1f5b6802723d2285b1a20ca 1379 main/binary-amd64/Packages.gz
+ f6b10d8b8ac9b2133204ceac1124da59ab97b3f0 3194 main/binary-amd64/Packages
+ d51496a3aa1e5aff22ba54ab610b66384311c07a 1378 main/binary-amd64/Packages.gz
  48f4057345d543b9e15d44470caf1f54c22d5056 215 main/binary-amd64/Release
 SHA256:
- 607d7438e5ed462d28b053f5805b0cda767ee7ef468b4274f4c9929e44f1d1d4 3194 main/binary-amd64/Packages
- a612a2104837f8bfd29b37af45f975c8b222b7d23b638097ba3f1ffd93e851fb 1379 main/binary-amd64/Packages.gz
+ afb3c9a18172f08505fc44380a7d3060f3c77a8b944878126eed47b5daf777ce 3194 main/binary-amd64/Packages
+ 4a18fadcf57633827d8ef99a831b760ffbff549cf8a4e576715a0b3c6687fdf8 1378 main/binary-amd64/Packages.gz
  1413fe8fbf628c082de1cfa79ecb7619b73268f8de2d9284227841ffbe885d46 215 main/binary-amd64/Release
