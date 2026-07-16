@@ -9,6 +9,7 @@ permissions:
   contents: write
   pages: write
   id-token: write
+  actions: write
 
 concurrency:
   group: pages
@@ -194,3 +195,26 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+
+      # This workflow runs on a 6-hourly cron (~1460 runs/year if left
+      # unpruned) - unlike artifacts/logs, GitHub keeps run *records*
+      # forever by default, so the Actions run list would otherwise grow
+      # to thousands of entries over time. Keep the most recent KEEP runs
+      # per workflow (across every workflow in this repo, including the
+      # auto-managed "pages-build-deployment" one that actions/deploy-
+      # pages@v5 above generates a run under), delete anything older.
+      # `if: always()`: prune on every run of this job regardless of
+      # whether earlier steps hit a `|| true`-guarded failure.
+      - name: Prune old workflow runs
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          KEEP=50
+          for wf_id in $(gh api "repos/${{ github.repository }}/actions/workflows" -q '.workflows[].id'); do
+            gh run list -R "${{ github.repository }}" --workflow "$wf_id" \
+              --json databaseId,status --limit 500 \
+              -q '[.[] | select(.status == "completed") | .databaseId] | .[]' \
+              | tail -n "+$((KEEP + 1))" \
+              | xargs -r -n1 gh run delete -R "${{ github.repository }}"
+          done
