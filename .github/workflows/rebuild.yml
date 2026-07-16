@@ -91,6 +91,22 @@ jobs:
           codenames=(bookworm trixie)
           all_codenames=(stable "${codenames[@]}")
 
+          # trixie specifically - the one codename that's never had a
+          # single successful export yet - is the one every previous
+          # mitigation in this file's history (batching, retries, a
+          # properly-configured GPG import action, an explicit agent
+          # warm-up, per-codename export calls) failed to get past. One
+          # untested difference: it's the only codename with no existing
+          # dists/<codename>/ directory tree on disk yet, so its export
+          # has to create that structure *and* sign for the first time in
+          # the same operation, unlike stable/bookworm which only ever
+          # rewrite already-existing files. Pre-create the same directory
+          # skeleton reprepro already produced for stable/bookworm, so a
+          # first export doesn't have to do both at once.
+          for cn in "${all_codenames[@]}"; do
+            mkdir -p "dists/$cn/main/binary-amd64"
+          done
+
           # Even batched (one reprepro invocation per codename, not per
           # package), a real run still hit "Could not find any key
           # matching <keyid>!" on whichever codename was processed *last*
