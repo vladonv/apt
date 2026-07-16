@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: vladonv
+Label: vladonv APT Repository
+Suite: bookworm
+Codename: bookworm
+Date: Thu, 16 Jul 2026 16:02:34 UTC
+Architectures: amd64
+Components: main
+Description: vladonv packages for Debian 12 (bookworm)
+MD5Sum:
+ 34f443f650b541e2004c623e10a363ef 4894 main/binary-amd64/Packages
+ 517f5ec5b029954344a81d3b50ea4743 2114 main/binary-amd64/Packages.gz
+ 80566405eff5df364a4e5da78bfec740 155 main/binary-amd64/Release
+SHA1:
+ 8ffab69f709c3528d5f98d3da49238ee0ef04677 4894 main/binary-amd64/Packages
+ fac1422d18e920b71613377e6ec2d79ad209c344 2114 main/binary-amd64/Packages.gz
+ 782b6b06b789cc45225c09cdd47db589585471e6 155 main/binary-amd64/Release
+SHA256:
+ 6db27c00a7028af734300dd2cd693ab3707d37cd9a8acdc85d8822ee6dd6bf03 4894 main/binary-amd64/Packages
+ c1f4afdd52a4f6821d2d97376118686edbb8d60afc8873041996c4b72e1cdef9 2114 main/binary-amd64/Packages.gz
+ 75ad2a337149c2ff8ce34ce4d7699ca7ba2f6b0a953c566f41aba8c463c4b780 155 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpZAJoACgkQSMjV5ji9
+inxVfQ//ezLgTrlkdxBRyCLhJccS38VW1XlH8WRDK67N8t14eAk+3RP5Z+u3chyE
+oGVKo0/KCtDIh1H2Jn2xr1RKdlc4CpluzG2Znu5DLBgRrM8a+XID4MX7deT6mIwn
+6DxuZjuF3HDqokamIQ1sEWWKwS/3oQZz96siBwxUqH9q0IvMvY3fYU7w2uns3xVo
+2Wf1+uN1Fr+tOA91fq+O9mMTgUdXErfJhN9YyeFHJI39QAxC7b9y/kQfMGCMiRkb
+i3jNhsTcio+x/oSGg4/Y4s8sd2/zHUffyhzhwsplMlkavXYmRW2MemZBsqLlSecH
+cmn2WE9FZmDX7Ch/dkuKw6SWp3Aty8pCDH9ff/4oMvGU2mMMoESysOK0EK47ZRF9
+URFaBD+aCskBsqDhLpb0yQujDOJcdE2rdgI7ikwy/EcFFoXQM7SD4m/G7OHSBnuP
+2ZHq+sHOCePsPMNv+RpM/HOzUKpwzpd7sRBeHmItEi8k35V6BMkW3cjR0JJQuX3A
+vrUw6c4eRqdVx2vNQxzTIFPDJ1hc/gwiOCDWXStT/Mm+yf/Kph4AJMkaNqkzNVat
+oFicB+wOyxjz06cbgRE2CiuOfViC+gchfwgD3IAH7f2oMNOcctIcXqd6opzGBRNL
+qxs7Jc2wixnEeEB2mOfzrLtSm/JHJrSEwDqwmV7mgMDWNf3Titk=
+=TujK
+-----END PGP SIGNATURE-----

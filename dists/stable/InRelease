@@ -2,38 +2,38 @@
 Hash: SHA512
 
 Origin: vladonv
-Label: MonAst APT Repository
+Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Mon, 13 Jul 2026 19:48:59 UTC
+Date: Thu, 16 Jul 2026 16:02:34 UTC
 Architectures: amd64
 Components: main
-Description: APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
+Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
 MD5Sum:
- 2d8fbbce23bd714d27f3cbb367321e62 3194 main/binary-amd64/Packages
- c2140c61e26a7c22d1cbe74a87724c22 1377 main/binary-amd64/Packages.gz
+ 34f443f650b541e2004c623e10a363ef 4894 main/binary-amd64/Packages
+ 517f5ec5b029954344a81d3b50ea4743 2114 main/binary-amd64/Packages.gz
  2c6c34c62d8ad6aa694864703385445b 215 main/binary-amd64/Release
 SHA1:
- 3305bd0a515d74b523d9f947a11758bac439d6d5 3194 main/binary-amd64/Packages
- 6713e1d396418126eedaaee3b60950b37b14d6fd 1377 main/binary-amd64/Packages.gz
+ 8ffab69f709c3528d5f98d3da49238ee0ef04677 4894 main/binary-amd64/Packages
+ fac1422d18e920b71613377e6ec2d79ad209c344 2114 main/binary-amd64/Packages.gz
  48f4057345d543b9e15d44470caf1f54c22d5056 215 main/binary-amd64/Release
 SHA256:
- 66d2c5cd39d9bf15e8a6c40eb0f153bf2db2c70643a60dc6c2e5f4e17d30b1ea 3194 main/binary-amd64/Packages
- 6c083f99b6a18757983c5a37521a6b26e1de8e1240017e92bcc3c23838c344fd 1377 main/binary-amd64/Packages.gz
+ 6db27c00a7028af734300dd2cd693ab3707d37cd9a8acdc85d8822ee6dd6bf03 4894 main/binary-amd64/Packages
+ c1f4afdd52a4f6821d2d97376118686edbb8d60afc8873041996c4b72e1cdef9 2114 main/binary-amd64/Packages.gz
  1413fe8fbf628c082de1cfa79ecb7619b73268f8de2d9284227841ffbe885d46 215 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpVQSsACgkQSMjV5ji9
-inz1Cg//RK3qkhb/VN2Lka5Iy+p0AZYAhmumjCtkLiK11Dj4XdDgYq3msyo+wEwb
-HKzlgCduO8wGwhsCg4/NKWxUuU2PZxA/4tfuHoJfr1UjwlI0+9m5+xLMZeHvdGeh
-NDp41ZPH5m/6GSqWM8MkzUoh6xRkTyQWuR7He68BPZqM8GpLCAVVEjW7M2qkZH5L
-aDkI59X2e87qmwqHCY6zOJLGZFmclh+P7Km3QYgYSbATXwRcnXHgtlRKuf0afp06
-JmJQVjIgpbIUhdsWtBdweUh7KpUbOeK1MN5SGmvZpCajvR6bIGRt2Z5XE6chwwO2
-rHpTVnl6ZnbJYVFPp/Mkot+G/Kklu4FGA9ql8jVjNWvFG/PaECTRuF+gD+esSKAG
-f90UPVBE2N64AD2+TKQ3TTEh/Hppf5UtTXga5TO3N1RMpxG9OB96PV0iv+VTxHsJ
-YbvnXPISFERt9pu0ISRlpdHOU5MgYnyD9Xw2Nf+7ZyzTSDvGuZhkb2aIVEI99XBV
-aPd2iIwNF7ARHI0IIuIZPCY5OkXV/GlV70d5IQKE8ckHulGemt0mNrfFvCLzQaVr
-p+j41TNgGRYXvRa4k4OcoZpz+nEIlkq6CEEOFRVmMQhv39btc6//H160pTcLkhdK
-TI4o4stRkr1RQYFxK5rpaGpV6ZjeESN0dnFFL+9pPqwCC9JEXcA=
-=oFNS
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpZAJoACgkQSMjV5ji9
+inwwehAAl6c4IbaGLOOZszjji0X37dK6nkIeoP/umDZrf3c51PzBEcJ1GS/NF4Ck
+EofEBy0Ik8lEvCqv2Y08To57umOPTpFp7KNgNs/9gZQles7jQSSlVi+PY/NtLTuf
+bGuZ/pCs6/iaqo9pTijtBYdJzFRLCKk3NywOyb9WabERv/FzsT17lP0vhUMdTyUv
+mB+LtA+mTJi0prC8PD9MjQMnbr00mOuEljbZ/O8HyjTbyXKyMzbx3533Oh2vKskT
+eHm0fmHEJX61SQNC5tvMIAObHmy/PQ63z2oh0OkRswwPrjYMLSYAlB4GYfND6oEN
+JZw7hlr/+gboRDXqe8fBMSDuHm1OzcZaEw1b1hhyFCTSLYfMfjj4vrF+nsGeo0uq
+1+Dj7gSdI5lg2qRUPka2K7vsdTYLIpT3+DmduuQZxRjjlDNstK8zogrL0MAO2eS7
+aEDcUIwBLQbpwsjpuV6GD7ZLzdT66gMDaKpfvCVSCnJiWFeSH38q6lbfCbb1OvOn
+aAUZ9ynirWEYAmLIUWppUQYLT6jaYjNdJPHr/gDqnU4jdtKMv+uQZsic5NVJbriT
+dcwC0HFgfYqhuWCEN/pmN6Tb/8sAnj0nLN61rUSVT4f0GIODN8Vu3MYELQ4bZs6Z
+QLxsLcaFlBIrvlH7/iCyxwY3QbTWVbJMgiYy329W377t7WZC5RU=
+=BoC6
 -----END PGP SIGNATURE-----
