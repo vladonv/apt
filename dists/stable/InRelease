@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Thu, 16 Jul 2026 16:23:25 UTC
+Date: Thu, 16 Jul 2026 16:43:01 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpZBX0ACgkQSMjV5ji9
-inwIkQ/9EH+fH7iwP1pPNMgfBlp/syEoNHfe5GELrAo3n7xc8a0bn0tSm511wgUc
-IiHhRaYm8zFKSu1xiLvwa5Beo6sRic+TWNUE2kytoBuU/jKu6uM8y9jg2/tLCfeR
-Y/cJXlK+Wj6U7o7xoAfhwZaN/QLuAfuoLeg0R0TcDvmcQZQKVnNncy/vnqvVD+SB
-w1AwqE8Xy2q0CAoVjYmJYBpi3sgGNMDetqCXpyfP3wGVt6dsuOx8SXwBgKixPGui
-wsfraf+BdlNRM+8xxYOlcbib6cZ3DW8H6vBCG0ndViIcy5Zoe2NW7qndNV45TOTU
-3N34MSV31gGbfkIvG5SFvpQv9x16EIpcsrf+aqStEcFSv5hXJgdqQxg6X47NEjDA
-lQmKIT0sK3PeOSKCSXRlvdiNz7Y+eKpegd6MlRQyIVHX1x+CNbe+EOiMiPAOT9yP
-ZcSOLi4ecErF9eaRxb60YcAQczx98KNS7azd8Tow2tQ1MTrvpC/AWq3ZmLVwrB2x
-jTRGuhNXoqOT344By3f9bPotbTzZ9IBZS8RFFlN7szaN+3Gtj53Z6vVFmci/CPny
-K5p3CWZsHAZPSrCQYMvqhSSpqUB6LIkIWFHQLvzxZrC3nGQ91a+ffzMJr0RWRNbM
-GQZVqArhGSW3gVklSQfRuIuAZ57Lb2dqbBekZsqJVEjS2NZa13I=
-=kOAS
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpZChUACgkQSMjV5ji9
+inwR/xAAlr/Zfwum5zE7p7cVgAE8bJpEIl7P61KBKvpsE0s6IIXH9T9XNalNTrsu
+vvEV0WUdxG8vW6yoHOcULtk5L1sC6J5MLf/ppL8KT/aXP1Yq3yyHNMg/EPxdrwQt
+1MOq3SurXnmbrbwBFvhqy7kJcSizD3wmn0RfvRozrAQ7YmYGNIBtvXoDR5xCnB6Y
+dBniuCyyduTFMb1T3cFUUGKudPgGmUFlBLAYYHVYUKIOUcX27HcmY9YgOP+Je13M
+JacwonMzDNDNUbZxTse17P76LhhX1KRv0l3MxKELhqcepHXt+hwdKwAB7s1K9yUd
+wbqacJU2lQGxo7jDr4zVmR5QgXzO4bMCjTgy5xT8YY9/2UJxCr3m5JUeiOjlgfiS
++o71+esvj2D0dHLR7voOx6zz25DEINz1f815elVvZvkzwH/Jqh/7Pe2GVvGZI/Dc
+xZta0MRGvYgtFiS/DWMO6+RzSoJfP56R4eMTUCZScURZx2RSvct05eEnpmS9wIy5
+9fWQV+keqmUmYecq7/MWK621ZdcOnjzorq7BWcKRUPWapiJ+0KDYfsqukekTpagR
+qgeJ3kuYniz/LXJ0cQ5pmYAfbioYVbWRBoC9aDdNSL3RuH8+rTptYmJheYbIvEYa
+nOS4nordSiWFGR9xBPFk4rlfKRYOuwh0Yv/PeR/j2oRn2YFXHL8=
+=TSMs
 -----END PGP SIGNATURE-----
