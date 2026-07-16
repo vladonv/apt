@@ -1,6 +1,6 @@
 Archive: stable
 Component: main
 Origin: vladonv
-Label: MonAst APT Repository
+Label: vladonv APT Repository
 Architecture: amd64
-Description: APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
+Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
