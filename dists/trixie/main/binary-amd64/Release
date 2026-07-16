@@ -1,0 +1,6 @@
+Archive: trixie
+Component: main
+Origin: vladonv
+Label: vladonv APT Repository
+Architecture: amd64
+Description: vladonv packages for Debian 13 (trixie)

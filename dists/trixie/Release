@@ -1,20 +1,20 @@
 Origin: vladonv
 Label: vladonv APT Repository
-Suite: bookworm
-Codename: bookworm
+Suite: trixie
+Codename: trixie
 Date: Thu, 16 Jul 2026 17:19:53 UTC
 Architectures: amd64
 Components: main
-Description: vladonv packages for Debian 12 (bookworm)
+Description: vladonv packages for Debian 13 (trixie)
 MD5Sum:
  34f443f650b541e2004c623e10a363ef 4894 main/binary-amd64/Packages
  517f5ec5b029954344a81d3b50ea4743 2114 main/binary-amd64/Packages.gz
- 80566405eff5df364a4e5da78bfec740 155 main/binary-amd64/Release
+ b80b2a260d7f3c849a0e1752697ed2fd 151 main/binary-amd64/Release
 SHA1:
  8ffab69f709c3528d5f98d3da49238ee0ef04677 4894 main/binary-amd64/Packages
  fac1422d18e920b71613377e6ec2d79ad209c344 2114 main/binary-amd64/Packages.gz
- 782b6b06b789cc45225c09cdd47db589585471e6 155 main/binary-amd64/Release
+ d77a8ed44129409b7a292eeed1bf4ef594c269ed 151 main/binary-amd64/Release
 SHA256:
  6db27c00a7028af734300dd2cd693ab3707d37cd9a8acdc85d8822ee6dd6bf03 4894 main/binary-amd64/Packages
  c1f4afdd52a4f6821d2d97376118686edbb8d60afc8873041996c4b72e1cdef9 2114 main/binary-amd64/Packages.gz
- 75ad2a337149c2ff8ce34ce4d7699ca7ba2f6b0a953c566f41aba8c463c4b780 155 main/binary-amd64/Release
+ 9e9aaed9341699f253fc3083c2f84d3d7a153164994a86da0bd63455718dfb7b 151 main/binary-amd64/Release
