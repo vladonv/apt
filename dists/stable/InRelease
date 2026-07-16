@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Thu, 16 Jul 2026 16:11:09 UTC
+Date: Thu, 16 Jul 2026 16:23:25 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpZAp0ACgkQSMjV5ji9
-inzIdBAAi4PAL1JGVHqv0NQNwvTaAhPPuJvl5KGYiJPUC/DiOJXznFjVuO+cJ+tG
-iD/2B6uSRHqLlp+vNb5s9MDU1wBcGlD6Mhq7g5lQOwn1yMZFc5m8LmjRyfMDlwlE
-ZZQhfRJmGa/2yufb7dZbzZNb5IMD9p5qOzfR27CXRfPfxcJcr+FL2NYZpn2dFZgg
-vAXSVG2ZgNilC43rsZCIHdw6siBoJrTKoU8LD5Qq51SrXx2fgIWcwQwFIfA2NHag
-Db8ZZ6XvePhkttFYqT7GAUnXSqCDtdAab7RXZydsuwKQWHmu6ITtAP7R1J4lm3sB
-yaL1UM9plMF6FyXXHaDIsaqLmMSrAO7RDB9GtM1rAZ0nfhDa1lD1BWe4EbUeHVz7
-ZWaYJ6AcRVbn9mVU/YQMtPzFPvdfGZ7CbzQ9+zdu/izRk/m+aYJ32s7mQ5DFwotw
-0LFQfNjzZ4OOtcuqAQt/u858H3dazqCVVm33nP/ZaWle/Uxmi1sK13qcOBbbuyjU
-46X/GrGTSV/cOGws31D55gTmZSZEssFxyE5xtCaNzRzzPu73zHeWGT2JGA8Yn+CL
-JWIyi8NpKk5Q/9OjRHjBKB+wmMSmwtF9oMaF1tAHyit2grsoWZtXv143XbzXlSNr
-flVxH2YDqptS5pffdazYa4/m/ZCftzkHwIXwbgPMkKkN/CHfx+Y=
-=R+KO
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpZBX0ACgkQSMjV5ji9
+inwIkQ/9EH+fH7iwP1pPNMgfBlp/syEoNHfe5GELrAo3n7xc8a0bn0tSm511wgUc
+IiHhRaYm8zFKSu1xiLvwa5Beo6sRic+TWNUE2kytoBuU/jKu6uM8y9jg2/tLCfeR
+Y/cJXlK+Wj6U7o7xoAfhwZaN/QLuAfuoLeg0R0TcDvmcQZQKVnNncy/vnqvVD+SB
+w1AwqE8Xy2q0CAoVjYmJYBpi3sgGNMDetqCXpyfP3wGVt6dsuOx8SXwBgKixPGui
+wsfraf+BdlNRM+8xxYOlcbib6cZ3DW8H6vBCG0ndViIcy5Zoe2NW7qndNV45TOTU
+3N34MSV31gGbfkIvG5SFvpQv9x16EIpcsrf+aqStEcFSv5hXJgdqQxg6X47NEjDA
+lQmKIT0sK3PeOSKCSXRlvdiNz7Y+eKpegd6MlRQyIVHX1x+CNbe+EOiMiPAOT9yP
+ZcSOLi4ecErF9eaRxb60YcAQczx98KNS7azd8Tow2tQ1MTrvpC/AWq3ZmLVwrB2x
+jTRGuhNXoqOT344By3f9bPotbTzZ9IBZS8RFFlN7szaN+3Gtj53Z6vVFmci/CPny
+K5p3CWZsHAZPSrCQYMvqhSSpqUB6LIkIWFHQLvzxZrC3nGQ91a+ffzMJr0RWRNbM
+GQZVqArhGSW3gVklSQfRuIuAZ57Lb2dqbBekZsqJVEjS2NZa13I=
+=kOAS
 -----END PGP SIGNATURE-----
