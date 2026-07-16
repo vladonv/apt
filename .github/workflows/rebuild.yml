@@ -29,11 +29,23 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y reprepro gnupg
 
+      # Was a plain `echo "$GPG_PRIVATE_KEY" | gpg --batch --import` - root
+      # cause found for the intermittent "Could not find any key matching
+      # <fingerprint>!" failures reprepro started hitting once this
+      # workflow began calling it (and therefore gpg-agent) several times
+      # per job instead of just once: a bare `gpg --import` never writes a
+      # gpg-agent.conf or tells the freshly-auto-spawned agent to reload,
+      # so its very first state can be subtly incomplete, and never sets
+      # ownertrust on the imported key either. This action (widely used
+      # specifically for "sign things with GPG in CI") does both of those
+      # - see its src/gpg.ts: configureAgent() writes gpg-agent.conf then
+      # sends RELOADAGENT, and setTrustLevel() runs `gpg --edit-key ...
+      # trust` - neither of which the hand-rolled version ever did.
       - name: Import signing key
-        env:
-          GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
-        run: |
-          echo "$GPG_PRIVATE_KEY" | gpg --batch --import
+        uses: crazy-max/ghaction-import-gpg@v7
+        with:
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+          trust_level: 5
 
       # Add new source repos here as they come online - that's the only
       # workflow edit adding a project needs. `|| true` so one repo with no
