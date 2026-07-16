@@ -1,8 +1,26 @@
 Origin: vladonv
-Label: MonAst APT Repository
+Label: vladonv APT Repository
 Suite: stable
 Codename: stable
 Architectures: amd64
 Components: main
-Description: APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
+Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
 SignWith: CF6390500EFC824C52AA7DE648C8D5E638BD8A7C
+
+Origin: vladonv
+Label: vladonv APT Repository
+Suite: bookworm
+Codename: bookworm
+Architectures: amd64
+Components: main
+Description: vladonv packages for Debian 12 (bookworm)
+SignWith: CF6390500EFC824C52AA7DE648C8D5E638BD8A7C
+
+Origin: vladonv
+Label: vladonv APT Repository
+Suite: trixie
+Codename: trixie
+Architectures: amd64
+Components: main
+Description: vladonv packages for Debian 13 (trixie)
+SignWith: CF6390500EFC824C52AA7DE638BD8A7C

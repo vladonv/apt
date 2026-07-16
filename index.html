@@ -33,17 +33,22 @@
 
 <h1>vladonv/apt</h1>
 <p>
-  APT repository for <a href="https://github.com/vladonv/monast">MonAst</a>
-  (<code>monast-daemon</code>, <code>monast-web</code>) and its patched
+  Personal APT repository for <code>.deb</code> packages built across
+  several projects - currently
+  <a href="https://github.com/vladonv/monast">MonAst</a>
+  (<code>monast-daemon</code>, <code>monast-web</code>), its patched
   <a href="https://github.com/vladonv/starpy">starpy</a> dependency
-  (<code>python3-starpy</code>). GPG-signed, built with
-  <code>reprepro</code>, rebuilt on a schedule (and on demand) from each
-  source repo's latest GitHub Release.
+  (<code>python3-starpy</code>), and
+  <a href="https://github.com/vladonv/tg2sip-webrtc">tg2sip-webrtc</a>.
+  GPG-signed, built with <code>reprepro</code>, rebuilt on a schedule (and
+  on demand) from each source repo's latest GitHub Release.
 </p>
 
-<h2>Usage (Debian 12/13, amd64)</h2>
+<h2>Usage</h2>
+<p>Pick the codename matching your Debian release:</p>
 <pre><code>curl -fsSL https://vladonv.github.io/apt/pubkey.asc | sudo gpg --dearmor -o /usr/share/keyrings/vladonv-apt.gpg
-echo "deb [signed-by=/usr/share/keyrings/vladonv-apt.gpg] https://vladonv.github.io/apt stable main" | sudo tee /etc/apt/sources.list.d/vladonv.list
+echo "deb [signed-by=/usr/share/keyrings/vladonv-apt.gpg] https://vladonv.github.io/apt bookworm main" | sudo tee /etc/apt/sources.list.d/vladonv.list
+# or: ... https://vladonv.github.io/apt trixie main ...
 sudo apt update
 sudo apt install monast-daemon monast-web</code></pre>
 
@@ -52,8 +57,10 @@ sudo apt install monast-daemon monast-web</code></pre>
   <li><a href="https://github.com/vladonv/apt">Source (this repo)</a></li>
   <li><a href="https://github.com/vladonv/monast">monast</a></li>
   <li><a href="https://github.com/vladonv/starpy">starpy</a></li>
+  <li><a href="https://github.com/vladonv/tg2sip-webrtc">tg2sip-webrtc</a></li>
   <li><a href="pubkey.asc">Signing key (pubkey.asc)</a></li>
-  <li><a href="dists/stable/main/binary-amd64/Packages">Package index</a></li>
+  <li><a href="dists/bookworm/main/binary-amd64/Packages">Package index (bookworm)</a></li>
+  <li><a href="dists/trixie/main/binary-amd64/Packages">Package index (trixie)</a></li>
 </ul>
 
 </body>

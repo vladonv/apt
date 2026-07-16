@@ -35,23 +35,74 @@ jobs:
         run: |
           echo "$GPG_PRIVATE_KEY" | gpg --batch --import
 
-      - name: Download latest .deb from vladonv/monast and vladonv/starpy
+      # Add new source repos here as they come online - that's the only
+      # workflow edit adding a project needs. `|| true` so one repo with no
+      # matching release yet (e.g. brand new) doesn't fail the whole run.
+      - name: Download latest .deb from every source repo
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           mkdir -p dl
-          gh release download -R vladonv/monast -p "*.deb" -D dl --clobber
-          gh release download -R vladonv/starpy -p "*.deb" -D dl --clobber
+          for repo in vladonv/monast vladonv/starpy vladonv/tg2sip-webrtc; do
+            gh release download -R "$repo" -p "*.deb" -D dl --clobber || true
+          done
+          # dbgsym packages (huge - tg2sip-webrtc's is ~500MB) belong on
+          # GitHub Releases for occasional debugging downloads, not in a
+          # git-committed reprepro pool that grows forever across rebuilds.
+          find dl -iname '*-dbgsym_*.deb' -delete
 
-      - name: Update repository
+      - name: Include packages into the matching codename(s)
         run: |
           shopt -s nullglob
+          # Keep in sync with conf/distributions' per-release Codename
+          # stanzas. A package routes here by carrying a `~<codename>`
+          # suffix in its own Version: field (the standard `dch --local`
+          # convention - see e.g. vladonv/tg2sip-webrtc's CI) - no
+          # per-project routing rules to maintain here, any project that
+          # follows the convention Just Works.
+          codenames=(bookworm trixie)
+
           debs=(dl/*.deb)
           if [ ${#debs[@]} -eq 0 ]; then
             echo "No .deb files downloaded, nothing to do."
             exit 0
           fi
-          reprepro includedeb stable "${debs[@]}"
+
+          for deb in "${debs[@]}"; do
+            version="$(dpkg-deb -f "$deb" Version)"
+            matched=0
+            for cn in "${codenames[@]}"; do
+              if [[ "$version" == *"~$cn"* ]]; then
+                # GitHub Actions runs `run:` steps with `bash -e` by
+                # default - without this guard, one bad package (a real
+                # reprepro rejection, e.g. a missing control field) would
+                # abort the whole step and skip every package still queued
+                # behind it, not just the broken one.
+                reprepro includedeb "$cn" "$deb" || echo "::warning::failed to include $deb into $cn"
+                matched=1
+              fi
+            done
+            if [ "$matched" -eq 1 ]; then
+              continue
+            fi
+            if [[ "$version" == *"~"* ]]; then
+              # Has a suffix but it didn't match any codename above - don't
+              # guess, that's very likely a new target release (e.g. an
+              # Ubuntu suite) whose codename hasn't been added to this
+              # workflow and conf/distributions yet, not a package meant
+              # for every distribution.
+              echo "::warning::$deb has version $version with a '~' suffix not matching any of: ${codenames[*]} - skipping. Add its codename here and to conf/distributions if it's a new target release."
+              continue
+            fi
+            # No suffix at all - built once for any Debian release
+            # (Architecture: all, e.g. monast/starpy). Goes into every
+            # current codename, plus the legacy 'stable' one so existing
+            # installs (sources.list still pointing at "stable") keep
+            # working without needing to switch over immediately.
+            for cn in stable "${codenames[@]}"; do
+              reprepro includedeb "$cn" "$deb" || echo "::warning::failed to include $deb into $cn"
+            done
+          done
 
       - name: Commit and push if changed
         run: |
