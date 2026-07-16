@@ -76,19 +76,19 @@ Description: Twisted protocols for interacting with the Asterisk PBX
  a dependency of monast-daemon (https://github.com/vladonv/monast).
 
 Package: tg2sip-webrtc
-Version: 0.1.1
+Version: 0.1.1~trixie1
 Architecture: amd64
 Maintainer: Vlad Vorobyev <vlad.vorobev@gmail.com>
-Installed-Size: 75902
-Depends: libabsl20220623 (>= 0~20220623.0-1), libc6 (>= 2.34), libevent-2.1-7 (>= 2.1.8-stable), libfmt9 (>= 9.1.0+ds1), libgcc-s1 (>= 3.0), libjpeg62-turbo (>= 1.3.1), libopus0 (>= 1.1), libspdlog1.10-fmt9, libssl3 (>= 3.0.0), libstdc++6 (>= 12), libuuid1 (>= 2.16), libvpx7 (>= 1.12.0), zlib1g (>= 1:1.1.4), adduser
+Installed-Size: 77151
+Depends: libabsl20240722 (>= 20240722.0-1), libc6 (>= 2.38), libevent-2.1-7t64 (>= 2.1.8-stable), libfmt10 (>= 10.1.1+ds1), libgcc-s1 (>= 3.0), libjpeg62-turbo (>= 1.3.1), libopus0 (>= 1.1), libspdlog1.15-fmt10, libssl3t64 (>= 3.0.0), libstdc++6 (>= 14), libuuid1 (>= 2.16), libvpx9 (>= 1.12.0), zlib1g (>= 1:1.1.4), adduser
 Homepage: https://github.com/vladonv/tg2sip-webrtc
 Priority: optional
 Section: comm
-Filename: pool/main/t/tg2sip-webrtc/tg2sip-webrtc_0.1.1_amd64.deb
-Size: 20997576
-SHA256: 3c8c069cd108199d4badfea090ebfe0f025e82f3d43b60c43f8db56a2b4181ee
-SHA1: 108141a8e9df7c3cfc68f64dc908b1348d2f5f1b
-MD5sum: 49d597154a6e80267d7e8b09dbb2c725
+Filename: pool/main/t/tg2sip-webrtc/tg2sip-webrtc_0.1.1~trixie1_amd64.deb
+Size: 21621300
+SHA256: c9e4842c3fe8aacb6c000471b5b67694d3e8439f7d58147ba35d55854c8a9b46
+SHA1: 110e2b55e9838cab8ef91aa36577ddf90a60530b
+MD5sum: ee921eff6393bfa5c9fa243c18a3f694
 Description: Telegram <-> SIP voice gateway using tgcalls (WebRTC)
  tg2sip-webrtc bridges Telegram calls (via TDLib + tgcalls/WebRTC) to a SIP
  PBX (via PJSIP) in both directions: incoming Telegram calls can be
