@@ -42,10 +42,26 @@ jobs:
       # sends RELOADAGENT, and setTrustLevel() runs `gpg --edit-key ...
       # trust` - neither of which the hand-rolled version ever did.
       - name: Import signing key
+        id: import_gpg
         uses: crazy-max/ghaction-import-gpg@v7
         with:
           gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
           trust_level: 5
+
+      # Belt-and-braces on top of the action above: force one real signing
+      # operation to happen *now*, in its own step with a clear pass/fail
+      # signal, rather than letting reprepro's own signing calls later be
+      # the very first thing that exercises gpg-agent for real. Local
+      # reproduction attempts (10/10 clean, fresh-GNUPGHOME runs on a
+      # dev machine) never hit the intermittent "Could not find any key
+      # matching ..." reprepro sees in this specific GitHub Actions
+      # environment - this doesn't look like a logic bug in this workflow
+      # so much as runner-specific timing/entropy flakiness the first time
+      # gpg-agent is actually asked to sign something. Warming it up here
+      # can't hurt and may absorb whatever that first-use hiccup is before
+      # reprepro's own (harder to retry mid-export) signing calls need it.
+      - name: Warm up gpg-agent with a real signing operation
+        run: echo "warmup" | gpg --batch --yes --local-user "${{ steps.import_gpg.outputs.fingerprint }}" --clearsign > /dev/null
 
       # Add new source repos here as they come online - that's the only
       # workflow edit adding a project needs. `|| true` so one repo with no
