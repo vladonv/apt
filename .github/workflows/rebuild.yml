@@ -29,39 +29,22 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y reprepro gnupg
 
-      # Was a plain `echo "$GPG_PRIVATE_KEY" | gpg --batch --import` - root
-      # cause found for the intermittent "Could not find any key matching
-      # <fingerprint>!" failures reprepro started hitting once this
-      # workflow began calling it (and therefore gpg-agent) several times
-      # per job instead of just once: a bare `gpg --import` never writes a
-      # gpg-agent.conf or tells the freshly-auto-spawned agent to reload,
-      # so its very first state can be subtly incomplete, and never sets
-      # ownertrust on the imported key either. This action (widely used
-      # specifically for "sign things with GPG in CI") does both of those
-      # - see its src/gpg.ts: configureAgent() writes gpg-agent.conf then
-      # sends RELOADAGENT, and setTrustLevel() runs `gpg --edit-key ...
-      # trust` - neither of which the hand-rolled version ever did.
+      # Uses a maintained action rather than a hand-rolled `gpg --batch
+      # --import`, since it also writes gpg-agent.conf, sends RELOADAGENT,
+      # and sets ownertrust on the imported key (see its src/gpg.ts) -
+      # good practice for signing in CI, though it turned out NOT to be
+      # the cause of this workflow's real GPG failures. Those were a
+      # corrupted `SignWith` fingerprint on the `trixie` stanza in
+      # conf/distributions (7 characters missing from the middle) - fixed
+      # there, not here. Every reprepro invocation always had a valid,
+      # matching key for stable/bookworm; trixie never did, regardless of
+      # import method, retries, or call ordering.
       - name: Import signing key
         id: import_gpg
         uses: crazy-max/ghaction-import-gpg@v7
         with:
           gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
           trust_level: 5
-
-      # Belt-and-braces on top of the action above: force one real signing
-      # operation to happen *now*, in its own step with a clear pass/fail
-      # signal, rather than letting reprepro's own signing calls later be
-      # the very first thing that exercises gpg-agent for real. Local
-      # reproduction attempts (10/10 clean, fresh-GNUPGHOME runs on a
-      # dev machine) never hit the intermittent "Could not find any key
-      # matching ..." reprepro sees in this specific GitHub Actions
-      # environment - this doesn't look like a logic bug in this workflow
-      # so much as runner-specific timing/entropy flakiness the first time
-      # gpg-agent is actually asked to sign something. Warming it up here
-      # can't hurt and may absorb whatever that first-use hiccup is before
-      # reprepro's own (harder to retry mid-export) signing calls need it.
-      - name: Warm up gpg-agent with a real signing operation
-        run: echo "warmup" | gpg --batch --yes --local-user "${{ steps.import_gpg.outputs.fingerprint }}" --clearsign > /dev/null
 
       # Add new source repos here as they come online - that's the only
       # workflow edit adding a project needs. `|| true` so one repo with no
@@ -91,31 +74,11 @@ jobs:
           codenames=(bookworm trixie)
           all_codenames=(stable "${codenames[@]}")
 
-          # trixie specifically - the one codename that's never had a
-          # single successful export yet - is the one every previous
-          # mitigation in this file's history (batching, retries, a
-          # properly-configured GPG import action, an explicit agent
-          # warm-up, per-codename export calls) failed to get past. One
-          # untested difference: it's the only codename with no existing
-          # dists/<codename>/ directory tree on disk yet, so its export
-          # has to create that structure *and* sign for the first time in
-          # the same operation, unlike stable/bookworm which only ever
-          # rewrite already-existing files. Pre-create the same directory
-          # skeleton reprepro already produced for stable/bookworm, so a
-          # first export doesn't have to do both at once.
-          for cn in "${all_codenames[@]}"; do
-            mkdir -p "dists/$cn/main/binary-amd64"
-          done
-
-          # Even batched (one reprepro invocation per codename, not per
-          # package), a real run still hit "Could not find any key
-          # matching <keyid>!" on whichever codename was processed *last*
-          # - looks like transient gpg-agent flakiness under several
-          # signing calls in quick succession (all within the same
-          # second), not a real missing-key problem: earlier calls in the
-          # same run using the exact same key succeeded. Retry with a
-          # short backoff rather than fail the whole rebuild over what's
-          # very likely a one-off agent hiccup.
+          # Retry with a short backoff - a genuinely transient CI runner
+          # hiccup (network, disk, agent socket) shouldn't fail the whole
+          # rebuild. Doesn't mask a bad key/config: reprepro exits
+          # non-zero for those too, and 3 retries won't fix that, but the
+          # warning below still surfaces it plainly.
           reprepro_retry() {
             local attempt
             for attempt in 1 2 3; do
@@ -205,27 +168,7 @@ jobs:
           # Force a full export of every distribution so dists/ is always
           # consistent with db/ before this gets committed, independent of
           # any single package's failure above.
-          #
-          # One `reprepro export <cn>` call per codename, not one bare
-          # `reprepro export` covering all of them - a real run's "Could
-          # not find any key matching ..." kept landing specifically on
-          # whichever codename that single multi-distribution call
-          # processed *last* (always trixie, the one that's never had a
-          # single successful export yet), even after switching to a
-          # properly-configured GPG import action and adding an explicit
-          # agent warm-up step beforehand - neither of which changed the
-          # pattern at all. Not reproducible locally (10/10 clean runs on
-          # a dev machine, same exact commands) - reads as GitHub-Actions-
-          # runner-specific flakiness in reprepro's own internal handling
-          # of multiple distributions inside one export call. Giving each
-          # codename its own dedicated reprepro process for this step, the
-          # same way includedeb above already does, is a genuinely
-          # different code path worth trying now that the "just retry the
-          # combined call" and "warm up the agent first" mitigations
-          # didn't change anything.
-          for cn in "${all_codenames[@]}"; do
-            reprepro_retry export "$cn" || true
-          done
+          reprepro_retry export || true
 
       - name: Commit and push if changed
         run: |

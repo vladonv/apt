@@ -23,4 +23,4 @@ Codename: trixie
 Architectures: amd64
 Components: main
 Description: vladonv packages for Debian 13 (trixie)
-SignWith: CF6390500EFC824C52AA7DE638BD8A7C
+SignWith: CF6390500EFC824C52AA7DE648C8D5E638BD8A7C
