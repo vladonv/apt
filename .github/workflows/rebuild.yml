@@ -189,7 +189,27 @@ jobs:
           # Force a full export of every distribution so dists/ is always
           # consistent with db/ before this gets committed, independent of
           # any single package's failure above.
-          reprepro_retry export || true
+          #
+          # One `reprepro export <cn>` call per codename, not one bare
+          # `reprepro export` covering all of them - a real run's "Could
+          # not find any key matching ..." kept landing specifically on
+          # whichever codename that single multi-distribution call
+          # processed *last* (always trixie, the one that's never had a
+          # single successful export yet), even after switching to a
+          # properly-configured GPG import action and adding an explicit
+          # agent warm-up step beforehand - neither of which changed the
+          # pattern at all. Not reproducible locally (10/10 clean runs on
+          # a dev machine, same exact commands) - reads as GitHub-Actions-
+          # runner-specific flakiness in reprepro's own internal handling
+          # of multiple distributions inside one export call. Giving each
+          # codename its own dedicated reprepro process for this step, the
+          # same way includedeb above already does, is a genuinely
+          # different code path worth trying now that the "just retry the
+          # combined call" and "warm up the agent first" mitigations
+          # didn't change anything.
+          for cn in "${all_codenames[@]}"; do
+            reprepro_retry export "$cn" || true
+          done
 
       - name: Commit and push if changed
         run: |
