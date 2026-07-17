@@ -210,7 +210,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          KEEP=50
+          KEEP=10
           for wf_id in $(gh api "repos/${{ github.repository }}/actions/workflows" -q '.workflows[].id'); do
             gh run list -R "${{ github.repository }}" --workflow "$wf_id" \
               --json databaseId,status --limit 500 \

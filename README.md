@@ -11,7 +11,7 @@ curl -fsSL https://vladonv.github.io/apt/pubkey.asc | sudo gpg --dearmor -o /usr
 echo "deb [signed-by=/usr/share/keyrings/vladonv-apt.gpg] https://vladonv.github.io/apt bookworm main" | sudo tee /etc/apt/sources.list.d/vladonv.list
 # or: ... https://vladonv.github.io/apt trixie main ...
 sudo apt update
-sudo apt install monast-daemon monast-web
+sudo apt install monast-daemon monast-web tg2sip-webrtc
 ```
 
 A `stable` codename also exists for back-compat with installs set up before per-release codenames existed - it only ever carries `Architecture: all` packages (monast/starpy), never anything Debian-release-specific. New installs should use `bookworm`/`trixie` directly.
