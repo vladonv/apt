@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sun, 19 Jul 2026 03:53:58 UTC
+Date: Sun, 19 Jul 2026 08:33:06 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpcSlYACgkQSMjV5ji9
-inyYCA//c4A4OEYsRsZymhq2hW/K5g7EAPy8DIemkq9m5ojXMl5eYVVuTT5Cys9O
-j8oAbLdlf0xVTfWrPRb9+cMEgcacxKBLV3JGmFFop+lDpfDPHZVrw0MFYyefL0uL
-Kh9v2RDcuhiIW0EbHNhGhYm/FJAkNj6koNQmtAFDulvIk0Q5rij3/L43opPrzS5c
-XZtRgSNiVqGaJDVz+wLHUWiSDOAtnoqIcy8mwQDi08SzEPVHBokDtnPGJH7k9jH3
-t42wBpdFMionTg7tn512jyw4CTgPWhZF2cKkKadDU16oYUyrQh2x41NUVoOGJMZS
-J64Rz9DT7VdL0gP76JT4ufAtsyXWxGR6fgt0yMrURkvFKgclkWPmJtULNg1ZS3hM
-fWb0eyNLIOW4DSP9JYcVf/0GPcCU9M55Pw32lzKHJ4bUNt9CGcHzxESyQ41eRzKA
-KtPIF/x/vsLsbnb6WsG7aMxMSGw0Y4+VLIEtKtEcz/JX/19rrnyRZ2LpzD18Itq2
-jRP720oH48akqZ76ZwQRuKu0J5W6O4vAU8ZmseFLPDOAACK8AkXxBE4ruHfJjjtE
-BJbj/ixHLaISRr3mGj2nALtGWZJP9WN07aMYw9I3urH0Z8EsLI4uqQ1azWWrxds4
-wM6lswc3k6CAGLNx18+wPzC9PMut84d85bcD0f/XEFlfrM1vKYQ=
-=eFTn
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpci8IACgkQSMjV5ji9
+inwi4BAAm2r6DTijvTPPx5PRIjDER+sIki72zq9j6wy1pjuYyDH9AJytqCfqXacA
+MjnQaFEMQMuyzKjCJG+BEfg9RVzdO4tK1mn8nzMgoMnTvge3UrEPuw6mwqWWo3Ga
+Y3NCpzxkwkN8KVPhcaol9lTVbaJ+CYL6fn9g11FN8E0j9eukNJlrDIFQIf/c53Oo
+Gm5WtPbr8wx3ToYLR0l/600TweZvdl3ByS3gMdEORNo8XkwYF6j+1RbI2bSbHmgO
+TuVapBhrwUcanElo6iA6NOxxhtHBdZJ72AzbviKm9Rianfin2DzSUKEaMazEEqXf
+VnNNK9hsVT1W4oAGOyCBP2xA4wz31Roo/GUOQ2bbDiiIaYwa2APocIBuH/bwHX1y
+VWsw6if6zo3fD3NWPaJt2AL9xnEbzgOswZl3iy/R9YETqQ495Ze9XUbxabhI92E8
+fcncecrnyvC/pSRxJP1nYN8UV/jYUs92Wigv5sTGBM3F7a45Plvi2rfsR+wmp9XI
+5jMPIbkkoU1skLZ5L/5arjE0GtHJjoyIFMYBRmYCW9/K/F3wF13nYRuNiDD9c8Cj
+uIQdh3G5Jk6VMPsYoNdK3awL7Y5AyKd74eEN5GxZiRZEKVrByRo8eVuzNKHLdW7x
+S9b4wApODMa9zQBRNSWIc0XLj7N1J1JCX93pGTePoscceTxiE/o=
+=Exro
 -----END PGP SIGNATURE-----
