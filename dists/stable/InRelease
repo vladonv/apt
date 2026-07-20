@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sun, 19 Jul 2026 19:32:13 UTC
+Date: Mon, 20 Jul 2026 04:03:58 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpdJj0ACgkQSMjV5ji9
-inw4XQ//QQTvYGrSHSJbLjhIxCniZfvz6DWf6xtleEaUHD+ZqjcNOfOSSuDIKov+
-wzPy7wl+ztpbNC2S43GUjDhOYpumFRd2LfET6ubihsd2zM61M6zSH/xY7DVrszpw
-hBYHJ/cbNs1H3eEQA82FhxYPYFiJXewnk+2E3DLgHHHe3TY70n/JpDjT7hcXXjNc
-c+kCaed9BpWfvlE1XFYL02AiYkFiM7+WeDZ6eN8GBU/W00EG0qIJvhvIS1SuBJ3G
-mUm2eNwgA1zt3tHrWkWmLygEBXvEgXp1TXhs+l81ffgW5jstvcpt1R7/DcN2eRmj
-jRBqRGH8jM6rX+zhJrhmC9BZTLK2RbP/kZS8D/RX1OvSceV/kITcAv3E+DVMTzBK
-1artmgKuFCam3WdOY04xcmWSYqWfBoiihu29RHUTw0lRAeYryl9WcH3vwrslMznT
-jlcBs5qzqspSxxHLEYrzWTG70qbR5FHyOBVfq3BC9D1dh9NdPnLoR4LGv94ny1W4
-CFeGAz7o5FcVAV9EYHMg8un1kPfZCOGMfBZ1AH4oAFmRyN+egmz7U/PFNVcdh9SA
-DoCdqMqQ0BM2FiGURX5TmyWe+en83sqt6QkDKiqxR4Ta3him6WqbHGS9Em2Xa51T
-tkx9LHMYBtCsW3NkDFYKDjEMJpxyTM/GUPG4ny2r++Pxe0lrg18=
-=PXRp
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpdni4ACgkQSMjV5ji9
+inww8hAAvAhTO9DjWNu7qTU4fWrjl9FsWfPX3hnJRgJUfjgzX79zkCdCTg5sqPiw
+hxyEqX0jk/b9tOg6eZzw8YyMUxallUtfyO+/ExAzC4O2qYH3hfAJdT6GRhKYMKyy
+FEaqS2R6KB3PGAAspoQqRn/eeCz2bY/vcZds9hEniIrha/8udTL88zbHJjAmHi4h
+vhwxdOGveB0C71goCT36CmglkmDyogMoWs1/Fy6dzgcZDZMnqBdDMAEjUBfL2l8D
+PbtFxMXhlQfh2Y8dsQH0bfVer0LuVMzOfZIBhEJK/y41342KoEuty9koO4CSOtq4
+DL2d4vrhaqJ7Gq7lO/EfO7YZnblReKupfi19Ua2d/zrwSCj+guMLNjEnAYTLhQU1
+drYEbe9WfyMxUS+cwdJyES5Yy4wWn/taE0JczmqgB8Plf26HwcTPmJR1b6p4r1bf
+bpeNIakDub5QMtFIXrrcLxbelP/515322jWN/MK/eBiY3/efrEkIylALqMEECWv1
+awTFZL44eg+4k4HP3rRGuoob3O23zM1FQ/6JvSrg3yxpzWfadaFx17Sd7GMEUMWY
+O/bUqNEXw5JR9/W2ERbmXr9eqQTaUU3rug1PBMfoyTbpMl7ueT0196R29yHkLtTh
+9KCJDU9QPiTa44X1bRaJHe1Gzi56J6CriWSOms3JKCFzfYRXObY=
+=Re33
 -----END PGP SIGNATURE-----
