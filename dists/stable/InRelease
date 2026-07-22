@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Wed, 22 Jul 2026 08:43:59 UTC
+Date: Wed, 22 Jul 2026 11:12:02 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpggs8ACgkQSMjV5ji9
-inxigw/6Ax8255L9zLCTxf78mKvLb09KAz6+BhZO1yRzy7h7Q9NhsUcwCERQScZu
-xjPlDaxk2PjncM161zeDcZMZZb2S8xb5YVBj/Gfhu60Mnn+fCWRHXq5dGw/fi1SS
-7aif/P9gvjvD3tbjCwipMbjVOwqNDEGAK48MU5bsdbOgkmZB1FrIfz2vUZjIHNwP
-jGD92hCqezcTgxzJrpoE+E4Xju/6JLJMB0WScKhTIWySm7UTagdgnyh/yA79WWMs
-atouCHjjIpCjR3iL1mB28bt+YbePs4oEIuah32QjN5l8v3Vp1vDZaH2HEfpacTw3
-+tqgpSU+VEr0YnFpTrsz3J7Iqx+rmbkTU8cIqs00lmVOzGQs1uxzF9WYqzBQum1w
-5+PpGo79lWv0j+fYyfg9Jho0Ghi0XZ5VZKHOYfgYVPoKzYpNXcD6JqBxjNcBYHd7
-9cM/xS/9e+rlsuZOzS9ZCmIb1hu1yFOlmcemY29/LjD1R8vCx0nA3Ui8O1wSLT+S
-RFAUnHYGXfz8tbl4/vEmEb8iQD+oBDkK2EgcptJeOQOAq3lNWNYOjpQh0GVrRHC2
-qyAlzDMxmyAdN0zQHk2NwNYlU76ddW//Z4RCFaPwZEye4MuO+fdHzohfME1F+07t
-1QoAdFneI5S4EneixziXTGw6o07MBJbvXn/zf0K5JXRE1wZwtvo=
-=xo/g
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpgpYIACgkQSMjV5ji9
+inw4cRAAzpHSsTPIpNXhENoHmGJuvXwlkUI68i05NbwgB3X+/XCH4Z5LoxSHuksl
+KrTqgR9Jop1ldwPNTjCN3apwCxTcN5xOPKN7bTCWAorp3wekI5XMqZmPBAX6B/5s
+YAwdGpfcty/H0LcPTYKyVpX1rnTE4vMuYbA3t9pl4yB6YztX5znn4k/hmcXjPqVa
+hWlLm9U0ER9e0uZmOakKRb8J5/reh2sdDBWmfG5s2mTMhzEJLPAgMUAt4qWAyBrk
+M3U8GRpcrSPYKg18h3lXgytdkFVaXMLsbH5QGnRsGlCmlKmgDrDtXRsE9YV0rCF3
+DGAZZl0HpS3e6XXu8k+5kgWWXH1rRxWhM1bWBL5M8wls3N3Y713xA18wuJoJkGSJ
+0pZg8fq5ze7cohKglGC6yOfc50qryO2rLmmPXROeKKigpmc3mIQ2my3TwNxR7gFo
+tDBDCD2aRMruoW06G58VUimnZqtYlkv2vko2vHvyTEOkTNcavrhDDBQyC2ShOAdL
+9WFixXlbUGPJiAwaKB8FvT30iIt+gf84LenfxK+5GIeqt0MKCTk15IjQ3QbPyxAr
+zfCmLNVXQNX28SfsBHMdUqD9zcePwhEmZTYJokPSmgbzdt0p3LEMaZUX56tj9vpG
+R94/keI/PGP6DvXNXYy1HuWUQdAzaheKqVGRfnWoYN/rcO6JfpM=
+=1UKu
 -----END PGP SIGNATURE-----
