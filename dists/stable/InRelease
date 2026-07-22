@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Wed, 22 Jul 2026 14:22:03 UTC
+Date: Wed, 22 Jul 2026 19:43:00 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpg0gsACgkQSMjV5ji9
-iny4Dg//XZZ9XfwhHtEPgof0sITFtYB/sy1ysYoqU0ajSMKGzBIkfw3vQu0qducI
-afcJmZRcOJB1HOOeai+WNPbXr/3H88UnQi1vX820ftYv0a9d0oyaH3JSC+7Ch7dw
-27EgWWCqjgiFGIbxBO79XtyXL3k2dVlAwbNqxCZavMAj+Jw+KoRHLid4GnkWV/8w
-gB/sxUIBBo6G6geTzyalpbqw/kGtCed8BVM5CBLX2sMJ5T8JpVtEHtZIPoQmytSS
-GCRG9FdbYwQpPq4yU4nOFCADPHn2nj1x0war9iXKDENBepZSPBE8+eNGgWJBCGwj
-ATE1qFN0rwEA2f3umJpVKhT2/DgpZccH+KawEU2Xm2TyLghMx6S7WonyPrMtMYUt
-olY9+mS3aKEybstQtY2mgbUQZdzY3W0r1bvPAAKlFi9dd76B76AfWVgOYqNQylSK
-Zk4vK0ASOZc+383NbP8nbQWWBhBML7SW1t+/NTPMK09Du4dCOmPShq3LaQkhPuj6
-1K5Uhkm6tgpXM40KFMUqH4Pb932AUG483zV7T5otieYHeR8xtF231zZamDP7Zsug
-N9xKoTj04ztjvXnLAAfmBzcyCf7nTOYZ4bgJyopjSVzJjEza1CTbBAur92UtRuC6
-LR1YD9s7oW+r/6SySyq5o+j+CIlOhzDvpnPYmOVthbGeW3yjawQ=
-=R3Ub
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmphHUQACgkQSMjV5ji9
+inw0DxAAtN07lEWdpu/OmROiRU4JnaFFVafmXI2l10iGm9FlSwSaVSt/ymsOq4rp
+eYE4xY1upTMTI//OcEf7ZzcBh3YGRhNGsu82aH1lKuQ7cbUkKj/QOOXAtaEgd9II
+ZowngDy1P2e6qrPG/JHYoHInYS3ui6TCugXZrN0x5cd6VTWyL7eZpNZsWjNXIMhT
+MgQDkIc0wOEIwI/3QjEVXZsz6BioNxMhXdP64rkWYyQlDGuBFzzicTK1pcNeUfei
+REg8WuXFV7u/UtRy/+OO2YlYEz9HvKW+EWulZ96ZSQ0j2VpTD52y6FwS/LUNafZo
+CgjzvMKmLBzmx2gXClm9CiGhrsRpEvv85zO9gtbbi2Xx/qbEVgKNxefswnjQWVY3
+Ce0eKjaTB1HX5KVB7fpQ1XW63x/+ZSxjrM0Vi8rR2CFJGKiGi0oYLHba72yapQli
+mt0h+bL5vxe2OWU8jZguBFE8w3cpe06/HxX77AyhM9Wi0LVzIcxuEDpwdBz8Ukhb
+03jFbAyJRTwFu+BzllNbY97cD4akGeXI4JEsa+3cxiZGMQKhkW0Jljvv/STXZtvR
+A+Er/pgooxIFW6emQiikm4/SAa3MsMvDV/qZfTCwTEaBqycq+17DGO+69GC8OxeO
+ldfWZz8Gd/izAqEWApTRA5jro/1V1DTLc4toV7TJ1f8D06RJpsU=
+=X064
 -----END PGP SIGNATURE-----
