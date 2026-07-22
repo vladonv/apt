@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Wed, 22 Jul 2026 03:45:48 UTC
+Date: Wed, 22 Jul 2026 08:43:59 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpgPOwACgkQSMjV5ji9
-inx4qRAAyZbbXi1gSN6j78kjug0SIL5PC7bHHBGD4W1P2FsaBs8X8TcH6Ofy0jl9
-TyjIGRUTmAy/u5OMbcPIUKQ07oeuYRHmWWrNuLyE9QZ0W+hiTimGJoJfgscCWpf5
-k/7gTERjVJYxweRtku68lHSmUQ7yOgX4fsPgbDBCkNk6BiozzVJj8KInXl4R6F6/
-s6ElDCY94DJhJLWfwx47P6ZOhkIRQ0PxFft4lJczt0J3a9yeBqGre/ZUAy5KiyzK
-cVXg/HHXZwC7xCKXyKidhH+XUtT0KQQtj3Lbz7tnJVhGRvx+0WsOJBhCTGjVLE27
-RU/n/mn7EkG23MPuiBMY2u3U+83XY2DlotCwk1MEypxv4njuTlgxdR6QIdeiHClS
-sLxwe9PSg8n/5FyG+WS+GXw9fwPKxm6bB4e55PK3pj1OMSyGyL88elSfb0lS3BTB
-JVNUrKQBaud1FLezoH10ab+cIXzdVkWqJdAPy1EZA6wSj5jDuA2qhMh7n5bi9C6X
-Xc59Ao0iLZcgqUtY1HRc47Sx3BtX8qoI0noeEJ3bfKD3RxWnIVvNmbvC8SmUHoGQ
-a67dp6ZrWlNYlSyVnhkY9zzsMVcZvcIzILVUxfVB6oomKTfdmxDRc40QLBDN3z0t
-ueOI5fiN9/XlPgNhlYJJZfLsh2cTowR4LiXLkeKEFz31ylVSkSk=
-=Ug03
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpggs8ACgkQSMjV5ji9
+inxigw/6Ax8255L9zLCTxf78mKvLb09KAz6+BhZO1yRzy7h7Q9NhsUcwCERQScZu
+xjPlDaxk2PjncM161zeDcZMZZb2S8xb5YVBj/Gfhu60Mnn+fCWRHXq5dGw/fi1SS
+7aif/P9gvjvD3tbjCwipMbjVOwqNDEGAK48MU5bsdbOgkmZB1FrIfz2vUZjIHNwP
+jGD92hCqezcTgxzJrpoE+E4Xju/6JLJMB0WScKhTIWySm7UTagdgnyh/yA79WWMs
+atouCHjjIpCjR3iL1mB28bt+YbePs4oEIuah32QjN5l8v3Vp1vDZaH2HEfpacTw3
++tqgpSU+VEr0YnFpTrsz3J7Iqx+rmbkTU8cIqs00lmVOzGQs1uxzF9WYqzBQum1w
+5+PpGo79lWv0j+fYyfg9Jho0Ghi0XZ5VZKHOYfgYVPoKzYpNXcD6JqBxjNcBYHd7
+9cM/xS/9e+rlsuZOzS9ZCmIb1hu1yFOlmcemY29/LjD1R8vCx0nA3Ui8O1wSLT+S
+RFAUnHYGXfz8tbl4/vEmEb8iQD+oBDkK2EgcptJeOQOAq3lNWNYOjpQh0GVrRHC2
+qyAlzDMxmyAdN0zQHk2NwNYlU76ddW//Z4RCFaPwZEye4MuO+fdHzohfME1F+07t
+1QoAdFneI5S4EneixziXTGw6o07MBJbvXn/zf0K5JXRE1wZwtvo=
+=xo/g
 -----END PGP SIGNATURE-----
