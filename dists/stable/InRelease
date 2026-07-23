@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Thu, 23 Jul 2026 18:43:54 UTC
+Date: Thu, 23 Jul 2026 19:45:53 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpiYOoACgkQSMjV5ji9
-inxGXA//XxEiWT87oZVHph1S3QWhjbbDvg5SwvpSiYXIepXZoS+IryCviYNng7rR
-ZAcsQpEVfAGkJIiW5WqBeP1fxL+8PpdeU0VEnJFT9zWYiZQQGBi1KCbUXD5CFIoN
-EFoIezYBnv4OodA3pQtplPMPtoou8RlxiV0K6X+/ff531REton8KUz7iMqKEJ1hL
-K2MFKh3IzQ6GosZWXhkUJ+XLLdxgIdCLOzOUoSb7BhtFK1QqMkZ8svebY7vs4PIa
-yeVpYq/zXwQ7EO9SkdSmo3P/oYIDbaZnwNZiVjFZjnVxW5XbixfRkIbg/tpCbFDd
-wxve2KBaIHKQIkErBORzyRM29bBtr/asnhBpFXhPEcJt2proRx3FNqrUS6DEpJ79
-1ERpAUuOA8Ponb6LYPVruzuAn5MZ76E9jsa1OcSX+WxgXjZIpEynWVRLs5K2hBuD
-ZwqEtV+0Tjd0d5aRkhJadar7gOk9l0G4wQhyOr5bBpFLhHSoNiHPrBstNaHSiz56
-gsMNkBZK6vA/ggEtkcSBOqJkSUUAgP3QJmLwvo3dGMpVsXsEmu8dBV9Xj9CEbk0B
-AVkGrPwdptbUoxgjDtWk4ae+foTm0GrI+UV041hyDDGvKJ6J93SxxCJKVfRaODkV
-jqAEICGkpP3BUWoaVbshAqQ+1VcblJYSPLOrx2Zj22HmtpT2N8U=
-=y06K
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpib3EACgkQSMjV5ji9
+inxReBAAj6Aw9Av25Jv6EMRnEVRCOChtMGqWGg1D3KpF2GkZv6H9brqRsMOG1HW0
+6eyekEz6BdkXD/BGslDQAAm3cDe+DgaOMGHdWwtPTV0DW0NPe/5nF7DInLrZR1E7
+c0Zj3q/2XY0oGbUmcnAPge2XKg0tzhsWgOhlK5gdfn9ivET73RYL/qsF+UH97T1n
+CD8c6rf0UT7wqF4hKY9awiFI8QVstkXq50Sfa5f3PsY0lXgWoAHcw8Gp9H2aGQnl
+5safEBvLUtL8b6gFehb5eq+sVJqTYT9YZRX23FUOCpVKJDFU1Aiqs7sLUZRibU1Y
+IkEXsF3b0FFZ1y6NH2akDPxSqFo8Ikk7hixZNfXFSIVt4Q/d6g9QpqJn3pAkpTpf
+2qReiaay/wAR9maA6CEAh/B9eO1muLk6gR/aYu7vuKHFffFe0IesAsEbU6SZnucu
+yGMh6Cx3XqvOPIKhuJDkrMiS2dQzsDWISSM1Dx6j/yYrLjj+utJk8RoBLiTZExAH
+4qsbziSmXrmCTojLkJ0N6rdPtvBdZ5mhKvgDPDFHzEOqRfjU/sP3XB5TofCEBeTN
+d3Ajv0QQJl0LUUqoRb4fMmyvY2uZg/SLvjmUgJibDr6T3BNkXVPgrYN67G+WBdOX
+s7mK3WIKCdgCm5+tMnq2WHrbrWmV3IY0ARwGflvDZ+QchcnC6pE=
+=mN6B
 -----END PGP SIGNATURE-----
