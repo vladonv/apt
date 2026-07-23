@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Thu, 23 Jul 2026 08:44:47 UTC
+Date: Thu, 23 Jul 2026 14:30:59 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmph1H8ACgkQSMjV5ji9
-iny2Gw/+O8H1hX6eImDUyGNICO/4Pe/daQbkAGXl+dBx1estCHlrBpeicqwGJxUN
-pIFZ2zvlRBVApmcTNEezm/Nv1xGktraFilfbs8NkHIxlVv7D58NQhOHS/nqpoWM1
-tM6UIsDxlXJGjIy7VrqKbqlYI9vKlT9rAPyinzOfr+hJyUZHzHJq+p2f1e5a+usU
-ecWLYUCT2uhGtZ36Z0+7m/34bstmTVvdwWlfhMkIRlb61JhokQ4t0aqKMC5rMP0b
-M/ynfhqmf7/ubj/xslCHCG+mpchJjP5id9ZhbLdwHvPdzZdAASCSpH4ybHqCxiZj
-Q058OhG7r99fkxrgg9gfE9ZHjkpgYCEgXPXTUJbny2tMu3kNgkXiozpHFdnPrHJt
-z3OSdD85OrpH1GYPj7Ys2/vbJA8paV2PL5qxK+RGdZDNrd17twCRw7eZ26rqTBq9
-OMMfu9ENrcj/UpD72/qCkoTqEO1rzFA7i4U1+ndWjMovqmpMz/dLye2+BtfbEQx8
-veAjKdJWH/zPtP4y9or1sYr1yFD3EQmQPZrkUEZa+HolmsERavDZomSx/n3o+1ib
-XcjV0fjOlgcPNgQcuunEvQYf4npMFwdFv/J6ILrne5uQ40+pIm9vqkysP8LGxXMJ
-DgRGcSV6t8WK3sMw3ezIV5sghBJbzrzu3h+GirD0UeuRv8Gebbo=
-=zHSE
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpiJaMACgkQSMjV5ji9
+inym3BAAlkvrLek4xFCOuFTWLEzyHJqj+wVqlfnb2u99o6QoVLRZBbqVDdULoloQ
+X9QldXMUCXhrhj9YwpaxZCPPMVkWVlT4AJve4m0FcdcD9ZBoKv5HOuri5P1jucLv
+DjgaIYoW8NH7WJcQFogx2hYMLjw8JxIsuhOqVOosMAAfiIt+lWf1rgIrBcP97p6x
+49aF4bnFt6sKEtQG385bdsqNOCsUgcuUwDif5K2iEWfHNZygT4TZRmsQHzGkvmcM
+aiYd70+WMvIRUX+GvVWzDQi4ojdZPWc+Tc0KVLnx8qRJTTTcJjBNv3cJ+9ifPjh7
+kojqikhpb2yJWtn5KAXc/JsezbNqQH3hl8HPVQVo+A1QXRXJZkxOLKPJ+33CjdnY
+8xmcy502YKOL3OHeyPoMVy6igwg+/uvW/G+Fm8EYRcJamZn63Y+KxmPzlgB1V9Mo
+2W+p3vbWco5XIAEXCt03yYxl0KLRnDdpZ+rI/sSCxXOoCxWsi+bmhNcBQ/ScX41x
+gss0uSf32sJMMLFGdlXSTa0SvEW1qkL7Qtmc7xDkG5LP7wk1ZBLmTKrPvkTxV/Pa
+j862Re3kwSaWyktdLla5tBAjs1+HUFqOEbjyMNyk+yOX5tJ/b+DxJ0RrmfP7EyLt
+BBGUZmMCy0bnl5o6MfHi+2HlL93tt3I/XFHXdiGWezDd2Xv4HSk=
+=Yok4
 -----END PGP SIGNATURE-----
