@@ -56,7 +56,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           mkdir -p dl
-          for repo in vladonv/monast vladonv/starpy vladonv/tg2sip-webrtc; do
+          for repo in vladonv/monast vladonv/starpy vladonv/tg2sip-webrtc vladonv/asterisk-core-sounds-uk; do
             gh release download -R "$repo" -p "*.deb" -D dl --clobber || true
           done
           # dbgsym packages (huge - tg2sip-webrtc's is ~500MB) belong on
