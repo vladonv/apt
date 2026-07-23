@@ -10,6 +10,7 @@ permissions:
   pages: write
   id-token: write
   actions: write
+  deployments: write
 
 concurrency:
   group: pages
@@ -218,3 +219,20 @@ jobs:
               | tail -n "+$((KEEP + 1))" \
               | xargs -r -n1 gh run delete -R "${{ github.repository }}"
           done
+
+      # Deployments to the `github-pages` environment aren't covered by the
+      # workflow-run prune above - they're a separate API/list (repo's
+      # "Environments" / deployments view), one created per deploy-pages@v5
+      # call above, and GitHub never deletes old ones on its own (it only
+      # auto-marks the previous deployment 'inactive' when a new one lands,
+      # which is also a precondition for DELETE to succeed here).
+      - name: Prune old deployments
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          KEEP=10
+          gh api --paginate "repos/${{ github.repository }}/deployments?environment=github-pages" \
+            -q '.[].id' \
+            | tail -n "+$((KEEP + 1))" \
+            | xargs -r -n1 -I{} gh api -X DELETE "repos/${{ github.repository }}/deployments/{}"
