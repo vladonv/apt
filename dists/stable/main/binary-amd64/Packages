@@ -1,3 +1,26 @@
+Package: asterisk-core-sounds-uk
+Version: 1.1-1
+Architecture: all
+Maintainer: Vlad Vorobyev <vlad.vorobev@gmail.com>
+Installed-Size: 96159
+Homepage: https://github.com/vladonv/asterisk-core-sounds-uk
+Priority: optional
+Section: comm
+Filename: pool/main/a/asterisk-core-sounds-uk/asterisk-core-sounds-uk_1.1-1_all.deb
+Size: 85124162
+SHA256: c832411a0b5fd17c544e12c16b7cab60ff54dc1ea80aebf9cf6ed18b938c0e7c
+SHA1: 9593435248eba0bb26a4d56871add4be195e2b25
+MD5sum: 66684eff709f5bc9043e0dd8b085b259
+Description: Ukrainian core Asterisk sound prompts
+ Ukrainian-language recordings of Asterisk's core sound prompts (system
+ messages, digits, letters, phonetic alphabet, dictation, and Follow Me
+ prompts), in alaw/g722/gsm/sln16/ulaw/wav formats.
+ .
+ Installs into /var/lib/asterisk/sounds/uk_UA, matching the "uk_UA"
+ custom Sound Language convention used by FreePBX's Sound Languages
+ module - install this package, then select it as a Sound Language in
+ FreePBX (registering "uk_UA" there first if it isn't already).
+
 Package: monast-daemon
 Source: monast
 Version: 4.20
