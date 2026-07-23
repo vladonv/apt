@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Thu, 23 Jul 2026 03:44:20 UTC
+Date: Thu, 23 Jul 2026 08:44:47 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmphjhQACgkQSMjV5ji9
-inz6CA//UtX/x+Kutx0tGxxsdpnlmpq4sGmBqaOmXfx5Rot+82zUkBYISntXM+ck
-UAODglEcsCdl534y4kDIfTifact3zN1Zq2XRwXLVamrQsa7prIYOQqIdXWTprOkT
-vjojGdbr9CEej4XOtvvEiCNjE5Gs19Ok71nvhpJ8+qNewgRoof4GoxYVJhzACsVV
-XD0XAm9+6pSY3poIoipTlz46YjpDwkwp2jUGAhlME4o6BHAPAOkenwhUb10Edjgp
-JpI1smL5tAvSr1n0mdAEdcqc8nup3MBzcURAFl2up9wl/zQUn65SzSL7HC53i4rv
-Axx9vKf7V6+H4Oi8AMob5sTXkcbBuh/dvFNIDkq+i9ZPNjY3SdUxzdUbtqcA7ji6
-PTKVmxVTlwrhfJjOMKokfrU95Rs7L5vO91j4oWqE3egrHHtWXsmt7JKzVDEdWRky
-XLJ2WrtQPSjqN4Yz/kFfheeDWBJXb3jdpqj/oZmu/C7c45LdsK+xli+/aepm1+tR
-4rjA0GDCNPeGskNuIEZx2RAPWQJIMYf2W4CHyToBX7ho+MGJSSxVT8eWZq8P/p3w
-7FwWFVaWir/Xf5qY58hIXtKbCFmrAJsR2xWcrEtnx81iNvPE1OS4/QF/tr9Z6OoG
-xrZRpZEEe94Ag8wFAbu2HVoA2TiXkjYPST461BMg1/g3/L01UkE=
-=wxa+
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmph1H8ACgkQSMjV5ji9
+iny2Gw/+O8H1hX6eImDUyGNICO/4Pe/daQbkAGXl+dBx1estCHlrBpeicqwGJxUN
+pIFZ2zvlRBVApmcTNEezm/Nv1xGktraFilfbs8NkHIxlVv7D58NQhOHS/nqpoWM1
+tM6UIsDxlXJGjIy7VrqKbqlYI9vKlT9rAPyinzOfr+hJyUZHzHJq+p2f1e5a+usU
+ecWLYUCT2uhGtZ36Z0+7m/34bstmTVvdwWlfhMkIRlb61JhokQ4t0aqKMC5rMP0b
+M/ynfhqmf7/ubj/xslCHCG+mpchJjP5id9ZhbLdwHvPdzZdAASCSpH4ybHqCxiZj
+Q058OhG7r99fkxrgg9gfE9ZHjkpgYCEgXPXTUJbny2tMu3kNgkXiozpHFdnPrHJt
+z3OSdD85OrpH1GYPj7Ys2/vbJA8paV2PL5qxK+RGdZDNrd17twCRw7eZ26rqTBq9
+OMMfu9ENrcj/UpD72/qCkoTqEO1rzFA7i4U1+ndWjMovqmpMz/dLye2+BtfbEQx8
+veAjKdJWH/zPtP4y9or1sYr1yFD3EQmQPZrkUEZa+HolmsERavDZomSx/n3o+1ib
+XcjV0fjOlgcPNgQcuunEvQYf4npMFwdFv/J6ILrne5uQ40+pIm9vqkysP8LGxXMJ
+DgRGcSV6t8WK3sMw3ezIV5sghBJbzrzu3h+GirD0UeuRv8Gebbo=
+=zHSE
 -----END PGP SIGNATURE-----
