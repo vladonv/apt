@@ -2,19 +2,19 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: bookworm
 Codename: bookworm
-Date: Thu, 23 Jul 2026 14:30:59 UTC
+Date: Thu, 23 Jul 2026 15:35:09 UTC
 Architectures: amd64
 Components: main
 Description: vladonv packages for Debian 12 (bookworm)
 MD5Sum:
- 2d3e2e37a3aa8ad19c94ebdc3b0d7803 5044 main/binary-amd64/Packages
- 54fb82c3e9ef9278e281b4760f9debae 2150 main/binary-amd64/Packages.gz
+ d9713243a3296ce13da77860a0d5d244 5044 main/binary-amd64/Packages
+ e288a4cd92cf8437ea4194c87d5d75d3 2149 main/binary-amd64/Packages.gz
  80566405eff5df364a4e5da78bfec740 155 main/binary-amd64/Release
 SHA1:
- 9e28746cb39e9d01a1a16deb3ea57ce78f9625a2 5044 main/binary-amd64/Packages
- 98bf90f2989e6e5ac9528e97ad41f74e02f15979 2150 main/binary-amd64/Packages.gz
+ 90b03ff3923e543210aa89e350fed6f3b0f9f74f 5044 main/binary-amd64/Packages
+ d10fc522782ff09f092bf2d69278434654bb4964 2149 main/binary-amd64/Packages.gz
  782b6b06b789cc45225c09cdd47db589585471e6 155 main/binary-amd64/Release
 SHA256:
- 15834db5540876c5c6d9d24de0528ac7578b380ed8ead53a60850e900fe3b74e 5044 main/binary-amd64/Packages
- ed7f177eb405ce9069e3dd589f04bfaafad26060965f782d0ccceb51703115bc 2150 main/binary-amd64/Packages.gz
+ 34235c69c8f18dee070d31c9b81fa9aaca0153c0c0864b19757b2c90b53f5661 5044 main/binary-amd64/Packages
+ e3d924e05db3749ed48341d7fe074971f92d0f1ebbdc5f4afbcb02f620de3c5b 2149 main/binary-amd64/Packages.gz
  75ad2a337149c2ff8ce34ce4d7699ca7ba2f6b0a953c566f41aba8c463c4b780 155 main/binary-amd64/Release
