@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Fri, 24 Jul 2026 08:42:35 UTC
+Date: Fri, 24 Jul 2026 14:12:29 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpjJXsACgkQSMjV5ji9
-inzKLg/+OBDO/uVZEkSv1P1DpovhkmKa07DBMTIx862Lx8RcrxvxVz9ybEevnvmx
-nAYeIEWCtarSknhfwcwMPY9m+Wf8E8zGF7n+egvVCKBXCC/p5192pokdrFIwqWBs
-1rTh7fvS/vk57PariEXWPwAKa+CbQnSnaQBsWlykmFSq09NFFmEEduS5wE9IbeH7
-qNUKfFplfmYYRUQu/S7j1bEORAmdbGH0lTgQUmUKullJZ9a/ZeJarDdwmlatgrmj
-9FVftrjGbZBaBn7Rb6PLT/fT7C4Ef/9ndMFJLhkzSqGVuKEAhgLUzczg3otNs52h
-g78sd6hOPxuvEMBcxRBfKbvo5YZDJIKAYsYc25qEUdiPiXbERehRtaghpcxuDyN7
-ukVlkV/VpvYle3dGR4yobrrtiFtsWzzFJJMdFPdAqEdFnRg1zCgZvWpJwUwa4EQ1
-ucMjFdbxBEAcmbxzQxwXmRdZlKgEReMK/KdNYtJMejo77b69RbjOs5X9PJluLv3M
-VTwji1qscIPEDf3WRsbu1kw1aBbHquoDUoV7qGQ1dFHlxKpf5pgJxuSnGb+sXmH8
-cbC80K4iXBSS6FlRbU+VM1R+kmct4HgYWOQX34nimsR0VShdgArLo7e9u4NHAWy6
-jvc/O+AIIv+fgGTs3xPfUQ6G/VFa+k2SMv6jo6zFXcZI4GZkzKs=
-=IsZw
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpjcs0ACgkQSMjV5ji9
+inxkIxAAh7Ox8b1Mk1Ad4VeNJ25N1inY7Ltp5S3lBF/tVqX/MS0LPtwomoSiJgL5
+XZBo6n5d8Ea4oNGgS5T40mynJZyDioJPA5wUAUcd6Mg4fuTjnkPuI4a6//5wY408
+x0mKXnCmyfgSc4443npxtinPj8yLFrmye61O+lPJ6mpMYqJI4Vvc8djBFc6dzs0g
+m734Rbli2H0apF1INf7oTbFFw6uHzUvGkNAuv4gyRSePVDkK0ipuksN3eRhTkWqs
+jdRgTYRCyqfYgBRbp0vmnybCr9Pldi3nic37k4eto0YLSo/UPhH7Ac6BimhGnaq6
+9kLO0iuMkDt3UwiQYXyqpXHIuzAVthYhAoqOL0V7nG6z17BZErjI7ibLz9qJvSO7
+cNxByBWH8ypHiVOFmOy0tCiWrCP5Uv4Bl4hoYjsFnLM6SIvH1zv1vWxXYNTlpygW
+npFcmWBfOhgM7dG2iCHatwYrWlwhl1u4LSQJl20fhH1mO9p8BeqeRWDGkao8AqYd
+1uYwMH/LR4HLsS2VJMaR7FFRYdPTFPi66Vc/fd6zKvlNMQzmkjOXbPC7oZ0z5UJu
+79j8FpentKCSyIRw3oczit08uqI3W/UpoHQA/mWz1qHxME1cETgdqcnrEaxpOP79
+3+pZL5r3lvq0QnoJa+YZpeFS3e0Vis231gi4kucAHvzohAPgxqY=
+=t80M
 -----END PGP SIGNATURE-----
