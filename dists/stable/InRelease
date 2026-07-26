@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sun, 26 Jul 2026 03:55:04 UTC
+Date: Sun, 26 Jul 2026 08:39:50 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmplhRgACgkQSMjV5ji9
-inxFJxAAwIrKDRVv/5bhDoeQVQvm6t6B4h1FtFslGz1nYa6a8b9Kd6qBwbnld+Lh
-9fM7swlOHEbE8lBTtzezXq8JA5/rXowgHdFIEjyC8edwNOvJdgx9+jji62LkNP09
-tsqjIx685QVpAByT7KSooDcwhqD2OFb+ADy+oq7di8AexHun5fhM7/OkNGAuML7+
-VPswnT1g/qKM5Z30AA4RsQ5OTAirCnzlLabQQzSezCvpmbfWqIbN9XAIXt0gQRRM
-XVJ4v+FULkBcDWWFoNY731gOwPwoVucdTiw0yUVlRDVJ66AqOZr/mUiKBGc9L36U
-6dWutXwXmFW2Kc25Bf9bswZd3rGBjI9kXbbi/x6djkzQvckmX5eYEuRIwgg33PX6
-wVZ91uYOxHJs5RW+LcDDSdNoxlEJjymDEOgMYd+puXy4GlgxKj+bpCwlGGg6AM5v
-omB2Nou59GwjBDBfrc76R3MNLnhuZyQj+b6rDpHQurcuqFeAh/Pu5LLzVvlRp58q
-yMwHTTmOBsniEI2X+8o2zRMFigwbm0vfCpYR14YfthZz/iXYGhdGSn4HBX/jwQ5B
-12pAJtqxsKFJW+8G/AInSYGrPuzPETK883yfGZay09KOo8eF5+6tUYpI73V5Zx7L
-bKe+TcYQt0++P0bun1APGLpLbfrKe5mXLBHnRRSUOnVZeieLAj4=
-=zw5A
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmplx9YACgkQSMjV5ji9
+inzRHxAAlxZodtQFdb0a72GGD04AlgF8ZgByEbyY9L8Ee4lehTUR5wXuHodTassn
+DvnoPWTwFkZkJbcuMdmF4QOdPGT4ie8WBfWoKzKcS7RrEr58a9odGLyhoMvjD6/H
+yP/86t/2xJCvGW26S9NWJOaCiYv01pHekmmDFYo9SHeTz/7RbMWPbnwliHGod5JA
+SRBA9Er5h7W7csJ1DcDWdlhMnVTSNi9L3Kvp7mI9BW+h4XJhZQBF64OpK4vYep1u
+1HCaNlw0VUQ2/FP+7hnBr7DlQ/Ew9dS7ZOrPNJgICBT/zCjMckWmjH/R1WJxeInh
+0v3fhxmHiH6O1TJXHbrgE9aeBPawFzAe6+Zigq0ka1zEJmibR2JutTlqtlAv/oXl
+FeAnbDkt/o7gKp6+XnpJinyLgukkLoMuA8w+ewdnwknfahvRqH/8w/6+S5coIb6C
+ieW07mCbyDWf/682kd0qymmprtuwmKO0Wy1u9vcjT/yUpWxSJ7AeFtWfzjNwD8Xh
+sWUuLobn0/fzfuJ1mau8nrPSyFhbUrzMKz0Ve9p0Sbobw4yEHGRVrG2y5Y6DiRPl
+O/mTE4HWnSDIB5409XGXUWFc6tmRwsVmLhPY7PJsPPiaghlZ18ZX39c+OLPDKLHR
+1YuaSdHVy1M+l0Q2kjD0Qrn8vnlC3wAjueApeWMXg0hTF9swyeU=
+=wWnA
 -----END PGP SIGNATURE-----
