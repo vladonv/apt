@@ -23,20 +23,20 @@ Description: Ukrainian core Asterisk sound prompts
 
 Package: monast-daemon
 Source: monast
-Version: 4.20
+Version: 4.21
 Architecture: all
 Maintainer: Vlad Vorobyev <vlad.vorobev@gmail.com>
-Installed-Size: 189
+Installed-Size: 191
 Depends: python3 (>= 3.9), python3-twisted (>= 22.4.0), python3-starpy, adduser
 Recommends: python3-openssl, python3-service-identity
 Homepage: https://github.com/vladonv/monast
 Priority: optional
 Section: comm
-Filename: pool/main/m/monast/monast-daemon_4.20_all.deb
-Size: 57920
-SHA256: c6569f4f59015c9e9c21b6360ec062835bcdb608b5572c573bc3b1295c853c53
-SHA1: a3e6bdc4c24e851af37a28dcabf41241de85d8cd
-MD5sum: 27ad43c39630ce7fba66428cafbd1ee5
+Filename: pool/main/m/monast/monast-daemon_4.21_all.deb
+Size: 58948
+SHA256: f1e09aacbffedb0fb2d2637f489c67565cb9b34ab9ce535acb953f1e5d31f121
+SHA1: 829567e6fd66375a7a72955437c0439cf53ac8a8
+MD5sum: db32a8960783ec5a662202fffe316b0e
 Description: Asterisk Manager Interface monitor daemon for MonAst
  MonAst is a web-based real-time monitor for Asterisk PBX servers.
  .
@@ -99,19 +99,19 @@ Description: Twisted protocols for interacting with the Asterisk PBX
  a dependency of monast-daemon (https://github.com/vladonv/monast).
 
 Package: tg2sip-webrtc
-Version: 0.1.6~trixie1
+Version: 0.1.7~trixie1
 Architecture: amd64
 Maintainer: Vlad Vorobyev <vlad.vorobev@gmail.com>
-Installed-Size: 95908
+Installed-Size: 95912
 Depends: libavcodec61 (>= 7:7.1.5), libavformat61 (>= 7:7.1.5), libavutil59 (>= 7:7.1.5), libc6 (>= 2.38), libgcc-s1 (>= 3.4), libopus0 (>= 1.1), libssl3t64 (>= 3.0.0), libswresample5 (>= 7:7.0), libswscale8 (>= 7:7.0), libuuid1 (>= 2.16), zlib1g (>= 1:1.2.2), adduser
 Homepage: https://github.com/vladonv/tg2sip-webrtc
 Priority: optional
 Section: comm
-Filename: pool/main/t/tg2sip-webrtc/tg2sip-webrtc_0.1.6~trixie1_amd64.deb
-Size: 24704200
-SHA256: adc8142f3bfc3cde4ae51e2406fdcbc22f4abde18e131637718191e477375ab8
-SHA1: 7ac1f6fdd8896f3e0fb3e4e07a939f7accc3d70c
-MD5sum: 3158dfaae89ba7a2f4af77a8646a7106
+Filename: pool/main/t/tg2sip-webrtc/tg2sip-webrtc_0.1.7~trixie1_amd64.deb
+Size: 24703420
+SHA256: b5fa678febda7d1358651e8d5f4c3cff2ab1d000050b12e5b21b041cd5b78de9
+SHA1: ceabe0358c51c21d44ee594920e6b64d84084382
+MD5sum: 83e3fb62182db8bf9ec5d0bcc187ff90
 Description: Telegram <-> SIP voice gateway using ntgcalls (WebRTC)
  tg2sip-webrtc bridges Telegram calls (via TDLib + ntgcalls/WebRTC) to a SIP
  PBX (via PJSIP) in both directions: incoming Telegram calls can be
