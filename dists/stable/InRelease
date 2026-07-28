@@ -5,35 +5,35 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Tue, 28 Jul 2026 14:36:52 UTC
+Date: Tue, 28 Jul 2026 19:53:07 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
 MD5Sum:
- 31637b228bcbaddfbc9245c377f5e1a6 4208 main/binary-amd64/Packages
- bccdf73b6ebff217b90b329f0f51480e 1795 main/binary-amd64/Packages.gz
+ 5ad81a10df6c3cd14c6805136a9c2609 4208 main/binary-amd64/Packages
+ 3414bd44b8c2f3fb682b2a85e5cfe225 1795 main/binary-amd64/Packages.gz
  285ab73bb507d2480d497f4ee413cae2 280 main/binary-amd64/Release
 SHA1:
- 88c6355544ad1231da879611b2a5f12dffaa9c85 4208 main/binary-amd64/Packages
- 3d3f6688196bdcb04d876bf51ee07ce64919eb31 1795 main/binary-amd64/Packages.gz
+ 175b5b74923c32a4f2373a3dec65b8a7ea2bff69 4208 main/binary-amd64/Packages
+ 6e10643150211b127ce83653588a39ed5e4c0b6d 1795 main/binary-amd64/Packages.gz
  b9e49f2f1c2e0cddcdaf4a721994b665612ef860 280 main/binary-amd64/Release
 SHA256:
- 50c1077694d76cd5f267919c75c43bb452815bae70098dcdaa9d12166de8bfef 4208 main/binary-amd64/Packages
- e777182fa7063c19e3d0aad6211e4785c1826a2d6a6813649978c4f14762dcdf 1795 main/binary-amd64/Packages.gz
+ c1f7f4f99731e168bdc0871393228cf5eb07d7f33e1597f8551984f08202341d 4208 main/binary-amd64/Packages
+ 87e95cb826762120c008ae11f73fefbe754798207cf2e423bc089139fbacbbaf 1795 main/binary-amd64/Packages.gz
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpovoQACgkQSMjV5ji9
-inxTGg/+K0ApMCsM3mhLhsALMpUA9vQMPtL1vlgL8HRs8jV1XYnWvwtBTm1hjC51
-bZ/catNOFWwfadq3l5moeApYU7SD28XcK/GP9dISmYuXc5+D6DEJ5fCU2G95sFVW
-EnbbKobW6Iry2qA3DCRWJ+UuABghnFcfwYcZIfJOKVMz2dNR4pk23WJe05JDkL1h
-5GgCGbN0/SCZXvFGsW3ZM8x8N5XaKhsGQkUbqqbnKbzhICYX0jc6C026VFwWINeG
-oeEEfsvK7OUqzGHKs5x77AfcEltK+lW0Zy0qYDkR0PXzMVKqzTHn48bnBwNsLZ4f
-CMzVSYzZbJFi2KZXnshJkZgloOMejv+DEK33ps+0/4C61hdGW4zRYrn5jFwW7cny
-vmJ8arLJYBQFyLRiuwkev4U5uHZDCojo9256UJF0JBDEV+HU8+zVeiIuBAxmvrZl
-hAV4mFe0IliCL1v/29pNoBF3m605bEQkhtG7Yzrk65ZvpkW9gdVVC94TPE2a8lUd
-66DGdJDb3Yw+JfO7P0ChzDiQhFzhDwwWbMAZYfD7lQZbQBKjv+RZkU7fHNyOLJ1l
-0zWt+86z32nIPWx71CrD4C+bU3QekbXNvrMqHPHxG94Xa46T5gbJc0l2ic5ZwIYC
-0Dlbc+9tpppXro/aQa6NQ/4HhgQH9xsD8XLnyk5MdcH6tRHxtAQ=
-=g7up
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmppCKMACgkQSMjV5ji9
+inx+ng//aRfPPgi3UYpEzVo5f2QuhDrHc+bnmLmF9rv5aencmL2o2QR/ETmYFdRD
+3n4/hbfuuJvNVNNcSvqOHNclKfsjHh8XJRLPY/v2IhpFWIn2UD1VuX6zZkbZ2x1I
+OOrP17u25qzLATgVBWGtFIQATlV+oT4E3xxgAFLMuV5CYFLcoD98OghXdYO/xuMY
+sXNJFAJAPeTO62JtzWOmwNkUm9Gh+paqVHdr9wQIR3VN31YGuSYhno0VakBHC51d
+9U8dXY5xXRV2CYvYlHJAbK6c9UbNIagcut4tKDqTZwZRb7epKc4x4LDBujIoJlF7
+1q4GGZTySp8YUkPJmtzdF+XkvNlMnBHOulUDoHmQ0po7gM+QL9LK+hRKF9S0Mo5R
+f3i2hJVJMLLKFYq1+TKT4M44uo/3u8oYIFnQ1R6xUEw+luO7xNbi2U8n2ON+ZkBX
+NzyUZI2+ninDSTsW9pWOXJc2QmRIWnn/E9bCYDl/kDeMY6Eb5sIHks0TMPxvDeZ/
+aRTK4RzeAdBxa9vlNRhqe0iH/PdV1kHnk1wMpAzbDFZgQxhkCwHdgSpRxGZMYJlu
+o0MDeyASw/Z9+Q+zg/xbr2FzcbDWRNMaMeYubtVTSoG5VqhiExdzEV0g2Ccl3/xd
+t1rQ1djRKtMyTljABr+uNSaYALh9xxhqzL+731/7IgACsoXsEfI=
+=mewQ
 -----END PGP SIGNATURE-----

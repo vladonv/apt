@@ -5,35 +5,35 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: bookworm
 Codename: bookworm
-Date: Tue, 28 Jul 2026 14:36:52 UTC
+Date: Tue, 28 Jul 2026 19:53:07 UTC
 Architectures: amd64
 Components: main
 Description: vladonv packages for Debian 12 (bookworm)
 MD5Sum:
- 4d8f659d92cf05b0d0986ce26ddd056f 6058 main/binary-amd64/Packages
- 416925e1beef92df29f06b5fcf908ee4 2559 main/binary-amd64/Packages.gz
+ a7d6eb8d628cbc4403f2933cd4b22594 6058 main/binary-amd64/Packages
+ 0c0fecca0f2f1537aa3972827710825e 2562 main/binary-amd64/Packages.gz
  80566405eff5df364a4e5da78bfec740 155 main/binary-amd64/Release
 SHA1:
- 1769b9045598216b503cc3782eb16539af944d35 6058 main/binary-amd64/Packages
- 8f4e012def5fe945de0b9f65bf853a95a540a35b 2559 main/binary-amd64/Packages.gz
+ 6bfd14701098f69b21e1a49069d78ddfe7873400 6058 main/binary-amd64/Packages
+ b16bcfb5d8ae4cd1863e653a8ac29f066283ef13 2562 main/binary-amd64/Packages.gz
  782b6b06b789cc45225c09cdd47db589585471e6 155 main/binary-amd64/Release
 SHA256:
- e3726f67631b0dde9b859017eb3b9ebf8d64ace1e053f55766b17502744a4942 6058 main/binary-amd64/Packages
- 9799fd3c7085e4bd2063dc3d53325ca37d42085f49baf56fc258ef73a588e272 2559 main/binary-amd64/Packages.gz
+ 6d2d430de873596c36d9a310fcbc7dea8c644c0f37e5ae23926279ede3b41dc7 6058 main/binary-amd64/Packages
+ edb4b1460b080b2d85ed9a66e921ea89d3bc7026beb233548989eb2db41bf40b 2562 main/binary-amd64/Packages.gz
  75ad2a337149c2ff8ce34ce4d7699ca7ba2f6b0a953c566f41aba8c463c4b780 155 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpovoQACgkQSMjV5ji9
-inwYUA/+MBHWpea/ispNfCwFLnT06j8cRQ4WKjnwGKj7q0biPfNgiXOvj8tkPGxZ
-fS0JHc+98yyy/42EGJ+FRF0qvGUp17vpsDnGUKVyOce83UPvn8STUqA2bgJOIG7f
-5jP0JlXG2aaQhDGZUWgClKryf3UTyCERnJHJFaG8Tqq0+elBKdBLgeEh2bplscEb
-h9uTTqTWryr47CAGp1M816qT44ZsHsgXG0+WPlxze+jNaORf/kyiv5iU6TZVm7Mu
-oVEMPQYLYd5TuYOpLGvMgbXoTELDzl+pvk0nHCa3B28DDM2mqxe+xZhHLNgc9Q5r
-/Qp8cztiY8CecU1hYH5DrIjRs/gnk0sRnRQS8DhFHtLOL8yPHa2ySZ1C5mmCsIk+
-bXS9rJO3G37V0Q874LPtkIukj3oJuVe7NaBjNPVkgrpEzzo/VHyAFPMKCxoP/tnX
-wYvJ4e/hRAzmkNCXzbvFygkv3/qRj94d63tGhGIEl6bwWp8JYraCHqXIjkjEcTPI
-lksXMYQfiH+aqNt8ReQkSrFZVCavJuDiCJjvauRvBSIprVZC0avUJWQcAUjp573L
-J1UVGNWgCrJ05QIkgRNOpk2iBdKxYc8y7QwtXVril5Ld2yaTm33Xy/nEDT+8J4SQ
-onGWN5G6wdHsPRTb0eVWqcqIYwsAbRKju/Yn8qmXVarz3KQ8L9g=
-=QUQG
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmppCKMACgkQSMjV5ji9
+inyJXg//dNLXnBUgfscdHkWfPsU7e0gNjoiONBY7FkxLsHpNBvedMmEeTXurp7bN
+AaNHttX9cVzswEe5Z6GAOJ/xMG+Xsu+KwlPXpY3Ro4lPn9tasfE+97eInQHhFCdh
+8GDQaaXc1bcllLDqEOlupUNCxxOPhx9wzaPM7wfnddXt0gVeLwuGJAhHlNYVbHbS
+VgKtJW43ANdeIie2FGymYJzBdrZS7bwznqI40NKCSMjqa6TFV3ztXvLOqMwgTcNY
+wBNaO5cj/7SYgwB7jBlU0KybHqXQAmHECl9EYK8dswM7hwL1fpluH2FbAqYzjveD
+pArOrNKLQZI4K4Tmy538Tp70PNBEbDLy3ZQd4UG7TjBxNa+gkfGBcZobdEa8KveA
+I9BYOf0Qkt64W9FDRSBEkAan0W7mUPCfAaDGi8+URkjDfNaSaijh15U7rAKPdysb
+xEA3k6TSi7Pra8XtgSuRja/JiH046lkFhF1FzYTxINLFsVyCUU/pZzR207iv1rwc
+apAbPUQKl55JENmatQiiWfTH178Gsi2Gxr4fa8YJUXx1hoiWdNl2noGnhNG4UziR
+dYFD8EsA0MgJ/dHnxCuvVYoYfD/oX4ZpNCILeJpb9xqOzgrxMSv0eB4LWfh6cJT4
+Vp53H3t8NGIA5Hw+fk4HdREUzp/RBrorGzpVU4s0M58rp5F6qQg=
+=dJ+/
 -----END PGP SIGNATURE-----

@@ -2,19 +2,19 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: trixie
 Codename: trixie
-Date: Tue, 28 Jul 2026 14:36:52 UTC
+Date: Tue, 28 Jul 2026 19:53:07 UTC
 Architectures: amd64
 Components: main
 Description: vladonv packages for Debian 13 (trixie)
 MD5Sum:
- da26c8ea3254d580b5157c3d26547571 6063 main/binary-amd64/Packages
- 8a604b7bc40c9d3c4bcc20858efbdab6 2567 main/binary-amd64/Packages.gz
+ a49362094b4e46e8ef1c90893ea86950 6063 main/binary-amd64/Packages
+ 60870e6c66c3e415dff8f9fc624c6440 2569 main/binary-amd64/Packages.gz
  b80b2a260d7f3c849a0e1752697ed2fd 151 main/binary-amd64/Release
 SHA1:
- bb3202c4255ea503cd1dff183cae73e3cc529675 6063 main/binary-amd64/Packages
- 1f6617e055df5b806f3a6bcdadae231c5e6ba66b 2567 main/binary-amd64/Packages.gz
+ f7a2ee63acb5aee100599f42dee6b133607044a9 6063 main/binary-amd64/Packages
+ b2c98c418781061198e32566a3f458419d6d5eee 2569 main/binary-amd64/Packages.gz
  d77a8ed44129409b7a292eeed1bf4ef594c269ed 151 main/binary-amd64/Release
 SHA256:
- 058968bccd586dde6a018e8cba86826832d61eac5194c2fcf858d91e95478458 6063 main/binary-amd64/Packages
- ec87bdc4c62c722b950a7b53deb02c2c7e8ee96edeeb49097af0075ba4d995b9 2567 main/binary-amd64/Packages.gz
+ ada50837ba48e2409ba016b2ee1098f8e1b17e351062e597ce332c7e4129c0d9 6063 main/binary-amd64/Packages
+ cd17550b81d3d3a7b1f7c8f6da7ba224354d0c766dd32ba7cf5e91e4f4704971 2569 main/binary-amd64/Packages.gz
  9e9aaed9341699f253fc3083c2f84d3d7a153164994a86da0bd63455718dfb7b 151 main/binary-amd64/Release
