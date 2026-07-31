@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Fri, 31 Jul 2026 03:49:15 UTC
+Date: Fri, 31 Jul 2026 09:16:09 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpsGzsACgkQSMjV5ji9
-inxiRg/7BSUk1wsafmKISUaPhXQA7/FdtYqDi/l6XcmnLBpwtYIR1yDTFY923/DG
-xpMew8DOxhJct+hGhbaMo1eNLklLdLG/WuqaObrf5LJ006plhrrZze3kwxqHkLst
-kcNceTSENEPHQfuBegr2AHXgcb8fU84luonRqG7xXfG3xRF4FTv7cgQ1auHId9Oy
-vVRPiQMHmxAcSEJkYPCPsUwk5wxoKnv+XSAG2G8L4T9t2UFORrECOcHzJhDl1zvl
-WaJ80bjyLRcMLmuhEnYLbb3htu4zMera0cjnOYXCuCfFyiNd2s4LAvs/IZlgriEs
-PWkGA5BCVn9ITaKlwDDX8EZEnmXSZ61lWTdCHYiMU/ksbY/9iOqeMYrvKqKUmDxU
-FXPVi3FhBowVXWO7EBiQHWotQSj5wttBOxrFqREXBJsrA1l0RaDYjsHot/J5KnvD
-36EeC2QYVucaTSzj3xZrktxWNNQGy+TkAWkhhTYsFKpliMkq7BONGE4wtl5uRHwC
-TVoKYZwxTr+L/78sOgydy6eD5ASBlR76C0JfoV6VrqCGdsPFZZcpvfm5lp2OGZ6P
-XlUy+hj3M4Myk8KLQb4BhreVGD/hRF2jKFHtVR3CovgYPBDPcYCk+gh38QWkF/l5
-x+eoBHPa4X2hAXulyRMNNSGG/turWSlShRDv1JI9N7C4ZERiSEc=
-=1JB4
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpsZ9kACgkQSMjV5ji9
+inx6Yg/+PJriuoL8lsSb7jIh6hiTlOnf1JViNJFbfFCLf/RE9D95VPzTg6cksp7Y
+E9gYqTzDWs0poV52OuhnqX+1/sbZE/hlbr92pzqBu6l0Uu8zzqF8fM1NqvAwl9Jl
+wjOYglNP1b83FTdM/VIUcLx1rvQvU8lq1RqemR1TQ3nr9d5KNv4nUaWYoT5ojX+B
+kONS/T3pIcxDk8wjLDyr7ZJPZiyLYyNFxCsbgkJbGq8lAE7qiQrE62c7ITK5JY+D
+hywe6h1vlVxk+uIqfjDV31aDE8NOxaQbm9oEMXdvPe7yCpRZVjBtAiTkqfojdBsR
+ikMenG3dG6jTYPz5MbJYUrx0fMgPhyG/IycQUGHyKMJkOwqsMaw/psdoeBhEi0PT
+hln5R9sV2Mg6eTftsuEEa5ODK92Uth+Ln+0QoCBIKjYA4hlCj5ed3pU0XVVaGd+J
+653TyopZU593fz/G3kfqEeDycFC5rbiY3gGQvC+q7kKG6wsA4FVsRvibswkeJUCI
+tf8sw8v7UfI3C5/xcPpWpG5lXmEf+fuDyvpS+aoSM2+KVuKBk6XGFWybGUt/Xd15
+hJeW8fYJUJcEqgXV8PWP4kMjwTvT0XMQUKzusryzgmJuEkHkTfEAOBpHXktyUzGm
+VqamBpeBJXTlCnqdywj6SB0ZdXbKWQFM9sI7U/jnzHWxUj7ebT0=
+=UEmv
 -----END PGP SIGNATURE-----
