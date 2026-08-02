@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sun, 02 Aug 2026 13:53:48 UTC
+Date: Sun, 02 Aug 2026 19:33:51 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpvS+wACgkQSMjV5ji9
-inwDow/+OsGgrLBSCvUbBsqvUADo3Og+SyElhhQSOAfUbMv2dfuaKhRyuHagBV9q
-ftARVkXlmAvO7TAMDnUkUTla2QsWW+0Ea3z22em1sZF5WZN6WmucaX2Reeq4Zo/y
-XO1vpBHECz48aF21lR0CMOQEjp6Nh2Ky+ieTLzzsGrSSLWHMaXcNvnt9tsxVmYfg
-b0cOCEqp9yKQxn55b+UPEQw6H8zu9xWNo+rFaGKcTzW4AeguBCVRqNhDJ7eVgQ8p
-uGffYX9rNvR3NIcu4U5gx/UpZrLRWlhraMh4G7RBWx+Gide1iWkRErGeVwYCMiSw
-+WM0BMuM9oEIpjIpN5w23KMe7Csnss2tBInsjxVsHzr3Hfs4aZhpMq+j03AhCGrt
-khR8ZBiCx0XXRbekjULm32loRkcWcg6HOtruW2uxOa3Etp53ex538MFpYUnYYDK3
-G1qsbdrSyyo+W86aNMpZ6sd/eBMecHjZ+SEd2afHwSvyhKSDoR3795lkRkkmnBYf
-O11aJO3+aiygKOvFka/aY19Yo2FGMdFvR9KIi89CYEORHYpjVuY7GnfK4XByck1e
-uFz/vGNSDllrfrS3QcZkw0xG6ux762yHreaQduF6mx1taZKL2PjIViUUzaX43kCV
-PrF7LM4j3pzG6qUtdz9OJk5UeRG3Z/GxGVb9AlywTM/YiGXGAVM=
-=9AoT
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpvm58ACgkQSMjV5ji9
+inyBDBAApA2yPfdrZWhhZasoT4r03N0+dVYc/y3hh9YWsG4HDNfhQ2dz5DecEhWn
+oTkrBVIA74LNNSyjgZSRakWpmOVpMK70P7Cm3GCD2KQ3kDsLWZPS/tqu2SamICRx
+E7LWglGtauQY4NY+tKVOtvr/tk4rtJN7wA8/4GR352Ioq5/t39ym9zwgSPeO3u+J
+oV8YhIbOFjCoowWGJBmPGxwxJ96ot7TSHRmZgcHnRIBqJYO2SZBRa6ViaithDbp/
+SDD2LFQSvfKOzBVS/JMwXjXpz5UT8Vo/aH5VpB6AGELqiEWXcs5zrqQLIbWdhW3o
+jIUx9UaZylRHm2Juai+GAI4poR77K1E9vX2IlFV6MT4Xhcy/aQnViWX4dsXZC3sR
+SW86Q9d8F1JtR1fdU/3QbVuW/s1p+ffTkvQ96oKpQyZdBJ1SRZRi+N9jA0l0WCwC
+A9UfOL96pfdxb70CibxDXujCJXbJPHTpafi61wuDGVMkKOtgS9V7hIo2KnP4TBUB
+IGuzfgyCiX6ATShuEDaGtGEwaQ58PlbeVl4uISQl/h+wLfQ2BWTlGaSUfynAE32v
+4b5RzspLYVaM/wZrduQBur915KrkVDCvGY10+/0o09d5caCvYL/Kz/KlAK/CSpUD
+RxL507wSkUYANayQGqlDMulFOpkdJT4+IXg/1S62GYqTPlV8enw=
+=+kud
 -----END PGP SIGNATURE-----
