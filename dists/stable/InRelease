@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sat, 01 Aug 2026 19:33:18 UTC
+Date: Sun, 02 Aug 2026 03:52:09 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpuSf4ACgkQSMjV5ji9
-inw6Qw/+OTbFSTwXn8zFLFBGkgmU5jOVu3dgAgNurb3BaJesuBJkjVbHLVxxFbZh
-QHHw87ySPlcrzJYGaZ9iyYuhoQ+I2n+8jUmJ5vyByVVlFK5rD7ow+hAFXHRp2ZYC
-dOKyZehLw4wlz6fZ0NNsD5c/dVLbiuaWvGWRNniCgxnfDBJvXCnAwBW7L2VSiZLA
-VRMuFtOB9XfoFkmLuoGma6BcpPOZx0jDwf8hLSOlTqV4NR5nUwsWPVCpS6e7xPJE
-0YDxh/YMYsBaZd86N2Luynm7rRPqJlaOvrTCL/plyWx43rcUF59YYZUdCL6CPol8
-WHt4U1bh5/AEKY3+OfdJA0oRLgshY0Zzrgdc3t0oE37+B0d0Ne3SvvL1H3Ub4VeT
-8iZJr+MSYv5YYNn1D6IiPG6zKTFpnZqF50sGwI5dEdkEPZ7dG5VaqnugXHCd2EYX
-5EIYBWxby2oVCEzdScCvMPTyhXVTnI6gm2kvmQ5KIe845LtMGaBwKXu1/cazHEZM
-LyM7mrJBhRV55mbBe2oejGIV9enE2U2I8WniSjfv5Y44xnNvhRnijpisyfFeTJi4
-BdBB2Fp6lGuL9m5wNJjRKBfVpX/KS237Pq3fskUPWub23Yb81XQ9qzd4mZ+H3d7I
-DYeI5ixblppGEF26edZurLwVAmbI1MpLlfMs77bn3SiC31QY8W4=
-=WP8K
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpuvukACgkQSMjV5ji9
+inzk4w//Ym9bDlgmb2kjKVCHicP8h51PUgSoldZrWpwmwMaUMUtqIav3+MIWBQ2n
+6/5Uv4/HkIY7jEzI6BKY4RzAlQyyy/S1sDtEFrlqW798PCBDBDe5FDavr7PIbPqv
+oLbzQoDJSUnuaW4RzQYMwX/UUVBrzRuIlLW0JqmifPAXwHUg34GIssylnXyseNke
+O2/rjpEfxTzHaAO9OE/GhmD5XCC5o0PAT3FSANjs7nfzmMG7XkPhnuuhXURBHn/L
+Vg77jZ/J+EsdtdbEKaUDwAAHibxenrWZv5j9bQ6gK5ghqsnAaC2jBdKW5sOwba8+
+0Qu0d6znNt3C7EAGjQggj70U7IJ8kWd9ewzUfJQ+bcDe6ejuDL5AkNs4mZC4ZVD7
+Qlrf7N6DZ4Ozza1O3IaRxB1+k2Qbst+VfeFDymbEF37hhQrm7DSofa9fIGsfccKX
+wrQRGvKzH+iNkY7Czmn8Q2fdt7zNQ/ISZ0yzQLJzOw8ctd/4V6cN4Vx2KjIGgnE1
+l8hvAJInvxawAfVqs598sbCpZ/AfqWeyNS+eV4hRVthLap3nSBj5Hf4wfvCydDuw
+kfBFZwFq/4RgNf/KHbmt36AxFqarKgZnU+DU+5GIK5jXGOmFk42uBwsoXuV4R+VY
+6YAnFD0PEIyJwZvVPlXjQT80tx+mdr1X2qAoWaDzPj56ZfhgFTA=
+=2nmo
 -----END PGP SIGNATURE-----
