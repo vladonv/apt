@@ -23,20 +23,20 @@ Description: Ukrainian core Asterisk sound prompts
 
 Package: monast-daemon
 Source: monast
-Version: 4.22
+Version: 4.24
 Architecture: all
 Maintainer: Vlad Vorobyev <vlad.vorobev@gmail.com>
-Installed-Size: 192
+Installed-Size: 200
 Depends: python3 (>= 3.9), python3-twisted (>= 22.4.0), python3-starpy, adduser
 Recommends: python3-openssl, python3-service-identity
 Homepage: https://github.com/vladonv/monast
 Priority: optional
 Section: comm
-Filename: pool/main/m/monast/monast-daemon_4.22_all.deb
-Size: 59302
-SHA256: a816b88874e470913f11a50d54bb9282bc71d66763b8b3b20c44fe9d7186ffd2
-SHA1: d7c8b2686c7123de1c87612ddaf404e750f987b7
-MD5sum: 0eac9ebd768d810b144fb62a35d4810d
+Filename: pool/main/m/monast/monast-daemon_4.24_all.deb
+Size: 63040
+SHA256: 20a1b88f7fa568e8d986edd378eeed9da5e6aa1b0e7537134c995c28157207f1
+SHA1: 21de243392418f068403dcd40898caf758ba3e49
+MD5sum: 9fdd00722a6d72d75e79c2ec4cd19f36
 Description: Asterisk Manager Interface monitor daemon for MonAst
  MonAst is a web-based real-time monitor for Asterisk PBX servers.
  .
