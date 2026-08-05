@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Wed, 05 Aug 2026 03:31:58 UTC
+Date: Wed, 05 Aug 2026 09:04:39 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpyrq4ACgkQSMjV5ji9
-inycHRAAkKIEE7Ff7FiUIs2Lg5T7tmnllGvak3ROBLz4aLh97HlgzkIupsOH3sBs
-WJAHYzpv4BTPnhx7/guJF+sEERxs2lAAyWxoFPAB9ZtL/Bs5Hs16nskeaQQnZoww
-ROoJYsLOJl/u1Dax+HV93qLMTDYfSvc5YVn0VUsbV/D1466Yg2QwDSBFeTAO7x/A
-HaRhwGgnGM+JTVULX/QhjC780inW9mYvfZQrdcbkhACrU2zNl3v89okohVNXDulp
-x0U1Cl30+np98CKVaXzORyF1AVwGO1tehIwVFCtiRR6b0IdKuiv5aehxvqmY/yp2
-2fq+D22ZNpsmP4wkXTjvj1VblnMHzOx15zzPux+xDjnGWr6fWTxuuEZvotv8p4sk
-kz2gGuh2EidNHYXt+Zq9Qa+QW4ko2KBsEXmOXmunQN03TwLxRV8tctm8C+2T5xOH
-BJtNAzagKaYHswYUd6RNU7rnTLtqWZscS5/fvfUMQ3aL5M0cUmwUx/xy9HFm5vHA
-tTgdZpuPRccKkA6XjYQEoUAnknNm6cXK57KQd3EKNzvV7NqIa44Jmih2o30C6n5U
-LONZ92XnTMcEXDYnrddYeVuEl6o5wydYY9uvPZWFgqc3rChWY6oTLHBH3fxCScer
-BdtlB1ZJm3GQZ5KGBr/TOormX8PyQaksRRSlyGYWvZjuTgN01PI=
-=mHJh
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpy/KcACgkQSMjV5ji9
+inztXxAApmfKAnOK5K8Nb3a97bmFfRmIIKeQrO8fnOeQTiQAemj3OkcVKFAj/54O
+FkOTVB9mK5eVsSpmfYxtxa2Jf9aqZ4oxnTp2/nxcIuRlmiUaZF24qQbfDDfe73TF
+5wBlNnfULOeiIMucbiccdGnRxbKwQk6s7DLq+ZUZIIN4il8g0Uoqi37yKb/IMxTK
+4L1S+Zj0Un97zIl6jgABYLzgWxA7AwbSgE5kfx9/xaSKA9ixuECD3dAmtPoQoAtk
+WGneTuw4DgxAAYgvnb0YM4vE+5GG3ZEYETmRSj31+hhNLAJeLmTouJhrS7pL1zwm
+jf2wKs8ZHIPq0Raa99rEbVPWnMLXoA118nf5TVoszWCnCs1T859bKTJUKEbbGVYk
+rDpxp5oqEwmYWI+mqLf/7WZuZrqeKnrothUdhzg0xvTNC7ThbZKbZqSo+hx+/WP8
+Gz7c45IaM7XBNLoFE4w8/PM2nmx2+xAT5tS8yHQJLwjeFj2fr1OLvh34qS6mexIq
+rJAJ/0V4FBzfjbp8EFoIfGym9y1OfqUVvFR8H7tNQwt3jbvO3tpmW+SrWLcZnnYC
+U6tU8Edza9nJcfdiDjj+g/jGdah7COw99kh9gFymjSUhOV6gjzwQ1HODPHIuDTY5
+UhDkmkVh8jX8K0rvWGAhPdhRwH5W8Nshs8HozXWztRXvg3E8f4I=
+=cgru
 -----END PGP SIGNATURE-----
