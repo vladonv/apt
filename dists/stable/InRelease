@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Wed, 05 Aug 2026 14:32:53 UTC
+Date: Wed, 05 Aug 2026 19:54:34 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpzSZUACgkQSMjV5ji9
-inyW4RAAtHE1q1peFlscfH6HJE8os3TGYOpj5XvUq1J7q7iDmpklgFSfsgDs+He4
-l+2lxWKGv/JiZf3X6Sp4njDa+9vkHa7TVSukoxgkN8F5XwGgKhxJSMqNE18+0o0z
-pfIvlsDwmcfHdfzSKdkyyHuYTYQ9mhwU5H4CrN+hhbBt8R+6ahCt3ZbRQhpbo+4T
-MVoEsbu5xpEJrak1wBh/uDvJPBT1Bpjb977ztvys5C2jmzgXGO18QfxHROexz/6C
-n0twanhoONG89uyAhmBSPa8RoO8jpHp2On5NjUJxACYXOtFmEzArGyrdMhlxv58C
-sZfTO9Ax2fZz1d+ym29SXN7zMK8WJwG2P/9Jx7e3oWSd8v2VfgYz0q1+tr9TrcdH
-OoroiGrnTS7zyfbKSlkylkHx6rMnvzDBpQAaEhi8vd34C9bopD2l/2zr2NPhupqM
-seAprjQyTfhbLZf5gNuJo40J/q9+hdCSelkYuAfk19r8VRMOvLbAqOKoyQj7R1OD
-Rr07LX4k0HvEOeniF35SWoLXnyUxOSTShOTEj/RovRsjdBq8L3UP5c5NEBOhxW8T
-HJTpSV8V82S2MVrxcrYrUquoYp8o4ci3JHLIuf+NmrTV6gjMP4al3n8UIsNpVUIM
-0P4g2OXy9SRhEaTOpVI/OVAe7AYqDLs93ZN4nJkY3EOdELEwG+0=
-=oj9j
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmpzlPoACgkQSMjV5ji9
+inzEDw//aELcs+xNChzRQXD1HMU2w+ODuBese9J9WMXSvSrD7KzPY2kdu6dh/bDe
+Tah994BuHujWy/7nWHg2K9h0IKSkI45Ust6oCFT/BoMFtzVk6nWznwKSzZa8ye+7
+WMoHh8hZYzU5mHHiUhhuaUyaGZBQKOdZBnNwQEpBj4baVjjo5YIUZhZVMEElZTgQ
+tyxxKro3g0LlW/Z44+RhmV4aFnA5rQDluYVPNsGzZexqgORz5sWqDa9TVH7Ynv3f
+Y1BR+zOyRhLx/Q2xhopE1hh3kYL2udTm/ajY5fXi35W7q25PUhKKg5sRYU8NWD6d
+4EYnswdk4SUmzFFCTcs4cDJ4StaCl0I6poDNCjI2BxPAKQID9A4O5TDCgintXkTx
+L6a1v4PD3+A52cUP8oyDvRhCtZEw3tJwX3JYXe1gm+bI+r00VKGrUn/67CKnlrVY
+/N++o5JJ2B/4RcIN90puB0O1RjiOuJecq9d8JhSQQb3Jw9+TvviDm2whcjAje75V
+4iC/3GDaV1sJuso7YnjwxrIaAkHWGgcm/u2Rtzj+LwlqrOG2wMEr++vS3tInlnlB
+iK6Zdc4h09ibTzn7qyCnuSn9bpif5ccAp7B4oBSMNHwNKG3ztfUs7Lizy16+/lFS
+j8DpWCSWbe7eNTt5Lm3zavIqp7VryWZHmfosHODd5Talf1v+ZkE=
+=HSC2
 -----END PGP SIGNATURE-----
