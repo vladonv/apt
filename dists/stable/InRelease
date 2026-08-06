@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Thu, 06 Aug 2026 03:36:04 UTC
+Date: Thu, 06 Aug 2026 09:05:31 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmp0ASQACgkQSMjV5ji9
-inwwDQ/+MW7h8kFJNezcBtJ1wk6OEXbicDOEX9CjONhk/QidQlHTHJ8o4NcZDDdV
-Y8PdGZltg6+DRDMLxWBdhXiRGwu88MMHxpTlGlsDqFgYaLumYYUTCHqBFR4ODBCw
-e6XR4r3qL5kIvNC8eJKf37Z0Or/4vRZquMi+7GW/Y+jTnJIJSpmIcWconJkMarVW
-0DxbiV1vPHh2eVLXmf9QAiEG/wVMaIYdmjGKirme3yg8jingz9FsdmnR8V5EpMlH
-Qvu8lC1sIHFS2PpxnsW48Uyie7yTswPgQtpr4DeRspgioFiG8c3qR/yWPzw88ap4
-afQSDbl0wtC8MDAr0GZX7oJg5H+GjDF45CXQo5R09tq/atnyAr0wsLdX7IVMXmwG
-pfcUB5M5smosc9LFIjMTr5J8FOAR4xz/w2UKIcWbOMahvReAc62Bvp98mlutJwGo
-9AT6g3GkfffzixHxOqAsLThmpqA9j8r2+6Ne0bCztdHTbw1HuS3H3nQr16FVbt94
-VFRNDxL+ZyPHhjil/rhgfKz93lzZS+WQk0Y2BBTXTHnwm98881pV+RgGsPUSD45I
-aZlP1UvdX+d4IZPrIfInzjYFHbtTRwRAUvi0Vul8sO1uJFxQUMe0VOn2gEpWufKW
-JtoGujh+B62F28RVgdwLWrrg3ygjQbeBr6dnwouw08TYQEJMMjI=
-=LMbc
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmp0TlsACgkQSMjV5ji9
+inyX0g//ZUFnsNUjI0t0ZHXQyWP9eVEDHvNYUBrzc2hAkElNAY9zN8zlDdWJNOU6
+MIfJHQ/+PUNBzEqDvpj7EfUfekXeXUWo5dPme6zxhYHSVmnL6dHqwXCTxspIyW4t
+RVEFGu37J5wxMML7+riEw+7dKk3SGnYGCjrKufeoO58PtC3Us/3huzpir9T5DzTL
+vO3jtghTmep9xoeS9gmU0j0NaFbXgtksIAKiYe/JGSzzCJPNt7RjFba4opRGawnu
+MJZwWpJkhotH9lQKZx4h2/BROy6WBFfa0zuIDRIpyGv4iUBv/Rhmrgh4R6Ues7Im
+uSJR5TOcTIINmSD1m1sRFxhSaIjz56WW6yPtlPZtUVi772I35v3Hnwa1aMuCltmv
+0PKDQ3SIZwGSUK4TBLu7GF6fnhT9cYJZutp2GKyJZJqgCya+/JkDiQEtVMoj2TXt
+I2n9lDkYKgpMcjgG4zwRTLAunsa+w4bEjgRXFVzbIKai13sdii1cNuCh2+HwaAnJ
+QRoytTmZOfST+DpIMs6n0Yj/2PTactxfTRBKktF3h2f4Plqg8qhpb9OMBDeSU7Is
+xKv3wBcdFkvC32qOegbBQQC/b2RAIGE64NSxIbSLR4OFzQw1wribdlASOiAo5wQM
+j8MUFuRoD4L6OZNEIh0XI54PLKuJM8l6vCLTkakWGcs3h5y6zpU=
+=R+GX
 -----END PGP SIGNATURE-----
