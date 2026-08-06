@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Thu, 06 Aug 2026 09:05:31 UTC
+Date: Thu, 06 Aug 2026 14:34:34 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmp0TlsACgkQSMjV5ji9
-inyX0g//ZUFnsNUjI0t0ZHXQyWP9eVEDHvNYUBrzc2hAkElNAY9zN8zlDdWJNOU6
-MIfJHQ/+PUNBzEqDvpj7EfUfekXeXUWo5dPme6zxhYHSVmnL6dHqwXCTxspIyW4t
-RVEFGu37J5wxMML7+riEw+7dKk3SGnYGCjrKufeoO58PtC3Us/3huzpir9T5DzTL
-vO3jtghTmep9xoeS9gmU0j0NaFbXgtksIAKiYe/JGSzzCJPNt7RjFba4opRGawnu
-MJZwWpJkhotH9lQKZx4h2/BROy6WBFfa0zuIDRIpyGv4iUBv/Rhmrgh4R6Ues7Im
-uSJR5TOcTIINmSD1m1sRFxhSaIjz56WW6yPtlPZtUVi772I35v3Hnwa1aMuCltmv
-0PKDQ3SIZwGSUK4TBLu7GF6fnhT9cYJZutp2GKyJZJqgCya+/JkDiQEtVMoj2TXt
-I2n9lDkYKgpMcjgG4zwRTLAunsa+w4bEjgRXFVzbIKai13sdii1cNuCh2+HwaAnJ
-QRoytTmZOfST+DpIMs6n0Yj/2PTactxfTRBKktF3h2f4Plqg8qhpb9OMBDeSU7Is
-xKv3wBcdFkvC32qOegbBQQC/b2RAIGE64NSxIbSLR4OFzQw1wribdlASOiAo5wQM
-j8MUFuRoD4L6OZNEIh0XI54PLKuJM8l6vCLTkakWGcs3h5y6zpU=
-=R+GX
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmp0m3oACgkQSMjV5ji9
+inzZYw/+J9lgODznfFjCzg3RwplmBSwie9fXFfeCtY0ct6ClhrXYxJZ+EiJPzh1k
+5J8mCSgxHsuiSevkG0bn14unfF+w9unv8CwaJV/mlfkcf/FESkWP0WLam4o7zNVV
+phSHFSH7E8asElH3LY/6u/iMrdOHhuobb7sQGeRzlQDLk3fx1L/d5pDb/P00MVvu
+CGvC0atY9j5ytvuu3rr6/dq3nuMnfjFVstqCmb+auWeYsQ2AVfio+L70wniHzBHk
+82lbY1Ve1dnQvuR50QnKtU+TbztRRyKvaPgjxPC+QV98p8Of3APyqq16JRieQENy
+U5C5JN2QtFrTetM2jf6pwI3hfUJk6r+6OJIU48QxFA7+SK56z0LwmNCxTfMosL7+
+cmg7hgQ1FERiwcOHAMTT3SE/Tl0rVUXZMH8gulxEauunF1bUXkObpXkUM/y6bEXg
+5dJ7ajolyqnJ6rpbV/zPsvLW078EzYZ0v0mNyq7pfZF6P0wimr/AElef+YvmMdAu
+Ks0CuNuvtaGe8kSurQBnmJqtKyQb28VBcpqvTdMXDBSgD01AiRiCIeD9TCjTdmTm
+PzGN1hfrFgwRo7kYwuYJ/tKyf54Oz/7p3JnA96veCi9VrbKS6uTCXboy0yXOKdEa
+f2oIVf3dzXL4a+0M330n7YlHrTuzQzlXl7GyRL6REwAk9PCs2pA=
+=0Dz4
 -----END PGP SIGNATURE-----
