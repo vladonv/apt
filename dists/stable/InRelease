@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Thu, 06 Aug 2026 14:34:34 UTC
+Date: Fri, 07 Aug 2026 00:15:21 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmp0m3oACgkQSMjV5ji9
-inzZYw/+J9lgODznfFjCzg3RwplmBSwie9fXFfeCtY0ct6ClhrXYxJZ+EiJPzh1k
-5J8mCSgxHsuiSevkG0bn14unfF+w9unv8CwaJV/mlfkcf/FESkWP0WLam4o7zNVV
-phSHFSH7E8asElH3LY/6u/iMrdOHhuobb7sQGeRzlQDLk3fx1L/d5pDb/P00MVvu
-CGvC0atY9j5ytvuu3rr6/dq3nuMnfjFVstqCmb+auWeYsQ2AVfio+L70wniHzBHk
-82lbY1Ve1dnQvuR50QnKtU+TbztRRyKvaPgjxPC+QV98p8Of3APyqq16JRieQENy
-U5C5JN2QtFrTetM2jf6pwI3hfUJk6r+6OJIU48QxFA7+SK56z0LwmNCxTfMosL7+
-cmg7hgQ1FERiwcOHAMTT3SE/Tl0rVUXZMH8gulxEauunF1bUXkObpXkUM/y6bEXg
-5dJ7ajolyqnJ6rpbV/zPsvLW078EzYZ0v0mNyq7pfZF6P0wimr/AElef+YvmMdAu
-Ks0CuNuvtaGe8kSurQBnmJqtKyQb28VBcpqvTdMXDBSgD01AiRiCIeD9TCjTdmTm
-PzGN1hfrFgwRo7kYwuYJ/tKyf54Oz/7p3JnA96veCi9VrbKS6uTCXboy0yXOKdEa
-f2oIVf3dzXL4a+0M330n7YlHrTuzQzlXl7GyRL6REwAk9PCs2pA=
-=0Dz4
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmp1I5kACgkQSMjV5ji9
+inze3hAAniykCeLnnCB2OzdYp4/MicW8ycpKVA0Uiju47hV7BdsgYG1e6nkqHOpX
+7xW99aMa9spxXUXofZUf8GwPLz9rE0kwYjVwOpsAOEXjDsFJyEGNIbCgnpZLVt0m
+e+UMA8yTzo7q/9EfiM/AsEHuG8+AGDaPaJKhZRJsD+fGBwNVCGb4cvCIQ3i9AlN7
+OCdbs35Gnz7oUVtfwOHs1gE0mLkateN8GpVAo9f3XM3yH9oJj+yNM5JroKiLFgUH
+UHSN+jYPIEZwC146xP3NyJYkNHIS0a4sq+czqx2kRHablPREhwuboewMlUwP15qf
+DGASt2SAUR8gFGbKFchm63ojaY4cMs03/K4zOa2TvNTfvysu7bhXhRMLN6Y18VaO
++pA4gaAttuI8B175INMV/Jt5Q3UFJx7fqT4nA2ZQXhUuG/a9pgyE4YpzKaNB3fSs
+8mjw261BdWZbnAxNJxgE7GKUFYs8k3ofX66fp0kwx4tsnkT4maG96do3pVDMA7FW
+HBB6QfwCi/H4c/oJZHt17SGe4INPClWYebPkOmDtL1YchZzYtQ9LLUxKAQfxI8CS
+J9IRuxsud2jcgHlrmsVU3OZQKL4OdMQ0YCJIjlYpXZoA52hytrLBxn0oRCj2GEX2
+mjZbdT8b4Iow2BE0/GOWLS9oqdEG/6WgVNdjK0idv99fqlAU2EU=
+=vyaR
 -----END PGP SIGNATURE-----
