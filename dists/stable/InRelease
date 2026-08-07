@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Fri, 07 Aug 2026 13:38:15 UTC
+Date: Fri, 07 Aug 2026 19:14:55 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmp138cACgkQSMjV5ji9
-inydEw//Y9aqeFdcCsHAtbUvV+QjduoRFbhI83bub/cCHYhyaFM1vcqJKewd59aG
-enKT92haW2ch9MA8Ox/UsUbSXR9pDgrSoVC07Szsly537RJkZfZpSvhN9fLTfBjp
-bezdiRswG1YuK0pW26FctLw2+wu0De9req2H8iXKk/2Ey/GE1O6E90RSNcMAMjfS
-zrPbad8I1YDqZRjZUFBUEnU/z7oQraKzk6RrvLA2AMcZYiG5vMX82UMAUhI5Su09
-QGmZbsySLB/L1SuFGoM4bNrar+9dubLAq8QDruQoCS3W5ktISWQwLWVgssc8hbow
-mvKuk2Gnizwm1M5HorPVRu84zN+a9H2NCXxNH2ljm8j3UtcrWrw3h0gUfK4zZb/G
-iPCKRmwGIh3T/tj/fbPNBsc2DYC0EYh2VJeRs0i/Mi8CtKe6WqaPfKEh2DZMqndB
-Xj/79p52OnbT3Nn9EObhZcB19PtsiuaSFmKo4mogwF+2XQUIL0pDKAnXnMMF0M+q
-2tpDooEaVyZgYpgnGGSUqbP8WZnjDOEr/F481n+RD2m1Azf5f2AHmn6kxw/VzdEz
-jE6IHVNNBaSmIUTYjhaYrV4E5Tl8CIiv/px9nFXkJ5mvrKf4ywdFv90v183dB2AO
-jBP6cwjupZEnKvEo3Etp9wUNJFBNZmRaLMvm/jiBGqw03nn5lio=
-=Kc/o
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmp2Lq8ACgkQSMjV5ji9
+inyNdA/+JrSYKybrG99stfvQIGaG6Ml1Rmvz/SncpGNsc0wu+4dwrjvJl19WbHKv
+6bl4gtPoz8I8Z84JkTGPDQ2f8kCJtxTVmBavYl1a1JicGIM9SKrhws5LNqOuJMC6
+eEBbNJmEGf7y6Gi1MPY16Gox8EAJc0jsoEUU/RrmrJdJQMjJH1pn/Ymm1YvhtIHJ
+0AKlz/3lsV0xNjdZipN9TzW1/Lwgm73X6XVonMgt7tpd4ZAw6D7hx1TcJTq9qf/h
+m62HsgP/feDtGMkkRucHYJl9DgR9sqj5kFm5LZwuzbDY72pOwA8tNlO64XJ+v+C8
+ppqUG4QwHWnLbKQXdZPFlVbDf/bRuxSdZzPqquhFo5wrI8bVkvHB+nKawbszXW3e
+7Rm609QMGspVRzI9Ieh/pLGipQDmUiGlfWauJKP+8qZYK3fKGgvyob/eIoRckocN
+q8IRAxR7CawStmYSt13JtB2RaEWDJINyjj2Fn7Y6FcFC8oJR1y6dwjs1vP+uNCa8
+MUmb0rh2+VNvGwzZFqrv0oL5ci76pVqlC1BOYlGxHNgEASuHsbI+c1QUzu6HtIhm
+Hx9Xo+W2Q0mHHm50MX/e3poTodgueDy1qTJ5mXsg0IeZQ9Ro+J1ffp/1kFSbHbk3
+oBVgr15Kg05PZCSaE6a8A9jKQVZwzIAlmChpE3XzXmV1QVqlWp4=
+=5Py1
 -----END PGP SIGNATURE-----
