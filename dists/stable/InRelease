@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Fri, 07 Aug 2026 07:40:37 UTC
+Date: Fri, 07 Aug 2026 13:38:15 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmp1i/UACgkQSMjV5ji9
-inwK2g//YZsKyREr+qNNJKqEPx6Z4mUX7Wdf21Kd9h5LLSInP5jvNotZt8dZBbK+
-9N5w+mS5y282KWRPGoPm55SXOnQvhB96sflit+qdpGIS2f9LKNGbL8AIWH9EvmA6
-eyymdvYcJkhIZpHWF6lENV9urc9eib7GEYOxisPzhN/60HBzb6yF4h2jYyJVBV9x
-2n2mzmtmWbiDHmeli32Q1b9gE84LF/RRRQIErP/ZKsNQJWnLCNaNJMT89Y1XEj8z
-ea3jecd/prAvVxVfI3SQ3VDeBekuulGKaa3ry+YyJpXLMbzQLlObSPYwDvn5AvuU
-F4OctG17UMvoO36h3k7I4l9NRn10T7Gc7SLJaeJxO4zpPNXyr5RymxsI9h+nfLtH
-Cv+GYs0+1WSi72K7vkfZ521WrkXUqMhhyzbooo5J4eCqgGTSxhUGimllMKuB0BcS
-6BRibZDoTKz6qXQoQHj/W7EQarPMnX2ygaI2kVq8RH12Km2TmFSSC17NWWRFQHgH
-EJOgIAn8dXhJ0MeNB1JN4gMrWC3wpQg50tT3Pdwa94uurVRg6S8AjpvNG+KFzDRM
-JruL6mWE0HlvOAQ0BTB6Yd0rcpSRSO/hiYbhsui7f3GYiOt3uwEdPfxZe2YispYZ
-hs98NHLn1kt1Gwq6a1ZbKiSuqk6k6ZmyeZUm7N7MFyRkgDHsHac=
-=JC1B
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmp138cACgkQSMjV5ji9
+inydEw//Y9aqeFdcCsHAtbUvV+QjduoRFbhI83bub/cCHYhyaFM1vcqJKewd59aG
+enKT92haW2ch9MA8Ox/UsUbSXR9pDgrSoVC07Szsly537RJkZfZpSvhN9fLTfBjp
+bezdiRswG1YuK0pW26FctLw2+wu0De9req2H8iXKk/2Ey/GE1O6E90RSNcMAMjfS
+zrPbad8I1YDqZRjZUFBUEnU/z7oQraKzk6RrvLA2AMcZYiG5vMX82UMAUhI5Su09
+QGmZbsySLB/L1SuFGoM4bNrar+9dubLAq8QDruQoCS3W5ktISWQwLWVgssc8hbow
+mvKuk2Gnizwm1M5HorPVRu84zN+a9H2NCXxNH2ljm8j3UtcrWrw3h0gUfK4zZb/G
+iPCKRmwGIh3T/tj/fbPNBsc2DYC0EYh2VJeRs0i/Mi8CtKe6WqaPfKEh2DZMqndB
+Xj/79p52OnbT3Nn9EObhZcB19PtsiuaSFmKo4mogwF+2XQUIL0pDKAnXnMMF0M+q
+2tpDooEaVyZgYpgnGGSUqbP8WZnjDOEr/F481n+RD2m1Azf5f2AHmn6kxw/VzdEz
+jE6IHVNNBaSmIUTYjhaYrV4E5Tl8CIiv/px9nFXkJ5mvrKf4ywdFv90v183dB2AO
+jBP6cwjupZEnKvEo3Etp9wUNJFBNZmRaLMvm/jiBGqw03nn5lio=
+=Kc/o
 -----END PGP SIGNATURE-----
