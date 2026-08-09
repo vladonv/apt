@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sat, 08 Aug 2026 18:58:09 UTC
+Date: Sun, 09 Aug 2026 02:28:17 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmp3fEEACgkQSMjV5ji9
-inzTXhAAxH6ZeWgVyDk1rHosDn6YTpDLVf2rln3CA6NTHKWYbafFSjbL+TaEhBY1
-Vsy3IDcdVMrgqZKeMeYK0Rtve7M5xmNPjIrWfewVv8i+UCg1/eknqsKxy5OY8w1a
-aRYqPBGx5sVleOAJKbuyUhIJ63MKfWbnQLbFdY5QT8F3fP1iaIyxk+3xplnkaG6+
-5RH8lSMSBydjqwL5y2BX6u2JD+BRGYuemSFbeV6xajdnI0+RbAOsQcLuH+pvZ28N
-CnaVEwQyE9ogreFf0JpOBDq+PTgyHrBW0EqJ5WQ/Aa1vhhHRRMaFPpTjanugAx6t
-dBLVDsVyUbAdsYV23XnpwAazhFTCX23HLeGrRkuj54jtVMdzW7sz2GCFph5ypOBq
-xWyjeCJ4OcqcOy9x+rwjllrijSHOE4Qq82g69ewberGD7SHeyQzvAK58sWP9lc6K
-/DL83FzgHgfaW5/wKtS0MfOVkti8AZ5KA5Wh4ylRLEfxlDBnS1LxzLhS8Ft5UDxP
-aKlTaH8eVfM3XJhqVOxgnvb8GosXgd4wGX9h/ZbgoqNLSQrPp4U0LrvR8zrfYFTP
-K5JAP/ZrGzhH2MAScDXJyoQySg7QOoR8dg78hgBzuOuND+4Y84vhf0pQ2eEc0Lwm
-mJy9zvnpjmIDofkplG6zFcF+t+nu4gRkOP6urv3JMQddshky3cI=
-=31o0
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmp35cEACgkQSMjV5ji9
+inzgUQ//dL1MGzJzCCBquHlHM8PXncb2Fodh67q36jxK3nPChVtaXZUWER5GGGgl
+Wbsz3VZQh8kv+qCPiCR2wpinZsrz1XxMnWpzVbEItv0CBdin3tX7Pqfgx5XZLUzp
+S0DOnXJYlhyh0KiWQSWQWhMobx04qUsYmyvzGP44HuyOycYGBVfazEVmYlEtq5+M
+8ZLSB3JkxcmYEAmRyUvuBV7QheEGj6+jdAIOHGFc5Sxur0AMWVusHsPDcBhLjwnp
+UKXoeg5sd9nLluOCIAEpwOeZ1uKo/lBqhSx5ylUE4mjuGBJqQ9tjnNTCw7jhLBvR
+lrwxw4+V6DL8kb2myZqtcO3At8d6Gzhbg1+aL/Sd4TOXJ/3EuKyBBgMhvXyUDHr5
+0CyVMN2hUiTVj4pYHTRzfihFZGZt5qsbVDqXNqQTXOBGbxV8x8ZYrULln0wuD1tS
+i/c3gFVTle7RmwZVY+g8uy+QXiZmFHxTtuLn9fNudRKHiLXdiEZY1YxIxoARkNOd
+s6G7gWcINTdBq/uwsevgDq7TIVUaZfUkWOrpgGVNRCQcB6nUkQ1wo89Su8hR75Vn
+K8DptyogKoRC84rJI9BxFEpLbbNLVXqVB4qdyXyW9IfvXrf3zszKeMRR42eB379y
+rzqMYZESc9dt9gezKYXHUe798t93uhGjNpB+v3ZF89cUdkVjFss=
+=Gadp
 -----END PGP SIGNATURE-----
