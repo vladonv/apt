@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Thu, 13 Aug 2026 07:52:42 UTC
+Date: Thu, 13 Aug 2026 13:46:55 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmp9d8oACgkQSMjV5ji9
-inw0zg/+O1LjKSuB+LcpvnsBUWoJa/VDdUdctCKQoF4rmas96cW5IUYVFf5y8bmv
-u3wHock3s8JKCDrhzG70YQRV957LjFce4efJjDDWGMsZr77gzSKRRssGsk6wiPQF
-Co8TKmc49BtLrTXQzSL1nAX4dJNi36dYP3mHKlIn8wQtX0kRS/5VxIegiFImbVVT
-kaQepGvmokXDClDQmhhwX3VSyNzIU3/BZ6vdriiTbcnBSw0IeahkDTCeysTAoSeR
-UHiDqiU+I0qaeNBegPTYgUL7LF9LnwWQu2VTZkMk/jzKujyjDMKnJa0O2qlm5375
-sJp+eA3ILVEN1vtxIXj7GFeA3xzleMdFLFZKV4R4tkCQd0vCM82vrVGrClay5sWx
-hYYAkBeJNxdglaWLua+WAOXbYoPRhUABS/UWtiRHIVysbV+/em4xYcLas1hzlNSg
-gcajDDhTYbuPa8VwDQWJrzOoixGR5hIZcLxtHgo2ieUN7ct1rRhhGpxtJhrfTvrY
-krMNuBI69xmFsB4w5WBAtjPGGwwyjiF6ZVlYCm4KcMktrw3xVKdZEJmDQIomZir0
-PtF7qK61krRFrQyyZOPNUDppS/KX1tQZblvuIy3wqTapj+oIprIzjo8ydsSgCq9x
-qUqXOk7G+DkgIunHxk5a2jwqyR5VTFZ6a5bbkzgYAe1EEo8Jqb0=
-=NbG+
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmp9ys8ACgkQSMjV5ji9
+inyBGA//SHQF172MtHnrErMQoIUEpEW+UVMXA8kEgehywvevLwcSsLVgu2LYLUh2
+txiyFzmrWyxSK6tRlblzqm5j2lrwbFOXMqiJSzJSwuhpWfgehTH+nlejM4CxXLOP
+JWjpii2eka8CtE9epsmaWH6sl0E5kKfpSqZrlVF2+zqAm8ZrJ0NfRs+EVNr/rwsk
+d9Jmrg7NE3e2V2w6UNP4B2Q5MvKaXsFWYtdcLRGNI++wfj/hYjbzUTj8w8AOWc9A
+1T84bMoYvkmmXMib//rlqT9AYvqJSaHhAbvDAiQSf6DlaTVx0Vgu0zEBJTraPsN7
+wpjW9uGBWXSJLcD/UtU2LYAtiMiIz01fFL4N8XxAy/Whc4L5LC79dU8I34Ibfb1H
+IJyXbUiBzVAzat/aYvecEw7WW3zvaKJplrEjePgpzZF1qYTfDq5KUZ4YSKXEysxX
+4dMkA2fQkd2oqLhkjFmTh3Rwx5jYgCl0w2wvEt/1JQG8yWiot7rbKLb4bQorr23b
+H83Vfi4Ydu3C8UhRec4clvmgcDvnNpe9g5Oqi52G1w51z/9UV5M/090oJ6+BuyYb
+zBzsq6+FTk9QGrEGNVFhQowEom2DogIw+OirElLi7XJUSU2MLN4hRuanwavxZKt2
+8ZFXWxTu+aPisUWPf4TL14y6Rz+NIRffplOBYn1r30O1nyVpZF0=
+=In35
 -----END PGP SIGNATURE-----
