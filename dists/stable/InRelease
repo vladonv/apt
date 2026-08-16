@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sun, 16 Aug 2026 13:00:10 UTC
+Date: Sun, 16 Aug 2026 18:46:40 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqBtFoACgkQSMjV5ji9
-inzr9Q/+KLZTBia8u6f0PfYugX+uditw6I5GtX0LJ5IufW9W9doX0mdQPTod7oD4
-/gGMNfZfyUplRLnSepBF2Qk7iQeO2RA8YTzNxNFbOo0KgfRBxIs/TkuGUpV0vy3F
-PptH8NE8wkwG2Kzw8kJZXqbd2L1H/04nEFgwfmSdJrSgEeSxusVtedbBsPbkqSqo
-0B4m1j4ZJlI6VhtCoEG4Wgn3O/dNXROwSFEoVMOCtc2YK29UiKbbo9tYWs0d1GNH
-NXORq0WCeWv3LGxJeN3u6GVlyi6Zqr1g3jUhM7pEGXShheETY7E98DA9Of5zoTnl
-CrJ0nke0AXvTUYpY9j23+5v26DB/qV8ev9hB0DaAXykyHoiMyUQhn8tZidEJCNJm
-XI9TeXU7THhVQxWbveCampYvUo3ctOAZ0BoXQ+WkXregbepf1DW8klocKaak9V8Q
-jmhSPOjtoCiBjnZuOzLVzWofakHKZ2gKSl//xhT7hsl/qJ3k1ed3aaC3eBp20XAo
-CPGFcLpyd2uHmOlArPQpF89Z2KgfNfxgOMlAA/mgtTYUze1RM1mvQzBCeR/1SqC9
-nIyNmpoWTDouo+t6ErUFNWW5OCks8iJ1b0s3szVJ1/IOe47z5KfP3FZ02LEoCGP+
-3VSBN+4gO2FcMMp7Fw5F7LUeKu0LkBk69wiCu1/OsYspRi4ORg0=
-=kp+L
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqCBZAACgkQSMjV5ji9
+inwNvA/+IDiCInXBo+tPyVGz59QxwDxIV6nosgbW4k7XGwZCCch32FqxWOuioPrD
+/X54Pt6cc+zJ4Oc6841S+zHZ2Pt6T/XLKCk6QoUsCVf1QrX1MosYoLiZEo93kFzs
+erti0D+wRruCa5V8YrovF/47BBVYP/Doj6DqREXMZhpjmTHtv9hQZQoxTVC2syuY
+obTq0w1IIbCveYHZ8y7RvLP4pWgN/8ybrbJVlyNkAi6UCPy80T1i14A47tGBpfk4
+ItMYThr5u0xq6v5qMfjFX5DPyxssNL3JAOPkuBEdbxC3Dub6bplLpRPhW4skgNza
+iJNnE2OVjG4NufAmDAmhuXcv9lv6NzCz+kDaj9d/dzxRJwVni4s3jkcpDNlZgSDl
+tTdqtOCQZoI2zH6Z5FAH1TWsZo5RjCxAglAiHbUXg7Kj/GS7zzLVDEjmXB02hm0r
+Q+Ctc1GiqndXXRsUZrlX6NqbsiIPSBplSsxO8Al50+5uKoKSuG34kj6psbMmWKXb
+YGjRhOvCpBG/TL8yaiDhKz8nrapNU/d90+TXHAHZdbywAdW4knNfMVzsAE6iKOSZ
+rfAJ/fDjiXYVC8QX+RzvkNqh0fPeIm94UBbuDMjbDpJp7Ppe9wxPin/J0u0CYeop
+reLerdIlbqWdEYPaLGanSSroYdqnLh3nhJHYhl3vPnCT3Osi8vo=
+=t9zx
 -----END PGP SIGNATURE-----
