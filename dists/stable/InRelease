@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sun, 16 Aug 2026 06:58:37 UTC
+Date: Sun, 16 Aug 2026 13:00:10 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqBX50ACgkQSMjV5ji9
-inyvbQ/7BChU/pm7YBhia2sXLvPyfJJnttqh83Ld5kmVTYUkF3Y/fymVx7E8gD7S
-kmeoLoLP++deTaria5rW6n6aw1Etxt5RhUTxtMLADmW7kEWr/BinULa5bTHQswwD
-y5hbv3tqw4SiOQZz/5zcrd7hrtuRME2BVjUh1Qj/n0FvSHheaDOrNU1AFWHMd415
-4RCwsPY3Xl7BCaA0rKpiKdhKvbI6EoQ2wU/sfkENNnKdfL4+HZj+IeM37gEFnixj
-WuwUWkdxW+2alFiPu7Vrn4U9bySEfdECiqrC5DaY2Pq1ue7Y54vqEvY/ADyOPue3
-LXIKuQXqi6bhMbTTnH+r262WlFfwE3+FKoyqGrRHE//fredDBxD/wSBZz6vItrDw
-OxZAD4mQxWSEyGtfdP6jO7SmWwRfyp1L4Y+4gX7TzEcfe6aiSA77LCe0cIj1DBQK
-o3j65ADcI2eCaIKjNPOGjnwgXKjcE5Yg6n2NY53C1VsBmnEM4RM8VlPXAYx2I+2s
-TzEvTK7xAuP6r0SsLVYRbEdU++lvGcnurjejzdSAkkvCDkL/A3Op2dVwJ+B8+aJz
-hrczWMDAw1JLlbRM0UwsMbTITt3FWSJlk+JvaTfupxwaOtAlWMBQRQeL198SvGdZ
-UcLkvHGV+fEbKnVHb+Kg4O3uYpg44xPCITLJ+HsqETIb8TyEH1A=
-=Lm2h
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqBtFoACgkQSMjV5ji9
+inzr9Q/+KLZTBia8u6f0PfYugX+uditw6I5GtX0LJ5IufW9W9doX0mdQPTod7oD4
+/gGMNfZfyUplRLnSepBF2Qk7iQeO2RA8YTzNxNFbOo0KgfRBxIs/TkuGUpV0vy3F
+PptH8NE8wkwG2Kzw8kJZXqbd2L1H/04nEFgwfmSdJrSgEeSxusVtedbBsPbkqSqo
+0B4m1j4ZJlI6VhtCoEG4Wgn3O/dNXROwSFEoVMOCtc2YK29UiKbbo9tYWs0d1GNH
+NXORq0WCeWv3LGxJeN3u6GVlyi6Zqr1g3jUhM7pEGXShheETY7E98DA9Of5zoTnl
+CrJ0nke0AXvTUYpY9j23+5v26DB/qV8ev9hB0DaAXykyHoiMyUQhn8tZidEJCNJm
+XI9TeXU7THhVQxWbveCampYvUo3ctOAZ0BoXQ+WkXregbepf1DW8klocKaak9V8Q
+jmhSPOjtoCiBjnZuOzLVzWofakHKZ2gKSl//xhT7hsl/qJ3k1ed3aaC3eBp20XAo
+CPGFcLpyd2uHmOlArPQpF89Z2KgfNfxgOMlAA/mgtTYUze1RM1mvQzBCeR/1SqC9
+nIyNmpoWTDouo+t6ErUFNWW5OCks8iJ1b0s3szVJ1/IOe47z5KfP3FZ02LEoCGP+
+3VSBN+4gO2FcMMp7Fw5F7LUeKu0LkBk69wiCu1/OsYspRi4ORg0=
+=kp+L
 -----END PGP SIGNATURE-----
