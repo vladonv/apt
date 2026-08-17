@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Mon, 17 Aug 2026 07:15:43 UTC
+Date: Mon, 17 Aug 2026 13:05:37 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqCtR8ACgkQSMjV5ji9
-inwW8xAAoYg9s47tM/QhTaq7hggfCWlHPvd3Ydnox5u61IRcRs4e8r5BfwB/07su
-PyKivGCgF+Lk973E2XWmt/SLwIVCPRnsPWHOJn4KVFCKNsHDlvBL5fG+cT5XM5/1
-qPzx1akYoMihBUw7qJZLsKcZcLkdVRdb+2lJS9SZ2QodMRdwR8ABO6YVVAakooOP
-ALhS9lKTLvNXOeJuhTKAXiYEYWlU70ovcOotEmygjuMzwb/EHLfqifnuN5b9ddDQ
-7+p8cZDqkvJl8vQxZfpn2oW7FlaaggpG51QU7hgsMGC8Cim3lBWkORx4cZZK2y9u
-WTUHtsC+Cnpb9vZhwVfvPCEo5NB3LPYX0tMO6MVpSLz2q4DgUatvR0TmslkgBhqD
-he9c/XYVUNarXYBzgyR7Ev+Qfgh/MhXY3AdsSbEI/zfcH2cdd4dH/8h9TL6PU9rt
-8dLD4JHC0RzKH0WFMo1DPnGJIm5FKhiPRRWJXgH0Mg8ViQ1kT1LCwdvDhIG29s/k
-YyMD3XJhoB9z61ObgQfgvOBn6Kh9Y+Ful+hSJuElrLGtMrxluG0WZq8+EtyOo+Xi
-6ebuzqkw7Zk8nbraHU49xI/30VONTBE8/D9dsnDmyCiSbvJ4N7AcrkoCdZPfodug
-mE+EVH0y+MMZQhMj0Q6qa7RDdnwI4Nm8flIPS5HGl4Sws9lZy4M=
-=LytT
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqDByEACgkQSMjV5ji9
+inwwrA/9Fuv5wiQAPYozosIJH6ScPnRAbUjcVVwe71e/4Ib4dSo27pwtcmoh6oTq
+CjHYn9mHq6qzzOi1kL282jRq6A/0jJ5CeRTWLxmHR91tP6ai63mNsCIFUhBE2VTl
+LNH0FKjgOdOLm1r50z9wQk/bL1tOhzUjf32XkUzn70Hwj4u2tPnlc5uBea8Tghfu
+h9K8Xl9tBCCMAM48TsVmaKNpcqqE/AN8R/5uMsXisJiGjhnQ+CBveLaD/omoCZrz
+NogZjkyO8CXYbMfaRCstWCi8la7NpB5nnglaWs4cjjgVvmNhPuDPSNW9uUmARXnA
+TIvDdSWFy0Vei0pGT2PYPOsV3vqFanQ1o7UlGaRvAvLX1kHxaxdHTXtm1orxQfO9
+pCvC8mkffb5OIN3ngt/YZ2GRTwdCBzkLrrbL7sfmc/hftIK1Se0hk2alsnFADUze
+2/C+svdGhJ4pX1xdAvxmiOhAalCknG3PwOlvz7BGi1qvNqHmG+QcfkiqZdkeSZFq
+o6oENIDmi5/9NIUcQChLkNaVy1rRyrPCHxSZT+a3xIz+YIlpiAWhL8+/g1Nu/8Nx
+/2EOOsjQaC+XLQQQuszo7NDfl8q/zDBaWEKtpP73RMRtTj7M6wXMoHSMyEmMO7X1
+2bZ9ZjWAw4NutF1ZkwwgvbZo2NiKY2QjObi74uFdjnkKKb+VTcE=
+=GK6s
 -----END PGP SIGNATURE-----
