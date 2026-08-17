@@ -23,20 +23,20 @@ Description: Ukrainian core Asterisk sound prompts
 
 Package: monast-daemon
 Source: monast
-Version: 4.24
+Version: 4.26
 Architecture: all
 Maintainer: Vlad Vorobyev <vlad.vorobev@gmail.com>
-Installed-Size: 200
+Installed-Size: 205
 Depends: python3 (>= 3.9), python3-twisted (>= 22.4.0), python3-starpy, adduser
 Recommends: python3-openssl, python3-service-identity
 Homepage: https://github.com/vladonv/monast
 Priority: optional
 Section: comm
-Filename: pool/main/m/monast/monast-daemon_4.24_all.deb
-Size: 63040
-SHA256: 20a1b88f7fa568e8d986edd378eeed9da5e6aa1b0e7537134c995c28157207f1
-SHA1: 21de243392418f068403dcd40898caf758ba3e49
-MD5sum: 9fdd00722a6d72d75e79c2ec4cd19f36
+Filename: pool/main/m/monast/monast-daemon_4.26_all.deb
+Size: 64766
+SHA256: 563413f4032ff1f2549876998f546ab1293ec40b4f29e885c7d793ed14b77097
+SHA1: b177ef7be8d95cd5a7c6a7b476f32549e68aba1d
+MD5sum: fadb5d249dd1d1889aceb8053418a293
 Description: Asterisk Manager Interface monitor daemon for MonAst
  MonAst is a web-based real-time monitor for Asterisk PBX servers.
  .
@@ -50,20 +50,20 @@ Description: Asterisk Manager Interface monitor daemon for MonAst
 
 Package: monast-web
 Source: monast
-Version: 4.20
+Version: 4.26
 Architecture: all
 Maintainer: Vlad Vorobyev <vlad.vorobev@gmail.com>
-Installed-Size: 756
+Installed-Size: 758
 Depends: php-cli (>= 8.2) | php8.2-cli, php-curl | php8.2-curl
 Recommends: monast-daemon, apache2 | nginx | lighttpd, libapache2-mod-php | php-fpm
 Homepage: https://github.com/vladonv/monast
 Priority: optional
 Section: comm
-Filename: pool/main/m/monast/monast-web_4.20_all.deb
-Size: 161154
-SHA256: d40f170e83f1d27de675b5ac3d274db133d84b8ef7e6f07df9f1b0b21dfc2b37
-SHA1: 09711c442c4aba2ed1165c072650aacaaea0cf8d
-MD5sum: 552c51bef940a201bbbde7f94cb49345
+Filename: pool/main/m/monast/monast-web_4.26_all.deb
+Size: 163892
+SHA256: a145d0d140d6f7e8d600685bbf49cba69364f4a0371a1483349e553af21d1e58
+SHA1: 348f7cbf8f2a546e4815748d46dfeec9ee58333c
+MD5sum: 389fa73e2856924f6533a30a9d68eba7
 Description: Web front end for the MonAst Asterisk monitor
  MonAst is a web-based real-time monitor for Asterisk PBX servers.
  .
