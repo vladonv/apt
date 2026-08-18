@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Tue, 18 Aug 2026 13:07:38 UTC
+Date: Tue, 18 Aug 2026 18:56:06 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqEWRoACgkQSMjV5ji9
-inwDjxAAuoqrXWZAVtSpuR84vgGvIy4mmSHBsS/N9YmQXdDo9QhUIZI+KdwcaLXU
-1gJz5Q1CnBUra22ZEeRy5pWmYz5YL+5CEVnTOzj7A9jk9duqDRjT/n0eylscBMHV
-4HZrIDGCApJAS1TvxmYM7z3gpmbYimipx6cijkYI2vavTkOfDvMoSm8zP4OLR1h9
-/mEG4k+deYhItsOWq4Lk9tGBxKKEKR1tX3Oid2KsZI+yzxHJSaJsSGgBsAQXL/gT
-zX3HN9b14L9uQM8sjoHkv0K3ypF2j1m9ls69WouirqZkTgxWniHzhQsJyuq2W97O
-x1pzV/feYu1fN2tF/0Qwsmhx5QINyrUq176tIrx2HuctIvdSVll/Jfv5n/iwbnA+
-qnvtLYh/Wrqq7qXK4/AmFrbtNcFegFh/QS/uGDNrEHrniaCMNFwizKoa/m00itJX
-Wu2JllssUoCpxevQoV5tTZsydgbSglu1JMsNR8WvwBuoMNZD0myN+WlbZOIfbz9O
-GvovNN1R+6IR8H2l03VznaAndYFFswzFIq3igr2fjtE9N188Ycun+T++gyuoMKtP
-5KZZNn13lxDqjdsXLpyPO6/z1x3Q835rIx3ytjPnLI3xalxRuBgc1Cf8PPAtYlyU
-DkEaNjYHt9k7vqRqPxPJ793O/DKLQYqZNEYyzww2XJLv7tesU8w=
-=WTLL
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqEqsYACgkQSMjV5ji9
+inwGjBAAy3CGxUKCFo+Z/Q5VvxOeOQirpBTPpVtiI3H+0ESeLHjHl1hN22HHc3Ze
++fNRNt94GFMrzIL7/ejlh7pxZnnxtE6B7KkCIpTGG6kjq3LTzvmessV6ZiitJBMF
+gEjhxOkyW4MxCrWcb/yn5qwuguNkIrm/JsnWEVQJqWZHFq2cbJQk3m3Q4S7tlXnU
+7AAV75GG9FIC/Y9pzzVcbGinCogY9P8iH2Aniz9sT3ckbBOa/I2SZn1macpoA1FN
+j7D18zJx4guJTkvo8nKFNVPv+TbfIscG54cq9c+DYt9PdXOMYGwWNC+yijfK3RTa
+WLpNLTOKVM9SVpYukVCu7MKWnAiMHkbRSWmnLNr48d6Xw29nib5wTjqptfqNFISw
+BJ3Xx0rYqJSitjy0liksAZ0287FjnLMS/SMWl1gyhlsr9TATZ/vIXpcxGzdM0WSV
+mF/I2rwdY1kkMC0YF0TZNhnLwYS3OM1eSW08sSvgf7IpgInbkFJADrGYzBeBOYW/
+qjZctpOWg3b4VMtjGK188/uXy88AlGmMdHUiW6i6G+XUjLTwCU8qMokNiwqvu+7c
+4qrEcXv3jKiyKsOgUEj81g2uqyTtuz5Ci1Dp3TeS53NH7aU2Y5LnbkbePEpfFtdm
+OaHnOwxnpbEg2dP3oasdt/3166+dR0tSJEF3p4Oq3SIdvvHwU+s=
+=TN5w
 -----END PGP SIGNATURE-----
