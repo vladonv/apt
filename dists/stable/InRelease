@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Wed, 19 Aug 2026 07:06:40 UTC
+Date: Wed, 19 Aug 2026 13:08:01 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqFVgEACgkQSMjV5ji9
-inzIGQ//cGVNf0a3GKUyCGRriEdbZiwpEidxPqfYeoZyNxJMzlfYaysU+wLxNQRS
-WkSgDrcWhB93X2YTd5nxkXjl9/VdF2yw3R08qyEkEFBpzDo1BmCl7se+iynYwP5J
-fd791dTkbKD/qDfNt1ucBm23la63OLK7hrKuwoec5CXLmX846apcD/1bzezktgwo
-bWBENhJxwPMKTR5osAHxXVSLklBz5WATPEa07Ollwc92ie5c1zsghVx2gtQ83fLz
-3i2QniebBfAHyRMkMot84rnVAFgHTyEiG3G3q8Xp932LdDxh+fgrxprG+KLSQspt
-QANq8ecwFeGauy6l4LObcnmqagUSlI2nmHc4OO9fkU06GxAAdaD20xJojFtUbWR0
-gAuqsyritn0Z9Bi/dR0iBjLijOl2DFiBb793+il80NKESeDDaSKzUhUccQ4s41P1
-Mna6Z4XcnvGcBWdGfQshi5ljgDjJbuZxC1qMqktQGibgVV02Avg9hFdBgC85PREQ
-g4t39ooW1U7gtcK6nUtMdLroGFaPE8DVcgi+huc/aSxfO9VDjuD7fGFnBxdT/+Ij
-LHexN8HvjzcarFAbfdHG1475IcBc/z/edz/WIflM8xP4mBKRx9073hfPBPITJSBk
-AoDd1JPWcmK5fw9gf6DpywLIL1kFmNkAA9bHy75Embfjcg1u9UM=
-=kKSh
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqFqrEACgkQSMjV5ji9
+inzIew/+LN4e9uaZNuYKYI/nKyoXkQPhF5sIU526pfr7f48ZsIagpLniyvbJbImu
+v1JOMG8aZ+kKbyXVMQbUyqnG/EfQBaRVAJOBW+/+uV6DQmtsIiy092ve6mQBwVFe
+Wz8e5kLUddDcvk3imuxw9CkC0M1f22crJfenBxf6tZiu4vDanllegBhuh6cbr4BY
+jYoDc2B6Qf+Dq9f+kQgD93A3En1k6z08sMlmiIjPnjt21vxhbGxXYy2gqNKrnNbS
+5P26Rfhh97Y2Stlov7a0P+soU9bCkIkd25Ul+q/Ukl7r1u8gJMaGjbe8dP0IrN2D
+KlgobF1Pb4uTHiK8pg1BdLBhPnPugVvVMt5YrlZm5fWlVfrJIHMZlO+ptqJmqMq6
+WbYQAxf9WPcP7HwvAoCMy66BbwXBnzVGoKBzRtRRDk+IYvqdluLQsz36Tkel//3F
+LROzZ0c2e7GUpJGgv62S1k+/6wXyFI4B6e2PheGuCH8Ea1I2myLUgjvKzcLwv/nz
+MCq2XrZGdNvDoPMIzGftIAYSgcUr75ml2p4sgqC/HaF6mdPmf8+guLQCc42Fj16X
+b0H6Vhc6nS9NRpdjrO7frn1987ES6M7CsPEtIgwxpgFmfDDMFKrunpoMUElO9yHR
+xHPawBgnuA250DoeIgRAdqHpG8H0Xne0dLMoWZmHJtapWJkSxVQ=
+=iMF3
 -----END PGP SIGNATURE-----
