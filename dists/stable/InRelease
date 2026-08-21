@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Fri, 21 Aug 2026 07:07:04 UTC
+Date: Fri, 21 Aug 2026 13:10:39 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqH+RgACgkQSMjV5ji9
-inw9rQ/9E7dmEP/TVEODNUYax1HQn9AHYMwbC7rFB7E2sk+AfS/s7VUJ5YMRaH99
-wTG3N5WoZd1/w9R1RIewYQPqDhNXjRdFOxGdAwle1aM4a7c6GBddaLAwn61kwbUE
-TcbwclUQK7sFtvTBOQ7WxVY09fvCMUWMbaQIDuGQhXcq8A+LYQiPYFpEbrnPU58N
-+1bcKr6MVl6332uOnph3y5i+zUADHrKIU/hNdhtkotLD44XGtU6wq5QgYCBOW+sf
-BIhd3PclDRv+PVr45bm8s/p9LCz8bD+Bo9/yNf7xvxIXJHVZe5on14gKJr7eFDxe
-UevB6gsW+9vUx70IlW22BoVv3EP9PYttQxZnYbMyl1O9ljQaWdRresfagpbAmNFZ
-h229K/r8cX4R9fXt28zPUUt0PYybeYVvro8L3xSNe9ur5nDAr1oLb+DZ2LjNXAVX
-1u+Sr7M+S9xSezWoBpjXwJCYDhkjQcg0Dqmg9UrqIMTsKH082Wr0Uzwjgz7TZ6W1
-QlNC9jeF0gnc9fhNWayVZsSzj8k+PDHTzoCuSsEe93YBQE+VXcOE8qHAPfXa351D
-hLXvjMmre+RWQZhx8IUF3dFuBOWT7zUQ6iwJtxbwIJG3Hhm2Wdw6vuZpPE9JNoHn
-Qx4sxKA6Y/M7SXTegkiS3Uy/f0cmMa3mlMJp7jlnxuuIWHI/81o=
-=ow+y
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqITk8ACgkQSMjV5ji9
+inziWxAAoxFl2X7iNNvycL0q3xWOHYOtQtRSeDCfntoFvXSQ31p/ZUDdFAR8e/R8
+RRc4vhzxbTRm9s9vW5zlzmVVXcIf0qhbM9FCkRx1T75myzYu5M/cVaOvWfN7Haz9
+Y9UC13KRn9IhbnH2JnXkRu4Dc/rl3/W3ebuKIzm6qUzZrpktNr0guZHX1EPql77I
+25Dbr4DxY2zs+tWDLwToW6vdb1jclE3i8FBe2OIIFB3Ao2a4u57CI1aFuw5hxQXR
+sSmRWfcM2ihu/BFb8fqj+FQIwTzLTkIt9LoX4Z2SziwnZz2oQfDiiu/1JdGE5mVU
+EO+7OLjyYrJ2IYDgBEfqUoL+ytTIfEVQD9pymbvenD/8tHouj46OBxVbUS4DLDkm
+9+dJ+sA1C0ladG4g3a0JV9YTAfFpcFtKYHRUyZTJnzQ/EiLFTynyxSUd1y9FYCib
+bVKhz0524EktSpJ8YVHpKFaMUJj4U50N/F2v2czwZJy+sMsjwJaeRm2ViVGNR8JE
+Q9+5iZ8NlSf5E0TUUdC5mpRkKoQtl9hWfE+uez6qtRqmLpmJbX/fZW4GVud8ICy0
+SrdmRTWqsA5ka6+qAp+dvFXcRlX/2nZIseu+InFzmgbLlz3IeRedogKbg8z8dZ6W
+DajzTSPI/X8c0p1Mz2KldXLdnIqtlpM1Dew0IRwy6ZnxuBPmc9k=
+=0A5M
 -----END PGP SIGNATURE-----
