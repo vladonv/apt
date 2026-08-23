@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sun, 23 Aug 2026 01:59:06 UTC
+Date: Sun, 23 Aug 2026 07:00:33 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqKU+oACgkQSMjV5ji9
-inx5NQ/+O3ilphSy6yTbi1jbVX3N0VuF2Yo0/IqVteu3OcYgj+b1YK02I3h0OPVD
-OjdSZ8SZ3Us/6ddWt68vjr3JUalE8k5dSC7AoUgbLD9NTjvkE47dPgLwXlfN1Zqb
-Ivo/MW9N/noUYUC6g/E2WGnWFC6f2qLT0W0NEtlxR6UZfacKqa0R4QnC7L4xbm+p
-HC+2Pm07FoeBKlkYH8AyGqdp3A0X32t2JTwvqx+4CQY07umtqWyPx6Hjuwv00C/J
-dbteu9ID6etOmN5GePOiGAL7C4hXRiO0yqTOvWASmG0L8YUeJ9sX9dEv+zkDjjCP
-FSmq1YzWwPGtBzbqLBXRQoXI/xJnWvwg5ZEfOdJL/TgtMLBDvFxbGNK9mtzWSzZ9
-zN5sw/vUdpU+qiCwr2BOT0fEBHvkTjcwXx1uQaOHPpR3cTVi4pDXCYbKr919AFGj
-KL7OSe8ZHbYBRinEp+ybTyjdDLNIH04TCjXh7TdtuTjmA5LUClzyZ1yQbj8wHFLL
-p/U2JFg1eCFzB2ZBOTtU5a3FXPHsjgPF1B2Cqp24FiOaTX6X2h9xC1vxf65IPelP
-Mh31JlkV3LWYLr0iYV36scLn5Q80dRx5qecTSwf62rLeNXIweTZfuqdG7NralfGN
-pObQYJjyq6TcBpzDA3V7wjEQ4GeWHcqeNDCiRAi2CSYSRtfbTD0=
-=aAZ1
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqKmpEACgkQSMjV5ji9
+inyRLhAAoF5bJZEDUPKtZEOwjMZPvPL1vpCpIHDF8CXhAckxAjpdJN3D3h6hrKp9
+WCC2RedTaem7TOGfCe2r424ISDM3Qh/fsrh/q0Q3LJVEmGw8V2v+0GIi59i+nf8c
+Torvtwbgl+V+No8JPwFAEzmh/TZc7QZ2p+ae4pV4VlJ+oy85cUB6yngfN4riPAxA
+U7qT+TDtI5XxhIozjfe3zQ9AWgs90WsJ86E0n2boQtS8ReH8oRnUvRzN0pFpG2B4
+v+syjrz72+O12Rz8jt7eTPRECk5Z3aThZ1om6lJh6HMfe1F33M1OC28yRoCoUdg4
+oLAtL3L5ey1IyBBWhoyjlcx87boKhVAQtspb/3X2G64WSDx+D6hZH0XKJcc4hHpD
++Wyx14zmg2TvpjI7rYGG0f1ki7wIRRPytanLkEYQqnZJu3iHvLwI4GMrA+vW89Xl
+sAYQkRKSMjCw/L/VTUUIXsS+ODFzLSaCFwDBtB0VXNcHIkB0/WFo5nR2sKiu4Tf4
+F+rcF6OYbuS+vSwQnllQACB6tT3UBXirD5P9q1Ck8hoB4LjRVGonY+8ia5RPIboz
+fuq1h16+1BczxW6RJ7VOwPsHtHPlzb+IvwRAGZerVSIkadmKgpKTPTA/chZQOxC3
+UC6FEWonpuCXuMvGQgpC8AUu8BrxEV74cgJ92K8FF8bU9bl9izY=
+=s525
 -----END PGP SIGNATURE-----
