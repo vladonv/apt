@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sat, 29 Aug 2026 16:43:13 UTC
+Date: Sat, 29 Aug 2026 20:55:16 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqTDCEACgkQSMjV5ji9
-inxRkRAAnQqHe59CLHaM5Zd7GKfiAzO518qplNS4Ja4vPUa98GcXENzI5bjvoDoO
-DiO1mlORLVa5FRGueDoWTBW/YKNqeLB1dDYhfi5ACm/vov/j2qq50xiiXTwxaugd
-eqCqNthCiP5B5sx/W7Nw17TUXeC5CZrjULbR537uz8WWF5zFcC7lGN7eWZOwRBKq
-wBZ1UAiB/WGBs/WHJ72hwr0Nzhc7FXy9FoeZSh8ftrMkPCVvs/LhxuNN+P775T6o
-7GaG1kDmudC1Y+Kb2BSTrYksVoGzBne23c4/UdVTAuGFeSkc4bLOeXqOVr4YVxTn
-RyPepC7Ts2ymrjPxFeyMLv1cRAhKTON+p7O7yEmS+2R62paqjLE5MA4rvzNtgmpV
-4CZGYiKDjj7asZHds7EwxSLTsZRjcHkJb8utTT6rw83h39zkajQ8mUxMb4PTVPDX
-7HOPX/G9kCW5y5op2Ty8FwBgMB6iITK4M9RnzMSOIdYSNlY4bri9aQhGd7QtkZyS
-TI4AO6jBCIKd5ArKMriCBb3vIKbqO+DLYT5oLOq7xUjwwuSCU4yP405fRaOJi8uE
-jsU6rlTKEB9wjm9QajxaiqHGbAon9dze64oPVZyWu184Hz8gAU/DTdJ7dmb49YI7
-Xg742l4TgNtevJdPwl88m0fLEIsJrjf7wFIqJq9PHjTXlnIVIYw=
-=SMT1
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqTRzQACgkQSMjV5ji9
+inzk/Q/9F9a507EKSiL4cPou4P3KCpc4yveGzC0s9ypFd7NkkrQVtOKqNirHSBAs
+XC8yWHl1uMeimCq6U7m1usgRNalRVDyKCISr7i/aKcZ6aW9clVpHHDYvYR+7nB5I
+s5FBa+6WzZHkTNv+9MwZcPZLiPtduZDOmFXbtm+hc0irnqYJG/S6leWKNk7pUCF+
+quvt76nOgfbuFCYQn9FtF7lK9Zn/v7+qX3O1+IwOyqL2uPTgdmeQPsEew+rjo3M+
+y8MhzcYV/UK5gsEzrTXkSw9UfL21ATyQEFBZ0dTzCiRO68P2LYYmBvl15IWAJPwE
+ozLVNjzMKUm9Q47awe1wJ25pQldQ+68Vaer6P70YbK+rLcuZZRGZYggFmQiL95ZY
+TKUC/o9RKSFTyXiZClGNg8gMN8P2lizV7TlA6iDRqklFsQ+D0lsiHnaLpWCSLD/Q
+y+MMHBhkQhCcDekROJotSxb2H9Fo7kz7DBirmqNIgqqFv6OkM4rq1wQQj3tMASrt
+xIdsBkyWmJJjxt2sGTpptWd58j4hISgBjs4J4lhJOyDRPv/8V7WERbLxdzipHK45
+gGVNwW/9sEAtM6slvHU45lDWyeTGxUjboufla0xGuPqxTFvjRsEM/K8IoBDuKhEw
+RAt19jA4OGIvI4DtKvvyIqFxkF6QgMgSAHB1LI//LN4cWDeecW0=
+=MSUT
 -----END PGP SIGNATURE-----
