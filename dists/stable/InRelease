@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sat, 29 Aug 2026 07:04:03 UTC
+Date: Sat, 29 Aug 2026 16:43:13 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqShGMACgkQSMjV5ji9
-inzFSQ//fUBx1jmVHo4fsQAS/zlH35w6nu6RwsPG8GhurFTJ1a6Zsj55B2A59a/t
-7xeazRUofEwBJyxq5Fm4WHT148RfwOMPl4c4/5uO2445PYTX8yGvDCxoBVwOjbRX
-wWsJCfKy69OVJo/S85ZvOau2nSbVYPFLzaWmcAUlI+iLi2zBQCWC2EX5IjEJndvT
-ebefUJ2cnMRwDxV3Iw0OUoi/VoGX0HJJKCUZ5RISAesItj1NvfAUkuQ+obWK4ZeW
-CqtfHgM/ydrjck4zpk8gJJs+r5qVER3ujLwd0SQY9SYuS0KVwvx+gQEk3tVBwAox
-qS0veKE1Ifvif4oFiQDqSbr4bAX+bx7w47R44ap3tHemETAeV7CzCBKbDlZkEhLy
-XZdAu/W6kHYgBkR9wQmHCrtdxRcS3CQfew2uIyBzcNewsQNOmjPDBEGrQokABLWQ
-v3gG+w4ZrNTEvJIY4ww4qQbV1EPxMHLkiGKGHHR6NsL7v4/ffvy8PlXEZw/YmWLR
-CB7CxRr2I4kirWTc6qJcq9Lv0FbT7rMFIXnakzzCjkIjspdeMXY6V4cfvY8Ve8oO
-1l2occS1h6itVdCEsZHA8mmCbZHCgSKJAZRbx+fFiQoxKVMXknfXGEtvLeS1ErZy
-nECn2Lus2oBZjbxZGUxVKPa5imhlefISMtiekwYqBpInB1m3LO8=
-=yoAD
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqTDCEACgkQSMjV5ji9
+inxRkRAAnQqHe59CLHaM5Zd7GKfiAzO518qplNS4Ja4vPUa98GcXENzI5bjvoDoO
+DiO1mlORLVa5FRGueDoWTBW/YKNqeLB1dDYhfi5ACm/vov/j2qq50xiiXTwxaugd
+eqCqNthCiP5B5sx/W7Nw17TUXeC5CZrjULbR537uz8WWF5zFcC7lGN7eWZOwRBKq
+wBZ1UAiB/WGBs/WHJ72hwr0Nzhc7FXy9FoeZSh8ftrMkPCVvs/LhxuNN+P775T6o
+7GaG1kDmudC1Y+Kb2BSTrYksVoGzBne23c4/UdVTAuGFeSkc4bLOeXqOVr4YVxTn
+RyPepC7Ts2ymrjPxFeyMLv1cRAhKTON+p7O7yEmS+2R62paqjLE5MA4rvzNtgmpV
+4CZGYiKDjj7asZHds7EwxSLTsZRjcHkJb8utTT6rw83h39zkajQ8mUxMb4PTVPDX
+7HOPX/G9kCW5y5op2Ty8FwBgMB6iITK4M9RnzMSOIdYSNlY4bri9aQhGd7QtkZyS
+TI4AO6jBCIKd5ArKMriCBb3vIKbqO+DLYT5oLOq7xUjwwuSCU4yP405fRaOJi8uE
+jsU6rlTKEB9wjm9QajxaiqHGbAon9dze64oPVZyWu184Hz8gAU/DTdJ7dmb49YI7
+Xg742l4TgNtevJdPwl88m0fLEIsJrjf7wFIqJq9PHjTXlnIVIYw=
+=SMT1
 -----END PGP SIGNATURE-----
