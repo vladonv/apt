@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Fri, 28 Aug 2026 22:19:13 UTC
+Date: Sat, 29 Aug 2026 07:04:03 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIyBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqSCWEACgkQSMjV5ji9
-inzcpw/2MzFuLsnGtZa9DKVvl/dcQmQV8Po7LCctDCyRLHfsO1gjonQYSBN/57KK
-LZsOvDyjUwauTjbdfCn5Bk4HyxMrf+3mbCfQXY9vDgw0ttVHGdEi8tY4eCXM18dg
-DBCaQT7R0HrH7gqpvxY8Sy4w9JFEnNAx7WXObuH2GlO0fPgiHah9ddDstjpsi3kl
-mXbxSNBjfFcaepyzvxNbTuISpmdb1u3XngIwggu05BTleoXhPg+JezUXRW5/tu4E
-LCCX9087L9UE30ZTNZ+ywSuJA/Y9UYi05WAHkJK3WYLAhuUnQrRPvhfdXPVaWqdq
-RiJYofEMfusKznZMLCHx223XDD8cajdo3BVieQabHJ5EYvDyoMIXgWvxBLCh3AXs
-G4pIG1oPLzR7UPr4mC7bLnXEi4DoOGomJN4RoO8y5EU3Is+ZgvgzC8Z1Wc+HcUnS
-FmootC9C9Ex9B5zvbCH773XMMr+4WCMAmCvVoQ+cLSrK6xin5EURtgTBBMWDDhtG
-41CJoqs2Q3/1/NNsMRARYI22Gc3j/ZZsRPgHp5vJXDTDsml25VlVkIDbM9QsxkbW
-bvwjf2vcUnG/4HHPn6O8ZXAAStWUWXkj/ZnUlMjrQ2cjPgptuXbFiA4bqYWfe65b
-VeXhdwCQ9mVHp5UR/77al2SuudNT44nlg/9LRKpiZkmpOCA40w==
-=OllO
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqShGMACgkQSMjV5ji9
+inzFSQ//fUBx1jmVHo4fsQAS/zlH35w6nu6RwsPG8GhurFTJ1a6Zsj55B2A59a/t
+7xeazRUofEwBJyxq5Fm4WHT148RfwOMPl4c4/5uO2445PYTX8yGvDCxoBVwOjbRX
+wWsJCfKy69OVJo/S85ZvOau2nSbVYPFLzaWmcAUlI+iLi2zBQCWC2EX5IjEJndvT
+ebefUJ2cnMRwDxV3Iw0OUoi/VoGX0HJJKCUZ5RISAesItj1NvfAUkuQ+obWK4ZeW
+CqtfHgM/ydrjck4zpk8gJJs+r5qVER3ujLwd0SQY9SYuS0KVwvx+gQEk3tVBwAox
+qS0veKE1Ifvif4oFiQDqSbr4bAX+bx7w47R44ap3tHemETAeV7CzCBKbDlZkEhLy
+XZdAu/W6kHYgBkR9wQmHCrtdxRcS3CQfew2uIyBzcNewsQNOmjPDBEGrQokABLWQ
+v3gG+w4ZrNTEvJIY4ww4qQbV1EPxMHLkiGKGHHR6NsL7v4/ffvy8PlXEZw/YmWLR
+CB7CxRr2I4kirWTc6qJcq9Lv0FbT7rMFIXnakzzCjkIjspdeMXY6V4cfvY8Ve8oO
+1l2occS1h6itVdCEsZHA8mmCbZHCgSKJAZRbx+fFiQoxKVMXknfXGEtvLeS1ErZy
+nECn2Lus2oBZjbxZGUxVKPa5imhlefISMtiekwYqBpInB1m3LO8=
+=yoAD
 -----END PGP SIGNATURE-----
