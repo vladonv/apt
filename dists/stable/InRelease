@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sun, 30 Aug 2026 11:54:02 UTC
+Date: Sun, 30 Aug 2026 16:40:45 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqUGdoACgkQSMjV5ji9
-inyafQ//W852op1tmUOns3TWk7dQIe5+Z2pUhOtPZbZxofHNj8ETtCvtlricA5YY
-uDgzGdOdqUgDBT+6nUjTnuVD0D5Y37pZdgKTzjz+dLz3vLc3Tze4IFnw1dsNJUQ2
-6a7y0uKlNSHLUzJKDCU6NBd+BQpztFIgG8YH1DztC3Stv4mohw+vh1m3AXCGGpC6
-T5PnrIw4EsN9N9g6Bjnt03dTYYYatwyp3dnG7fBogf7gp9z2RD1Vf5YxybBefKFE
-SGj10yoIoRWUxbUoWLcUpQxCYDMArYl2WETqNi7Y/by39sK3HQ5KYkdWJD5s7R/g
-Hn55BXiOTCnP19Mq+aCwBzPXUXlmdmVsmXpthRFxFAp6Cgya8MAxTXuDQJ6yrs0r
-mEWwzM3KsTGoV50MHPwx2dEB4yIUgbbVXtvJMJOIc33LjOGP4g8EM6vl0eJPJvm1
-wOb7Pz73TXL6sOtie0WZbgK2PWlEbtTBkTP4v4bJo9EiKx1VAC4FWKwi3FB1neaF
-lJ8FCzBllLNFzuxQfhsn0kzhXGbUqD8Nkutn+9U9IyOwoRYE/LR4vjL9u79Ult3P
-wifXGOcey/oGXkVyeV+Yoq4dqONqJ7t/tvvKnCUHMH4OKrwcBz4RLj0eyIpvtz6e
-QCDpGVaVXA9uONQwnR4jqY9jlKOGIN1irPSXy4FHoFkbvRvnvCI=
-=yYWi
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqUXQ0ACgkQSMjV5ji9
+inzx3w//S4rrw6wLm05PmpRTdlcqo0n5JbGPt6wuSKp7eq6NaKLcnEWLb0y5Mmvd
+IPqKeOZCNI83s9ctngk45YOofCZXeLyEV7egCqEsAxBaehcHGHRLYf73N/A0PVdy
+7tQOfTPP3bOfPHAlNcdjz2rkSlmBul5Bf6XgJMBr7mJOi4Eaams7Tu97lzQpnpzt
+zri+aVLMYK/3Ka/zXfUN0FJSwl6nvLhp6hXK06WU4etHhnyP9pi8jwZLxtQGYMe1
+IKwdmL8tJmzmXSkmTC0wBLXcfq0KNUBanjVxf7yr8mDav/9VRSPWZ7hKR1/hsYtk
+x2EAGX/ypC8E4ABS5S2YBulQZy9kEq9A2QxGBSbSMsm1cAM9w5GtkRFLLX2qL24g
+UWRIxdBcn6d4zVaUNq5MVd2J2cEZTkErg3sDafhvlrWCbg7nnCGswKttd2AIbRmt
+oetXz9h6DnDdv6SMOYSmkprjYqgte8umiSpy9KbZb+jbubJEbftqG39pCObUKScb
+laVlKzRoQFO9mmfkAAoam878HNdk7BzH+etCg1KUatKtQegFIWA/NUOVyPZ5M3/b
+T+l2jQkp5Wl8f+mDMfGxt6XOy4w7DtCYsKoxNdOFJ01QG27e8cYqUW/92suAFs9Q
+vCiMBPnWxbD0vQi/sYbsNtKIz27aDLNYG/Ms9NcZCFStddbh5yo=
+=ovi/
 -----END PGP SIGNATURE-----
