@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sun, 30 Aug 2026 21:05:03 UTC
+Date: Mon, 31 Aug 2026 05:33:46 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqUmv8ACgkQSMjV5ji9
-inzThw/7BG3iy656BpvFTsS6Pc4vqe70j6CbZ22WnJxG1gktcGlWt12SbJnHrdUX
-SNozwkJQUGobzPFEV2k3m+crp55kQvq5XTvYqwD+TM6YmEq+F/3+bZePmIwR6Dqd
-0TjEiheHmhV0+FuDJQymRKRSlBXY5PoYoedCjv9/dRpswhFoAlsip+ed2iZhUwkz
-jWMkerdEeUYYlw2m/G1ywuzZgLjAS8RZdKTDQ25rdJHWjtSzwZQKf4a2T1Sezt2j
-sal3cItFMOnRUpXGSbiJulNqaeR/X9nlN/UsysjInPVWOm18CJUBzfqMbJGTXyu0
-cIjz2RmTKtNJQNKD139pv096KwgCheX2Bab05VZea59XrtE1FEiN776KL8d2bKU3
-xzZBQ4ztUpdyfhSyz/+5OO0L/eSb1hscIsgNrRTyRDvL/LMwQzzKe4XoAw218wzj
-KCCVM7Bh1HRAriHDbqo8jzeYgSPdzPTZMVRRxINqAgfnW8f9GSAOTW7RmslpYEOf
-idbbDneY97U9XSvmXP2u9sKGrJc+P9QvSCg7554j0LzQP96jrLcQqC+t92De3hIo
-29+K2OIhP0JMgaAG8t1Vjx4/XgCtKobZw9J3ZkCDtsQeuE45H+Y1IcDFEOK+kJT1
-YXY3LzRpcqXMM6JLhRCCO6EUfKKQ81g26lEJgQ/Jej8xu2kWDKc=
-=UWHZ
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqVEjoACgkQSMjV5ji9
+inwQ3g//ZjD4RTwpVHlsKBbCVJ1OOGLeybG4CJGzZi+kP2tQ9K8KhZREM4dfVdy8
+iy2Z+U2Ces432ZvM7x94fq59QqoDkSF04LDz0m9PrL+zoAknvNH1pFciBs79Afpf
+/xRjoeqCUMJyVcHh89W6TL9vqtguv79cFcuDngMSwrzI24frEicGugn6l0rVPkTx
+MY7Q+Qds+OLDyA1jAgLZpsC9dvDMn0ZKk1gCpKBn+fij4ZFKsC4VaYezgb/lgt8P
+cW457miAFljr3R5oVNtIbZiGfrvLq9eI+ALiSspE+4zwFdLob5/faswwZBBa8wsU
+10pYtTfeWFrUzIRDLVLix6Pp3eC6ydTaLwhxzXuASby0dpe+SldY+NQid8NKuUDg
+jBpqHfzG8fK8O6vi+aKWDXAgilStj87FprsKNSBU5Q9wqggeti44yCskYLDcfJiC
+872kSCDISlApHfGUYxICXBDwYdKzPsh3330h0wDJtDvL9/odTMGs0D59+PyNUaOe
+n2chCHrHeKEZIT6OUrdlWQot1NPKyzOyQdU0BC5o8GSkDsHj6ugGoRNi2kYb2pUs
+3WCUs4dF9KWXP3Ao0L2nhtBUFsEi2BCMr2x04EXP/1p1nuVXCChSPrBFY10Ko71a
+9CeOWe1w5OpbnvYCe8XIUuAnVFWixWA9ue6Rb6tYkhsy/fvR1UI=
+=1hcN
 -----END PGP SIGNATURE-----
