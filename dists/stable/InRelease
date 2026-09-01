@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Tue, 01 Sep 2026 16:39:46 UTC
+Date: Tue, 01 Sep 2026 21:02:39 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqW/9IACgkQSMjV5ji9
-inwftBAAxiagnOTcoaaDYZb9IVSK370jUOSb35SRnC0ly3UJwpjVTbp501+O7S2q
-FVnt8j7L8zqwNn3qWya1iuttsTNJG9NMR0bIR57PGkf7h8+t1Ck8kqyheVAF8hk9
-waSTFgXru61ZCTQFMHkOcm3WM+br+2rdZEG+cXZJ3+YO/ffLaDJ8u/fOYSvk1pnv
-M0bBtCCJ9dM9mRltiSpXrwyghKlZh5pT8033qcmm6vlwz1iqL2ka80/chDA++1Pm
-ZhUi+3+u4lA/ag3gg3UOn2Jlt1Hbx8vEQYztdxnr57EIERfC2veJnQchklp60tc3
-EVHU+U3PUK+39A9JyZen2IYTuo5yN24WMhuOUqmKLqc8MQAC4o4CtsdJuCs6Hk3M
-chwODSojv1eRFBlDvrEdcHgf/6rBb78QCGOZbW9LbIEkjX3pfp1O7xihNlYb8nah
-H5f0LZCH5ygYPnPAJsMRbRPtZ9009qqVCGYxt5ymJrdaHhdZTlXN2pUPS5xaCYuw
-m4VaevdVrvoQ/PePR1BKwN5RT1bTIpFtsJcPrdh/ZGlbAG9sPQYawaXmkzLqm1X3
-9qBJx/GaKooFn9uC3nCTfrTmcBBP/gxeo2zULPcZt0NB1GpI1aL0vYxO46hlIFNo
-L9vgA9Otxn1pUooxix6IbpIbZT3M46TB2kTgSVQ/TqcGShS+qe4=
-=bsNj
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqXPW8ACgkQSMjV5ji9
+inxN9Q//e3ioqKsshdAEqMSjAJ/ACTAqrZwV77CZVraclGDYdYw56tq1jbTpGaLW
+MAXURH4zIiyj7PtyzE3goh277K1Ezzijar5S1XHJ9e1cGnUJ3BriYqrZEhcIYB8S
+DJJCfxSzzLPsl6CGAyqyXvistX3zXptAe+A7hQQFmobCh2plfh/1DbMUN/GRqgh9
+fjhlch44CMfBlfvjOl4YXxVMuoV++SHd9SHQyt9U2l94P836u0g2rd/qwl4De7LN
+jUi6IFarGudv6IkrtAw3/DSi7hVgSCEwEo/qhlWECx0VKFepqZ1M9qe4oQDk8yg5
+N4AbeC5B4nUuBqQQo6/yOdu0MILW77XX8dYZtDzkjdTMjph7y1CEqAYpCnffrlTO
++WBaayrMG51nmCxKhIUxXBZWraSSjS/Y/A9RnENp8ridyynOttTUo2e3idl56t/G
+g7k2pVH4aJU8WtVkEKQkYeSFQUyHp7mkZzPpSyh8jLKwUztXRlrEAoQwiCWeuoh1
+ojhp8X0URcma2SsbqoOyM4/aNM2tAei9wS/J6FUOyqynHzk3oxctMCunf2jyYkYZ
+h/zKicN/RNjOVVQ/MZpWtx5sV4uIUvoV0Htj/c/VPbQY6s4ZSmpi76qOU3wjy730
+rjrO5IO2476sPa+YI5GjvLjLYPZEqKcRJziLroJ/4jalBTmy9us=
+=9zp3
 -----END PGP SIGNATURE-----
