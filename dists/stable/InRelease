@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Wed, 02 Sep 2026 21:03:05 UTC
+Date: Thu, 03 Sep 2026 04:32:52 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqYjwkACgkQSMjV5ji9
-inwgrhAAnhGqBxCJc98WPg9dNe5LnYRGbjFPvthtv90/qB9pz56McAvQNpw7Utpe
-/NMN0g/j1e3daISW7qIJAk3IEz7CSS9/AtbjhdMHgREwX6z3zLGPVEvVjeD7xfUD
-pKAd7PcP0eb/xpeMPlvUgIwLJiCGTywlASzLlp93McAAMdcm4XnwmafCSAJBIF6d
-qkjmKKkAfJ4CzJkccY2B1hPYzWzZqc/caNVaYB/R35XvK0QLAqcUCbglROAOv20k
-yo0i0JPUzboAHo/5nIB1g6J9ws9ahoX9hg1MndxPxDPSs+1AZxmo5UoA6zqswLLq
-0DZkAcyLWvhI6NSd80VUC+mbrqc1dN5KZSORhtLnKLaQf30QJx+yLN3Dgm4tfIts
-58sIiiwH4WpG4BTJSjjl9DDCqLA+I56hnwwuFohNVoFMXd1lcup2u/+c2dXUHqYD
-Bm9HNcwlp0aHOdhNKjGn356+MOPdRPwbGiwYoPJzDJuVHqdTE8nwgb1wv4YlpccH
-F6AP7JsInFQlsJSBO4CwzLS4WNdJ+0Y+E4S8JdBODIAjlMzf4UcT8IIC73+PMPgm
-YWdCRCADZcBqiUKp0/k//cya/bICI0/z2PT4ZM0XvGM6/cPu/NktpRYFDJvnJVQl
-yoP3nmsXY1lPPHrjjWIRHrgsQVdEC3ajz12+VMd5zSk/7UDxz5U=
-=Lo8r
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqY+HQACgkQSMjV5ji9
+inzv7A/5ATNGxLySq30GWnGDOtedhyn7+279m4mvQaAFkX/8fDHAPFDYaPoYTF+a
+sRJHbeQRA1kG/f02LtdePw0qtbOAB2YBDKBiPKpbwrSd5WeDTlKhtkItxspWKpOm
+XY8eYLlFxBG8dQomr6AJSp9Ls7eTN54xB1Di2S/F7UwBFZZod2zvBHIseBbvLKFa
+BiEjXo2uKG8S0Zc2Qv4hr0OlRS30+XYmQ7Tk/fhPxRj4cOpAIHKi+oAlK3cNxYxp
+yHMb/HwyljhTbWb6CCtryYwTBB1zIGMagrNFJh/0WPy7gPjSjw/AchViguxcCM1T
+XvtCoW0akBaA2grBJGyh+a1P44U0uJx88UF2p6OICGfqvuqGQT1SrfA+QLt4+t15
+2puSurpmzXuk3cP2oMtUWG4vT+XDLKYNpQyR3haZgVV7LUKLjBBFY+hO/QpagJiV
+rHq4glhUaKNTsW/jhkK++2IMlWO/kxtRc0rjPs+i08a4cPldYvDCom79uV7sefxK
+xxZJeZTL4xInMUeHZIfTuPNn8QrDGXctNOG8jHG6Ie1h8QtvWvx7I8MyWfdZlgwT
+Cox67YX/d/kiTRDyR6qJ7OCw4lq6UH5P6NShiWbB6cQz3NWgEHaE/lrPAP8jceSy
+3+BIuWpGbzLkDt9AH+3ep2ctQHiXJwAsVawUh5XoG20X3+NpPag=
+=2//A
 -----END PGP SIGNATURE-----
