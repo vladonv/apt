@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Thu, 03 Sep 2026 04:32:52 UTC
+Date: Thu, 03 Sep 2026 11:13:44 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqY+HQACgkQSMjV5ji9
-inzv7A/5ATNGxLySq30GWnGDOtedhyn7+279m4mvQaAFkX/8fDHAPFDYaPoYTF+a
-sRJHbeQRA1kG/f02LtdePw0qtbOAB2YBDKBiPKpbwrSd5WeDTlKhtkItxspWKpOm
-XY8eYLlFxBG8dQomr6AJSp9Ls7eTN54xB1Di2S/F7UwBFZZod2zvBHIseBbvLKFa
-BiEjXo2uKG8S0Zc2Qv4hr0OlRS30+XYmQ7Tk/fhPxRj4cOpAIHKi+oAlK3cNxYxp
-yHMb/HwyljhTbWb6CCtryYwTBB1zIGMagrNFJh/0WPy7gPjSjw/AchViguxcCM1T
-XvtCoW0akBaA2grBJGyh+a1P44U0uJx88UF2p6OICGfqvuqGQT1SrfA+QLt4+t15
-2puSurpmzXuk3cP2oMtUWG4vT+XDLKYNpQyR3haZgVV7LUKLjBBFY+hO/QpagJiV
-rHq4glhUaKNTsW/jhkK++2IMlWO/kxtRc0rjPs+i08a4cPldYvDCom79uV7sefxK
-xxZJeZTL4xInMUeHZIfTuPNn8QrDGXctNOG8jHG6Ie1h8QtvWvx7I8MyWfdZlgwT
-Cox67YX/d/kiTRDyR6qJ7OCw4lq6UH5P6NShiWbB6cQz3NWgEHaE/lrPAP8jceSy
-3+BIuWpGbzLkDt9AH+3ep2ctQHiXJwAsVawUh5XoG20X3+NpPag=
-=2//A
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqZVmgACgkQSMjV5ji9
+inwo5g/8CIRskkr5gJ9gwasALcu2tgDtVzYsz+gjRuD+Bo0O2B1madE9GVepZc41
+Bmbn2UvuGZmRsmEmwv2JP9UKyczVSYIKzGqmcQ7g/E27DDIvAQQzpij+G+qLJAeG
+R2i1nxrZ+GO+zl4OyezNwZbxXXTBHsabwU+vqlc30kfmsCxUscQltgata49lsQNw
+EFNmg1kLj767FwAspcqtH4J++qSItDBvgplR3GLwf1HOEMDnnI/cX1HHb0Zc9BLw
+LqXmTcotM/5Hyu2gkU211ppWxe5vocZTfzynFa2dx5mb2gP0/9IlNKeGFkbGZLJY
++kQ/6skacoAOU/q3EX1johuZ6NNzxpRw2wzMV5GyNCdsqi9+G0cXDoWt2pzSjBXY
+8MlFIV+320Zc12a0onHyW3VgRiveUhoyZT3LcF0eCYvPGyE9bbiqfU8ths5vEIJa
+Ayelh9bUUJlL6IQgu+84u/HkTmqzxLRcSqhRzdvjhIeMgO/H7996FG8eXOLfsa4K
+4Gd1b9zjuQi0qIyTOt/4ZxrhMsrhWN4zgRi7MVllstOyHDwV3+1YuEFT+sanEJZk
+OVD8Igr+9xsW07zYKG6/xzAO2jLv7sht4YsheVePxQVwKnnlmaTbvWDjwPMSgWKV
+X/JIJS28HdopNzNbSjb9bsPi9oSm1XNGNLCuD+rQv9nC5RgAPIQ=
+=XBIz
 -----END PGP SIGNATURE-----
