@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Fri, 04 Sep 2026 16:21:05 UTC
+Date: Fri, 04 Sep 2026 20:45:32 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqa7/EACgkQSMjV5ji9
-inwnUA//RPlZ168zUTQYTzmxVitRLW9JhUEpQpG9rNh1Ths71w04GnS6rGrCMRle
-eCLrFhFNYO/m0MkOq3RRTEU4Kb29zTL+wlQaQqvvDH2HobwmhrzxeAV0hDziS0Fx
-dQ/VDcvoqzPZK1U9oiKb7LGzqYPWBaAKJDOWKGaWSFLiaX9f40/Vhq9TXG8iEjBR
-2ixLHgB1gtE/IFs1SCYaJYREpkJbVLgfhmnsfoRZssIYxQdcv2I2HCkIQMYFgsvw
-D4/7pRdQ1l45VhRwtp0J4RPSHA0+PbaNdMS5w/ATNpQs1R4E4WsJhUSVhH068DWs
-V2FyICHSDR8Jqi98jAdSPvDKjcBmWpmC97IxZi5fAwM+uoQpJW/mhAJm49G5wnPY
-sc60mgJO7ZQd9NyasgSZYhZdbV/hHjb4UIB89HrhzRyjursc6zJCMD7uUYh/GFuj
-Dl+5lvvPyLJy41sPBCJb+9j+UARmPfZRpMIGa4MERw0XzGFEk9wAZydILVLt8yIQ
-fl22XrtaMga4Eo9r6yXLnjsJ5QYjzpeXP4Ys+AImO3wzvQV863U4NV2XLL6G2gWX
-c6n3nQeTcre7J/C47xo1JIoOygQfBdMRJdhQyvuFYvNuxRA98OcqFZzqB9FVuG4Q
-jIx1km1+HK4KNvaLqWkG8gIlrO+zqQWDaCnBeqP6KRdVU5ULtCQ=
-=dAEJ
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqbLewACgkQSMjV5ji9
+inwfCBAAhm4Hkfgiqo8WGYxM7CWxvGr2m93oVpLIWSW5rvPAG3iCeeMSmMFeQp+F
+2tOwK7SjDfAsQIAhsbkpQsUEZjUSJU/uVWKa9yO/+K6jFfMNj7etw0D4xnWp/A8k
+gNQv/5iqb9zI7yYdkxryOdK9JWZGDbZK7TdrZoLhADdpGCTh/wAZmxgvUxqt+SCZ
+Rtq0ExxW87jLemCbxEf9apdlHQjWota6xm8mKRmLnHdrxqS3b+LTAbrIQYKQN4HV
+eHC5KrOQW5JhONGroxXQW9p6uFoGhgbSPo2kov5XPV3ZkVgQaqN0QjlRzP/mvIlF
+YZ+n5yQTsbEBksrd2eCx8uO5iAjMkfKKDVeCLv8KaVQwxkcWj5Xa7PWCmqK2lzPf
+X2PRVqQFolmzu2iGyC2V11sS4gUFcD9AIIN7jIuZRaRaJtiHCG+w1DSpPSvyjucm
+a/htNHv2XKW468EDYG5bec/xHJcC4uh1bk5HOY03XjvUWySsG3x9p94kBawZ8nVc
+KuQNm43TUvmOoSP6/anPOW4+9i018UXNbjyUaUV57Jd4EvFyagtSMV9caO2L8GK1
+GV+gqKdlNV6iCkcD/8oy8zgXdBdqTIKfhZ+HCClKRpKZhg1q9qz/s/4jAs4rmyah
+gJHx6oTKafU0SyzUkRYe3/lu147svzsBPjJ3a88rRF7bJmQZ9Mc=
+=Pbx+
 -----END PGP SIGNATURE-----
