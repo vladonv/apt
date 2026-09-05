@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sat, 05 Sep 2026 15:13:17 UTC
+Date: Sat, 05 Sep 2026 20:19:50 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqcMY0ACgkQSMjV5ji9
-iny67xAAi0qF+KUxuxRj1sL8LZ00S8CR1I/vmGgO/xcOV1XilUFQotlTvl6KxRcW
-WaUNY5f4kCDFvUs5YEOc69nhU7uVWhq+7vCpdcSdBB5/mNgDHRti3WMnu4gw4vx/
-aOYmh1vtnDeBbYqwCzqxVkiBdbZdaiRaQXCGLc4J+0kwus8lCWEBqj6Q9rfKJKWT
-8+WDbnUU0OrU4UnX0vfePjcpLqgR7w1vM0YcUv9nxCr6bMkwJEvapOYg+HdM/rBt
-huAZiU9jhPg8ChLUF0/8rIjpHzHxjiieWqaPegAPjM9LsG+o1hXUMsiZt1Riz7y8
-YlVfB5TPWIzXiZPrrARHjpQc4AwHQh2HkJw6wycr5K/rkWrTpzr5cRvqh8dFdMV9
-nEvphJ07aQiYyTA+U5PdTtLrMOaaK5yL0g9pC0FSbc2mwaoWGt3mbEvjRP2Gt2Ly
-dCU43uqA6KQJzVdFH4IcDHLFvqlJdXrH+DtL8TsLxwtMAg341CVtZIF1A5ZKgkKz
-SrR9R7rEcHVyD1KqKW+eABK+fvem4S35+pA20CrFO+7ICAq8Cjlw0O6+x/PImP83
-h6CaFeS3uKa0GCErNx3J4u22xSGoE2S3hNDa+SH9YSImqycdflMLXOvHo6zgxE4z
-c9xzluOLQWWuj0vNjIyUY+UfVJN9O/BF9hzf2fmQXhePysP5hGk=
-=y+oG
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqceWYACgkQSMjV5ji9
+inxyrA/5Aeou7syxqwLlLx1rDZmYk+TUXr5db654m9gT/jtvy3HRfOVwbYLoTlV4
+/K0BJE4QHHdLiQiMTA2Q1sSLHhvUjsnkP2AqB3fiKel0CnjcyIiNP1/tWSoBmNyv
+Ax1rWmip3Hxud1uES1Jrv7+dqNhpvTg4gLPi+I0mnPRylZ2oBvBZKzfRX15SOYtg
+iOZ4pDH9hpEPSq2yaHW3ETYG/VjqAVS3Wy+Wh61LzglNPFiEHvCmvwk5SY+Tsbbw
+dEsmR3kT2R4VcDZiogq94WU4jNSj+oONpZma0oIeg0fMIkO4MM0P2qKvvX72ok82
+GBt3B/8zaqH6ByJopn6bVyeD8OmcL1dZCkgHOHo0UFFajE5YbSG9863GNJwCxr3U
+WZq09MgN2WiG2ox8cy69eLgrnbPgnW01S2i86QVswuB4bGLY1HWcfPs8tnouxqfV
++kOgoWC6pyY5bClUnpnPYnPPTJIiDN6hU9IVjcFp/7/bC7NE5G8OamMWjwRkf5/1
+rJ0ae13yve1QYSTuQEoQYSfZpuEZ01T9w4cpjYm0MWGvoawS/F1i6Kkpw6XChHKE
+vrpRPnJbLKclTbZzaob9bU1E+KEMxvltkjHnwDRrZeLK4CUU42jnEJwecnx0F9Ha
+KARf6DGzMjzJ+xNfIcbt1oPjU3tcMMHHpYUQbKfn/MzZeL3fSEo=
+=MMB1
 -----END PGP SIGNATURE-----
