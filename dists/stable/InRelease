@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Tue, 08 Sep 2026 04:34:48 UTC
+Date: Tue, 08 Sep 2026 11:18:13 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqfkGgACgkQSMjV5ji9
-inxkDBAA0gVUOUOfciyTrkQK/lZJ/YtaVgjLBkGmftCEkZrli3dNRha6brPVlaPX
-M/ZdiXBOqcfBosGAq7ZALR0AODKSgOHACi4UHRBISpWIAJU8H7sEmGUEa97r6p7g
-kZxiBlMwEIupRiDPUXr76IbqFgAgIZ5h3smQ8SiPZifj++NCvgi1hrFILfGQJKiU
-58mjLXEi2RngMD7Z5Sww9x2Va6mxFJvjnfdb8zl4vxUqxwpCV+JrLv2qGGs6TE7N
-pU/bAZqAUsITuWHVps0BHa0quUHF496AMYU0yRSLvsRTQL667Arheq9yd0cegOvx
-YasIx2IERiiUrpyKxZ3ES6cWIMpeTpStOHKuzmN7jbwg/ClTUElHNtac9fhDKXGi
-3TRpbclxcPQCYfxLhrZ4Vr38epyVHeol1UpOtbyVNVCHnSKBHPRVQngQjOS/nbzq
-S7MvbFb/kbtXl2goNgN+psM70fzBwIdHS0Y/n2lzvxoV4Oq5/ol3d0DhzKpUeZwr
-Q3DQ4QYc1hpZZJ74eo27r5j2hvj2w898UKXjbkMZuL1vtXIOihA3jzZxZRW1gF6q
-yC1jIJxRafEPj/H6CC+84uIABQbypS/9WmBr3J/47IteHVCkbI95LeJ0kkWotnhy
-jGQVrpgxG0KNqY8Cen+VDzSPCGIl+Txo5ZFTJZBZXeSTkpFxwos=
-=aNXd
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqf7vUACgkQSMjV5ji9
+inyyFQ/9FvI1g6gPg18WDPHYhqXiP9E8NYLnxrg6xGiu+gzansZsRPIiXGfy/p28
+o59NoedwK5716XIDTgYJBw2FayeaQMeDova4igRtJOsnKqquzJOF/p45VPuEN5Bx
+OnuHKdzo6hlndpFp2nVgHqbaiIaPV8xT3RpehyMbX3H3sn00zUTzTlD+39t9hG5v
+Xpm8k9vgoyeceHfpKnQhEZ4UmHBVrZ3SOpHGHw2a3asBaOlG19sW2Pi0YyCoXpvM
+oIgYdUAI+H6FWiHfhXiO9AR0GMqEEjQuq9OQvBflUmkkyap/yBHT0c7J3KbgBz52
+nAgJPTDdeBg368kwK5FRE3nrS00LxQuVOuHbLtNijULE7doSMVtO5YiOjyMItbWc
+wV0LjwdanzbRIj4O+NTrwwXmiaGsysMoP0zbX/hhxumtcMR3cKgSO10/ZMPnIu5w
+o6AEFQ/Rgek6tgTvARJAiholwbkUMsE0lJfuSHDpYRqszr0XY+MKzjnPwXhNWZkk
+8mFRj9nYAjohZoNLh4i8ZRXv/2to2g1+8aD/PnBJKnCm4g0124jRoYSo2WVxaWKR
+0ewU6XHuLUL/OD6sTPxFz9jiEcgTLrvTliWkgRFyN6mmWXKnhQ1Kkb53qXlhikuE
+2MwuMvX+beL4+Mk/aSg2sSzMDASCN/+ExLILC9iY7s/VSZ9uTTs=
+=Xam5
 -----END PGP SIGNATURE-----
