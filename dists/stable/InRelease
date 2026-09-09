@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Wed, 09 Sep 2026 16:38:06 UTC
+Date: Wed, 09 Sep 2026 20:55:56 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqhi24ACgkQSMjV5ji9
-iny0Cg//a3UpSMJGhw07LIZ75xTEPAgOM06ZWfkJ+ttbi7Z4OHbS6Q5LwwYOvVN1
-xKLQUIAwnIBtBuv8GKoLjB+9Ip+3xsAt7pfYA9LncA9eLGxk2ZZ0Q8tsJsHnMUJP
-dab0HJ/P36SMBv1Tx76AcXNwmPjSWwVMs7A4jGLypf2ItIUgkXGiexBim7FSeact
-1s8ulWK9OkvyYLnyUSt5g1bKg7qdYczcc5tmGICJswBQ+dhhOXcM3XhQq9QhQEfH
-lhcPvNwwMaaujoew83SI5iXraWgFqYkN9yZgVu3UCaIUHc1KMe8LP4tvwhcw52Ew
-afzGnu5jD1AJN5vIxlaciLHRSwJVdVGIEITzA5f0VJD6VdfTPt5Wqb9vq8pXGzrb
-Ade9FlXWFBejuONziMvM86NWwEeGXuOdxhWnDHcFd9kUvJQz+9Y6vp0lGn/X/JI/
-jcDtSChjJz0FRn0EiHX4xNnX2hy2/1przPZpOsWRA4Jz11wnEaG3BPz0Ed8ANvDD
-f+oSAgEjgB/rY5HLtq0F/GpxY+wRlh7kJJk55g+2aWLyzb/okvYBZvd7GnXA8JrR
-Fm7n3tFnyCukmJ6CZgr2qszWnHfPb77Bl3aEeiJG7XwUWAA6dzTcqIwIZlrXUwDm
-6yG5aY5O41DdRcZ7a4I+IfY5zt30ZoRb5GaZG/r66URPwbuw1+k=
-=v6Z/
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqhx9wACgkQSMjV5ji9
+inwnlw/9GuGh01iS3UsqCddaaasNWRYGmPoDUoj/E7Vt6rMstMcX3ujRWQYar8V8
+JWdDUv3aJLQpJqeiF9DbyBoqMdwQ9MNjuHAtYkDfPWHTzm08XnREhn1KOz0P5j8i
+0Nl/R5DV+sXippLg/8tKvUCNIr1nvC3yB0UUU4ijZIc8VYXdNdm7hqVB/vd4Npje
+IHJPf2VhXW6L201CSgAe45gmwUg1/HaaITrGT/zWCuY8drSsjKpRCDLE0Iqnhy37
+ofIHR24T6a8bhCun6a2cZB8M4F8mdRZUjmTX3yTotC4WXcWZpaINYRuNw2wWkNdZ
+cj0YdWrI216c+5eJPhPHIn0e1Y5UQEd0+S0gV5NMxQsi5b+QpIqp1ej5/lOR7OLI
+8AC/KQB3FnQ1VLrsiledeFBn8FH1RUNbR8qG+LjrqR5TRRY7H2fPcTyi8ISNGIJ3
+9ZgdoEqAEYxVeI7rwgTm0avbNJjuUVXzdyy5Fu0hbVDNmYopjCVvAkoRiyq2MRc7
+uN/d8CH3BW/QjtAlkE8Z8S4/L6Xkwhh3G85jjdcSH0eoc1FbN8R/nAg+A26C3qMb
+DMeYMW/y4+e5JTorvs9p2sCDzmj2nGifk+zat/KTi+mpOm5y7RNnIuDE04jQg0Hu
+fEVwJv6sRWIWX3IremcVVZZp8AsPydPtoHQNV59t3rKtrhQrXpc=
+=RZ39
 -----END PGP SIGNATURE-----
