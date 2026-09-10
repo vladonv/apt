@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Thu, 10 Sep 2026 04:41:55 UTC
+Date: Thu, 10 Sep 2026 11:19:03 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqiNRMACgkQSMjV5ji9
-inxu6Q/9G56fWlS5VF4ieuIaBJ8LV30sQBCa8cXvtx0SBq7k7gRvJSYCPRGf71Bj
-uy+LdKZ+4mi0rUx7wBTZ5Rp7saYUYLNqym/YcZ0DiUA6BY4tb3ra/YzOP7R4+OFm
-03VV/KUyDgt/qEzalxf0pOOGfF/W3H8ya7O/IiqGkBI4wBJD7YuuhOJUTb1I/jP9
-2DpHU95ysm491VoTG6OWSxgjQhpVXWFPOfeX8PgS9OcPQUbBgbA84h9lDZRFLZsW
-6JJ5elx3P7YELi9draIPfqVd66iUjuA0d5dLD+LbDgFjwnEJ6j3lc4KKnyf4GBum
-FaawhjJdRIHUCTGpLBatGMu9HTa+jVA8hbawjM85JVcw6FFwBuPolLfvoIvw2j4K
-JZH4IBd5QdnvGKLBzrbaTRlmiQKnrG+frTZu1J1KqtVBbTT2u7jkGpN+a6lub9Di
-x8xYsCcVVgtD29Jg9fWAlh4BdZJr04iINX4Yz8o222PbVqhXQjBLOyVOFtsGZQjD
-M2j0ot6wpd8XaJm28C6YEcBc+dedUQk/aDqlzuIDMxfOXOYz0mkN27KIXaNuOScN
-51GFXK/7kes8Hh7joJS40vJ0IgQ/Mju//F2fjfynyOVAUEyJ0bpMZi53veAV8VqC
-FNzCSKw6dp/gYpHuIkd/XywQJpKaWYCmYUrar1UPMwZT7VaQn5Q=
-=lKzH
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqikicACgkQSMjV5ji9
+inx/Gw//SqbQDSUy/saYtZ16KJ7ictRNZdwSnJIqcERmS11E8MBJwfysrzANshZm
+iPvUyAFubfU9RWIo/ooHgdNami9lwc5xTDtUAuN/0SW+cwNDqZvdmVKeMYiJ2Az7
+3tmiifnpnR5smDIaO7HDJA9mqdAhAH21AejV6/QSDFNBIDPOkexwiVWpO97//Vie
+exQ/o1/PqVS3Agr3m9iFdM7WBAQSZp6/sX9JXJBx+/1rtOEImIDcE98w6Dx9ulD8
+KtNQs2xLLDpHYbMV7ulAveX/Gp1E/wm3BwMAORzia2YmWk9LD0eTFhQAv358nx2U
+v1Zj2WwZJf+bWJgr+tCzzpNXr3NapEmtlgrTCmHe2lM5NUbURA28SbF4RydsQLOA
+rkPm4x3OGskwX6xIjgMCrKY6z4JGkyexfaORp9jQ5TNcGIvJCWUG/zIcLsc2eDsg
+BOyCCljgVwO9IvMA5MLVh5EsdPjdn/AQ1foa0AgglmMMj+3rbKCqnZE4ASmBcQRX
++e54mBYSQUuuKqT1T/n8K34erm6gzymtYHXvT0qOp4PMPnJJKJXPBZW/vdOXhCBj
+c5nioc88JUvqjwsfbm6dAtjvm6MRE5bBQZSD8NHSUGASOfUwtaJx6BSmzHseJqjy
+i+uOl5GUAvbyGOXZc7x523C2A79UQlFghrMII9AWW4CoFmpXg/Y=
+=krOS
 -----END PGP SIGNATURE-----
