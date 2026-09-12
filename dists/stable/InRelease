@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sat, 12 Sep 2026 10:45:17 UTC
+Date: Sat, 12 Sep 2026 15:31:24 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqlLT0ACgkQSMjV5ji9
-inyQyw//f8ANc4n0hBP9tdrXun8DV7A+eUFWPzLFl5MFguaQbmKo9vFiikhQTbpF
-NA3vVJwxyfkALA68noRsPVNYlCvF5oi08f/iEwDX3n7zNe54Ze77TpNaSMQ9hBt3
-dS/QFhDvhdvj10XTX7VxOt7rr+Oyb4mmwmspko+T8A6pM99CBBMwSO1JRDHsVF3J
-Ih030MNphZwgldf9JIZp9ZovpMfBL/W2afyI0g4B7wKnuG1IbY7XGwwMbxFti21o
-V+AirTQ0tX0dsmKIIEf4oP6lnladVDZZDoa3OAvXQsudE+8i36DtfLZNrrFkO8Wq
-UAP/kswDbsokXOvMuYrufNv3cjbHLh1q8Pz3Xm7JegvMIQ91j5zjdxbBBL45HDOn
-RyeRxy7z+jT0kIOnPwNP4+jYMSEa6dNVNxbrGwt3lzj2xBFlnaZ5v9rlOhPJH9TE
-uwZG10rQ0ehcv6VOGysVZElXXG3YWtA6rk13RDGlmhdt9eH+CEu6hDfZTNU86jZ5
-nosK8is+GxaNdglWhOivhF+sFwhl0ntlYuU66/UjDH/mK1Uicb071MVzraNziKt1
-IlPWvVUxOAQef2CFnzeVDknPmPusj1TJ8eY40D2W/J6Quy0fLbk9m8pO5NQ4OO2n
-3sp5WL/3ZcLerMcinusdzcrXtgV0VsRY1mJQTRdx8reWS7wRKGY=
-=ef9O
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqlcEwACgkQSMjV5ji9
+iny44xAAgwmfev5lboFwb3K+xradhrLH96TW/b/H3+K4CxP6py3bcTxcvVwefG+s
+QPPxIH87rhMoYbdUQ/KHR60eao5tqmrbZdD4FGlq8MpRMWDxiy+RXnPWMxd0W2kW
++kAiQ5j5q58+1Ca6KZ8IEOBB2on6iaQ3ziN5Vc1pPUFhKJlwYl8pTYLZ2usPioKG
+SoYEZKakzVeyVQvu1n2WtOA5hT6yG0THkB4wN1aNNN6X5wIboLsGZISkzMntpjpx
+tofAkIjgmISjpx4R4K+PNKSAuvGQOQHjTKK/f1eKHPTCz8Yaj6O5FQ/n9SQQYE3V
+u2cIwKP0oUMoBPd4seP3h64kEBq1KjK3XTaa4nuS/THa9FRuQSv9warRMGyYO0+M
+FUBpfkPesAyqap829kpDreawxhW29DS0MTCg90WH1toTkE6FpnzXYlJrwZ7uophY
+YVw4zWEiXdL+t4hwbrF5EOIlagwFKsmpiS1vJUQAF7ruXt96nJbXPezGAcPhpoy5
+LXiVImoB8k3UxLWGUZ9AqLSy7ZmoENzl48Mntp+PkXs9fWfr3rx3FMZUoVwb3uid
+STZPz+k4H1ptqRKoQ+D7ZIaAjBeJAXuDKoBHQgFVXh0BhahMTabMFqobg9kz4inA
+z7IS+Wfe7O8jMQpf62Y2A431pOFHAZ4LehniJr43ZLEPHj71Zh4=
+=C2Qs
 -----END PGP SIGNATURE-----
