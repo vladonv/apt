@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Thu, 17 Sep 2026 11:40:41 UTC
+Date: Thu, 17 Sep 2026 16:59:21 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqr0boACgkQSMjV5ji9
-inzJfA/8C/vBkGpaJvKAHsPidDqy66Zz+pRsEYWBUYwz7xLvppOSi0rF9+wovAhZ
-bK0jJCQalOGpJLR53JAXMmqhml+T9OCk0SFx/pNP97bVxcxW+IA0p5yPc54t++Y9
-oEjbQ8AbU7CZiEO5CEuVkLp4kwcKuSr+AR9zsVZ4j5Lh6EH3dV3MlqK6wDV4aAGU
-6l51bxdMAz6A7HpMz8SmIIctvmJDBkXiJeclN4mnyPgCAO3L8gHDtiniFDr5trfv
-LTQKcKSS4J/H6brvj8v3y8cqZwVMcA9598Axv/3BphTlVt6faKzUUDtRuzc7GSe+
-hV5JEOwLYhBxCdo7Oh52gPOOfyvcowRDrpeS74TL2VQZfDEsgNhLoRjkwhPc5bA6
-13YPlHQkJqMiS/7icRoCy5EN98ubf8/HFI6vxdrMU3lQm04lYfzycbIrgiAGPigD
-68BWucrgw9xchVUK57TmFYLOwLkfx78e4xBS8B4QYL0gOHDjYqb7D2M6ebxMCr/v
-tPMCg+kck/Otpo7B/2Gb9RgXRTqBWU1io+Dfewu8VAhCOSba5LcFnHSsFmi6UnNO
-WSznHy+ivY5daFyJn7Ug7EWeYtH3FtSwNdemop6WuND60dGA4N4WB9RgOqIT2qpM
-2wLnz4hkuwdc5NSK6RurADgFo9gIitY38CgQyMcmCH0ATKxxgpE=
-=omKL
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqsHGkACgkQSMjV5ji9
+inwFbQ//VD1fUm0leJ/EpzVOaaZkRKRUppr6XPnU8rQUDBGxD1Y7YDgF+LhSeFRo
+wh1Z/0J0JxLpH7ExIkMsRfjUG1iw7JwSniY7jClAPnd3XY68g4cDinAq9gwNopf8
+Ye+lBnS1mDpskJbdt8KQHu3xWlvdjK96ZAGamLi5K0567tO7/+Ja8jxi16c+MpDG
+G5cfeeVT/tzggPyVY6fQqYmRqThjYSOa3VY4rkZ7PJCqjh2AuRhhkgYjKHo7Qwm7
+Ut6hzK4FtfpuUfvCobQSGfgCJW4oVPaidOgtevR/pKCTwvRWupZd35qHghcVL6PN
+QHczgS1eKuH4vA7bR5lVA4BEVjUgCBHBCNNViUeWXXW0+YSMn/xBw5flJGTzyfui
+I4XflkYTHwvL5eZK5NFn6dMCqDiHbyOUrYOXga0Y5OT8DY8HGGb51kL2jrGRTobI
+8dEjUOwLR/+rrjuXLwJLewzAGLmwf2LL9IbagjTjTzHv5SPa30yI9WkGZ3EGtzWZ
+XL2FzQe3coexIpeWmBCh94PKsoYyGCz+/qqoULDHqOAyHwLNIitAfal6s98XpzTI
+gLXCm0yT4w+9QrloLLqYnfrzXgbW2GdB60GQNZj9k5qnNMdaXQGK6szAiw0i+CvF
+MIJWgCFC09G8wKE5xY2pPYbMDwHHDOMRtEmrK+VBHFH2gdhfG5Y=
+=57aV
 -----END PGP SIGNATURE-----
