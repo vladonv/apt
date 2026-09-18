@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Thu, 17 Sep 2026 21:21:54 UTC
+Date: Fri, 18 Sep 2026 04:42:34 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqsWfIACgkQSMjV5ji9
-inzNrw//VUapsMwargxU43P6rr0h8Y0htVDboOpiy7GKWcYz62fnAIJruvoLhrR7
-EqFO0btGjMdAKeghQwVkBOZR/0rCqqn4O4LfYFramuZ4VAPVoLXOqQfGtaMjEYUy
-EhE4OSlGnIFKFOBxF51/XxsQPBPSz79WTRyefyzc0IT4bMO+9VpEBkcq9CzheBNY
-hG3VLqbV/WExg7nf8UUOWtoU5sn5m8YmippjIbXEszkm7yqmSdFjtGcZ7TnmIRZ9
-DhvgO8mMqSkHuu0Mf7Ksyv3Tv3+r2orAvPgCqlgpYOfwF0fnZIzkcNRVDqlIk/Ha
-x2LY7diAHbAkGIViswbTqFHz822oTHTy0PblE62nhxT4iC/wwiWxoQcWHw9kuJ6q
-Cbh2hYBVvD19/IYppSPLuwT10vrfgkTktZZLZuBQl6dWC6AUXnqsCWfiqwCc3C1z
-ASMrazLwEUGAyojTHrVnjCQ1VqsideOs/1r4CTVTn4drXf+YWVz9cOhfk/m6LRy/
-bqmHBukmRsYuRukSKWDok7UO30QrWYP8gxpIXEAX2TVrhFJ36P9MYmZThfYLspwM
-wQDSGeGAqm/CwsK+ylvVyM82sjxVpjKJ5ccy3C8MWE1bu/AjryPQTCQz0itJPVOV
-WCQA95/lWW5PZmCOKrErF2hCWumznUjstLWxGN3F+2wcvWBH8Zg=
-=4g1w
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqswToACgkQSMjV5ji9
+inxLnBAAiashnnn9f7nR408ZqFKbx0jXc10aanYj7bl3z8VIeVjWMAV+0pi7XA9I
+K2aFNl1ORR6BW6FwNDqgMQqKhl6qquK0xZiU94BaYRTXrFZRTrlUPbb1TgMgOqXn
+TwcjE+zf4f4BYmaNGfA3ZIqxexpdiR08F3Bz3jt2tDzpwlT9pUIBP55rB0Y2PIHG
+JBv2a9oCU4+7JeQEgk+m02lYFykiNF5aBReaEveJhzWwveCzbzld6oYD9n7ndRLv
+ahzPQzQKjQvJh+Q4HoZI0xpF5TotEQSiySzq1UDaJ2r01i0tEZjx3C2lkqkXwvS9
+jC9sVb9j+jJByWp8cOSN+nZTiTDOsJ+L1Wxo7rld/4btKw9kusRu7z9L0HLpuTMK
+ooxRQAmxhSq/F4g4Tm2lJoVRjs3A9bsIbQ3rv/HOovI1mA4knGEAgry4DOyZziqk
+t01sR2nTcDSNxQHl3PnpOTHT+RqiizOjqnHjKao1QZvUDnFGP2G61rK+pvL8bEdE
+QxbXjBjwUa4xcgfDhDDdBBS3m6IfiOhL0OWzB35DIwi/q92a0n3Uy01Yi//qWFop
+TQBgQ9E9KRuXzLBhFEvRcnqdRsOWSt+goCDEEf5ISeYvOZ2NsSCSa56ZK6RVZybN
+VR0HXXX5TRQwFnBYI9ZxW2kzBBJ9T3GfwO/1Ti2AgvnxNOFqBuA=
+=TA0R
 -----END PGP SIGNATURE-----
