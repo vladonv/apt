@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Fri, 18 Sep 2026 20:54:05 UTC
+Date: Sat, 19 Sep 2026 04:36:42 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqtpO0ACgkQSMjV5ji9
-inx/nQ//XhLcYAZ1/6kY5ueROQBsVc0sdsSDjgbs5QQ0CrTrAcpL6wClESF0kyhe
-xa6CIZpTCpCNblTqzxLkq+0q8DWL2oHXJTshb8R42G2HdhuDRe+ly9ZbnHn6DOCD
-Lp/G9tJ7Ui8BmRhBeYDEO03OdpYAYpTwuouN84u749z68wUZuM1jOLVxvzTlAeUf
-oK9evIFdrus1GC+9FaC86DAzmYtUwM9jrSm+t7Oi9Rnp/370x/zwGdZ2Ez7Je2vT
-C6/xQGWlcW5ZekH2Xwck2nsjmiBNF8Ry/DXTm4cSfpPlqOo8JaZ2eNBWwoLwau5H
-pMLI6hJJIci39twjXvtLIFuw4yP/wZI+MSNDIPayEsbvs3H9F5OsLX9obZvWX65h
-skJnx4mjZqF1MLZOb6I8MsOHayJm2UfB5nat1EnBt8nTsrqwLH75ZpKOkEXroNg3
-Tp7PcfSpnhG983zRCyklpES9fAMpLHxS89lbEN1LjR8bdvsphWwg+RaDmD3hWFuN
-4D1gwKJiAszfO9vcIeFOQOpZ/svFB99WagftlcgTnC7EwaLLq/TWwPEPbgIivQ+P
-KFg+ANvbVu/P0fdrjCbGiZ8oJeoAh7utxrbHC5DMBIBZ/Z5DYIbJDsKT9QRoikPs
-gKlbPJHQT+FjLJI14sZKiWOPWmCheCam1a6ycgrqEEvnAYywY8k=
-=F3B7
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmquEVoACgkQSMjV5ji9
+inzssQ/9ELJTso5cAcT21oWTcZJqs1QqmBod2/Cs87dMmP2gR7e/rGqr4ynAdVem
+ocO6TOKegk8ycJeZejeLUuzHjNOoPA/nP/r4KXzqdZBHrlA30icKTC0hXEnLBfQB
+b4WqpUQxnf1HD3vdCbEqSGE3ukCgROJYyQ7CEIefwIosyvenhlYRZGw5RylYMirH
+hzzzVwhdSEWXOaxQ/Y28Ai9nta93JU8MPfwXu4UbQKFUeDk5WZwrSgTexDveKBlS
++tsfzUjTADP4jlm0Ilyg1Ypt7KpTjAT+RyqagW4p9wi94383KZ8V4ahJeaJ5vTMi
+e9chTvX/Fr5RBzhjQDb1zrDQxhH4JeujI6raInG5S2edH1tswBJVKJb3U+p+h7EQ
+B8e0KEBNL4zCkXA9i9dmkA5+8XXgVsx/1oSDjxTuayOzJ/JlEUcGN+tjwliR5bsB
+x5uISCAFjsrfZCkJtsGgOfxrMLnvTrihYljhopSQn1iZOkIhCKSZtLEh5Tr/yon/
+geCYF/adGS32fxP14WW3dlbf03A4x/AH2ZIL+IGhsUcO4KTPxC0i5GzIpWkMa88f
+HbFUud3x0aeuMM1mOH1Ndzzh/yeUt7+hKPP2bs9Zo19gztG44tel4SM161OMRg4p
+2yehQtAKHw94z0SeAv2kqC1F6VKdFoPnvAvzAEAxt9HE+EwFb5Q=
+=dRt5
 -----END PGP SIGNATURE-----
