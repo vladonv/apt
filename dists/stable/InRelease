@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Tue, 22 Sep 2026 16:57:53 UTC
+Date: Tue, 22 Sep 2026 21:18:19 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqys5EACgkQSMjV5ji9
-inzfjQ/5AQtmCgRBcFYnEPEJQmTEjB8UmKPim90+dNTReeBxGxvVABDYdPfN97HR
-Rpi0qbjN6T6rLLYUdDfuCkkLbtBDc80r4opUY0LMqz2Vr99jJYqivCiXiXMiiBpY
-S/stLA9SGnC7BS81Sv0c7laFJ6DWM6T02X6/yiWPq2w0hgpq+dzt2gID+AIPHmgl
-WDhZvGltXR9y9n6ggLgrGcfvw+TN+MEmy5M3ibApb00m4qiouT3bTbx+qAXduxQn
-OCfXJ6tgrOjtS4OlGqsw3TsEiRSpZwJSqYwOiY2lSRXS4eZx7X47U1tbwTeVd8C5
-8HU3N5LI1M4QZ4ebTshSpmCbUPLYzl9v2ENmh0fd5Kyqs0vkVI/M4lEEiw6ymFl/
-+vT5/FZqTPosHe/u9owRccZs+GZ9+RpaVItG2E7OgFpTgPYnYBcucpzwcfvlPcmj
-ONP5YPZiaNdr2Rm5Qmkcg619H9HFMBuyKJHAlX4q7fpOU+je6ZOVqemLLbzDCt+6
-ZkR0nM/+FRUQIw1mrSfXx7Wrrr0WsNyQNg1I/ygzkQzm7KtsIlK6lH0uC8+iMBTy
-jA8Jw4olU4t+uHSZkVIz647lpG4eCTiw1e9D95sW5kkDuBJ7qEZrxwxHuCyxhiNQ
-Qrcg0Aeno473m2OLXHS+gvev+stcxdo1CO1VIsNfpnBoznmxoo4=
-=K083
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqy8JsACgkQSMjV5ji9
+inw+VQ//Shd1EINTrfS3yM8+dYZ2f+1bkVBO2EHZFchgtwlD3NcP+CmFp0u/CFKl
+IJ+9UzdjPaS2V7YXlV0q/CdkVJ7rhzBW1DKVyEVBP2QGHfz1k+vnPX3rvuRM5Dqa
+0+JX2r1gvdGG8OwvMuSNZto3IdEQ9CBUCR8wcfKPkeqlkTSA8EazM/9fxxbTEjCa
+7EDoL2PkOiQw1bDx3f3+AWi/yrH0Z5TbRLfu1eVI4YAqNCvaVehFG5WIbkLrySNa
+pjKJhRE53G9MjL/eof6I/WSpOFCP3wZcAnM9Gmo0LIr3eOHYalibo6Bae824mxVT
+NU3XRdHkrmv8aMlrHhFucq4cjqGBT5Ztg17q0zX/9GMHYqcGXsbVVotodG7wOayZ
+dNQzCwv2owdmstI0JgwjLWswOVfQ2B0B4SVVPzfg1sanaivI/Am2t+uLTUURwdjo
+5YfmFka+gUuhBjFmyJcc+m3jtjI2HxrqT1WUdaMuAx9w6Ujen27CfKk2hCslh1tt
+/6f5nJgrtoPcditdRyYZ+ybaYx+uEnCHTvWL1z7oEmYgeNLU/+9A7cOwz0LpQxrG
+KgOiRedJAXU+Bzxs4aUMIbdtlSB2fqdczDNbJaaD6W097/68fWaymYy7m/k9fCAf
+ae5bqiPvnqM5jycfk3drcD0y3xGrlHpe9og4ywNcyflsuej3bf0=
+=KNef
 -----END PGP SIGNATURE-----
