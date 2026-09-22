@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Tue, 22 Sep 2026 11:37:17 UTC
+Date: Tue, 22 Sep 2026 16:57:53 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqyaG0ACgkQSMjV5ji9
-iny/kBAAq/pqndtNHn0/FHu5BTIDEN57phfHsS57c+VTZrNE5BZnyTFDCZQ3CgTF
-WTueMK0ehOw1FwH3881FGyrmIzT6BUIql0SP2I5DmEdnPSU+WAIROrwW8whWfmuj
-xoZgnoR9n5lRkc+FRyA0ndMkYMEy6gBat7wOxYIuWWswn5MNqbhJ/mDB0N2Q7PNs
-gVwCjf8zEtjc0SkiSERKI9NIC1v3qQos9exzIT91obLwtcuYKagftIlweV1Ekfbm
-bxszB+D4rJS3cgXV2hibn3fmS0s0dtveH8CNwoRfPvLiwRFGMV8aLn8GcHH291Px
-joTjPicdCx00lIsBUn5jT6/OvClfk1XBL33JJ5aFl4hdoB3C83b7bnCW33YHDzDX
-ZCBMJzXC2mfmAbcNAyKLkHEAJAEAR1Gv9AwG7lw/BZtx6Y1eaOluyPzjkeq6noRK
-onJn08AO+sHJkjjS0xp806aWKGPD2ne5PArXbv5P7DSvtIpuAWdOvZgTDdCc029Q
-6HH8WWbPJb0UcMKJVsSSiHzGla6qkDWRrfr3oEVvFD3g9QDlUTjWfIbCeZ+IdlcW
-eWhSN/rF/UL5GRDPch++HwX2jS2SPuPQQHScdMVajhyRLurguWapg6Fyss5vlQMj
-mLs1G+Ga0eOJexALjJkhw6kEemqEjRZISd2j/nls/jsNa4MnEI8=
-=DQmk
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmqys5EACgkQSMjV5ji9
+inzfjQ/5AQtmCgRBcFYnEPEJQmTEjB8UmKPim90+dNTReeBxGxvVABDYdPfN97HR
+Rpi0qbjN6T6rLLYUdDfuCkkLbtBDc80r4opUY0LMqz2Vr99jJYqivCiXiXMiiBpY
+S/stLA9SGnC7BS81Sv0c7laFJ6DWM6T02X6/yiWPq2w0hgpq+dzt2gID+AIPHmgl
+WDhZvGltXR9y9n6ggLgrGcfvw+TN+MEmy5M3ibApb00m4qiouT3bTbx+qAXduxQn
+OCfXJ6tgrOjtS4OlGqsw3TsEiRSpZwJSqYwOiY2lSRXS4eZx7X47U1tbwTeVd8C5
+8HU3N5LI1M4QZ4ebTshSpmCbUPLYzl9v2ENmh0fd5Kyqs0vkVI/M4lEEiw6ymFl/
++vT5/FZqTPosHe/u9owRccZs+GZ9+RpaVItG2E7OgFpTgPYnYBcucpzwcfvlPcmj
+ONP5YPZiaNdr2Rm5Qmkcg619H9HFMBuyKJHAlX4q7fpOU+je6ZOVqemLLbzDCt+6
+ZkR0nM/+FRUQIw1mrSfXx7Wrrr0WsNyQNg1I/ygzkQzm7KtsIlK6lH0uC8+iMBTy
+jA8Jw4olU4t+uHSZkVIz647lpG4eCTiw1e9D95sW5kkDuBJ7qEZrxwxHuCyxhiNQ
+Qrcg0Aeno473m2OLXHS+gvev+stcxdo1CO1VIsNfpnBoznmxoo4=
+=K083
 -----END PGP SIGNATURE-----
