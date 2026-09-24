@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Thu, 24 Sep 2026 11:45:02 UTC
+Date: Thu, 24 Sep 2026 17:10:15 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmq1DT4ACgkQSMjV5ji9
-iny6lBAA0eWMSL42g4I1L9JN5sykMDKHcIVk6DA4jPFt8x7a1qTr0JYMOQa/2wJw
-m7VUqxdA1MePtj13qA8LUNACdx+IxOo6KE+45N8tknyXVq/9LOPQwoIo6v2SeqHj
-CsE/90V4eimzrq2bOjRJ3ERd1HzzqFjXWZ0l6iQgtKjC0BvCDt2h6l2RKhnQsmLr
-NU+odaP3OBFgAXh3ssKBg7WJQNYnSyvj4fL5ssCbMxUji/w6BiqmTBCTGiEa4fWn
-7nf6tolnSjC5aed3tWT1RVvrUTuPP1je+XB1oiw8oGlR6ePu8JaQi6fiKiGuvVXv
-tX/X2iATIKgZAcG6lwZ/YKLI3hV3pRieRi4CHOaIo290p20PETu48NaFgDjxjSZz
-/vgOyyn6IoJDJ6cImjm2KxWo8bEU0AiSOQdk3Dij2lJ0c8hUOoeO/6bLZ58Qo2Bh
-h3Zs9vBAwwhOY1vVfdkJ6PsiefzmhZ+H2ysMI4Yf+0OTuWaBPi+Ak55LZmKhkWzW
-AoIkSGTaChpnhwwu+juK+EWfwBiiBXeDmW/6eQEQNH2y5uwmQGA6MvtbymPd51nA
-Dn1sw73t8zXhNSfbYHYU51F8R0buM3N2CS7i/zSRFbLyibKZoy9Z4ZcLvG1bO0i/
-CNFBiwLvb/T0N97/igQcL7g2tBXFHjX/qTL+stPjdblFf9h09lA=
-=CrFv
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmq1WXcACgkQSMjV5ji9
+inw0MhAArrl4nZWZog1fu97IujqhvTuwVnTUJhNA83Rh2v5T1bijya+YKpFM2QRD
+TYtiWD+hpNvja5INcoBzifP+LbY6U4UNtgT3pRpa2JZaqjrwiDGryZAOl9b8UsNe
+W9Vx/qxHzPO6VllYsrpmr19dpWJLt/U+YcNUoxObT3NMwOkFofBewp0bPh/GuCe1
+EmR9U42E59ZQFrpHh5/958ABjAb7/7W8aIb1Be7egcxofBJVQP5ztdp3UmiwYbW0
+vr7PYfagDILvFMxjStVizS4CnVuPnPQ5XF/zeiHiQ4Uklov4z00LKjVOV+ytIdht
+fECPxf3IVJGlKfzROuqej/XIKVbt6XmkElMcLRfWFfzvliBarO25kd9Dknbvb5Vz
+FbN0/2RrjPHZlrjS/biNYRB9mij92FAvQoBd+0vbOWjr/WleAnDV4RmS73br+z7u
+A8wBrXOKIas484KLVaQLpKxmUKqRcBoTchIHjKYt3OvnUkI9Sc08enEDoemKikDz
+oUQYmqQ2e9XnTgV7xk5hFmtCJxqk8HzrBzS3qX04u4Kbd4G6mbZYTgCU6HuwMThU
+yYg9sSH6hpj7OmLS5S5/0cL0yht/VvmLnUxroeiICLLtBRjUnMrlvxKQCJAjlG/R
+PeOYUJbuqP/fMhPFuGGXndLci6g/BWHJ5t01F81D6QnARsHKOQg=
+=u5+5
 -----END PGP SIGNATURE-----
