@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Fri, 25 Sep 2026 04:56:54 UTC
+Date: Fri, 25 Sep 2026 11:49:59 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmq1/xYACgkQSMjV5ji9
-inyaPg/8CaoYdLYFwT1DPqMaarHwLOthOl6e1lFqa12gzksVBKNE48FWvnTQbnen
-UskY7GMgzaRCK3V8GVnOxycDAcdkIehmUW6LuwbwW1riHBMp52uR/1FtoZ2X4W1r
-2x4ngF/t52oYdWbq1MhaGZXAitt+P9fxuhb1rYMPUaam3RIyq8PO5BNfZYd/6EOu
-EZdJ1qhSqYmiekMJm7Usslf8hGLwcBXJ8VjdWXtxiJVioJYL+2vrcQJ01RWi45LY
-n+1RUlwZRlABUZmikUTYPb0HhXC6ooZZUVtBt99DNHtb18g/0ndHa1qpfqPdUioD
-biphxaDzb8ND9tvL78ynwq5JPIiVDhaOXoAmjZQg1o/jWGYb6sXskILqamJTfT/6
-xga0imyY/fH4UnZxMhKondqLGdHXYvAaH0UjmMjDCLjAq70nNGDLu2w6b7NYMeZF
-BW0auJTr/WxOgfpz8D30cdW5/7dxj2v0rk016NAKMVRoaozb9Bk5jPDT8aVkqBDh
-FKh2mJXNJRXUi8BTbgwDXaoN6PpepoowX5c2Tob3Y0iNtHZvTKFhQ7Vv8usA4zNf
-KOqa4P9rq9aizpNCRm74oTcVCTYeVoZ1rt5aUEYc0ec0wLCiG8qXfYn2FvuDYjVQ
-NIM/gTbJMn8eoUW3lxRaGvmVgW2AJk07mnnkFp68AvS5iF9S6ko=
-=bc5m
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmq2X+cACgkQSMjV5ji9
+inyooxAApw+TdHWhjjT7wc8P3bsl17B6SAtL1pxvysx7UT+yO9MIkmKBm7bkFytb
+zXIVu9EeLHfbYghvzg9BhuHcUQur2pdR1HNSXXG2rDMd7itBkB7DJAcoGjVJe0/N
+PY+INQCw7Jhtrmkie+Q2U8+Juoz024+bkh9V5Gqs/KfljSNcq1k0LvW3vYo31oU1
+ige3clSM08KIqMz6RqMX+s4SUTw6zyJcK3u3ogGNrev68DUChjuY8aRC7rf8lEW0
+8H9SsltO4+YrGNOM3qX7KSg9ssefwrBXgm8lW9ilZUWxEuyqprwGDoF4ayZ5vv+h
+s58ChdRHCHnobGNYkPnEgEaHki4O39QqfpeuNyIiwdBYHOc5vfdqVZM2VcYrQdKT
+NaYDBwaVPxPdiN8DOS3Dn7YMLTgmCSvs+G5TiehJHezxHwnQRiucvoYJltINMOQD
+WwkE+eOUzhaV68vMDzdaE55ZncvWVLtMrKLFR2HrJf0URhiOsidTF/Bk7Xah59sz
+3GKDd+OoDYI+UREOLF8nYrrbFyHWxiJY84l+o957Qt3Y4uo1uYJKVbzZ1lTKqoKN
+IK1X2MAif4C8oHijzG4zN5UrwK1kEvhBuwKzE9CLWCVk1kyb/XLOfictmuI8XiEH
+i6ql1EkqNed3HvzQOx3oBEpz52PmxA3HHdy8KjWTYHj3IvThKmA=
+=mAME
 -----END PGP SIGNATURE-----
