@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Thu, 24 Sep 2026 21:32:04 UTC
+Date: Fri, 25 Sep 2026 04:56:54 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmq1ltQACgkQSMjV5ji9
-inwGIA/+MmmKse6i/B0nNVSMtoneS2bR8DTEEnxE3S3jj2LdT01LcleZkRsglK2F
-x0QEx9VL3HQpJpvZe43alg0fqRX+RxpkvzYzOQqJYf1sJg2dcZdHu59NSmsPjRID
-AlEQI5MXY6QwcKCOwrF3rjtYiRvxgYskpFx6Tp18oQx+a/l50vlsTFT7Xktx1bln
-uYgFN0uDaH2VOFScS9kZHUlpNzHpq38AZL+3pMH+cNzAbkmycId/H+uX/dfa40yl
-/Jti6tzZ/pEgCFcolpQ3bSaW5n/mpKxI1RVllNPu+u+uNNeZqF7R/B9VSNgumWbJ
-E0TfklgUwZIOqyKx11fMwV1Upjm2vHdEttVTW6+tm9Uyez9WAr94hdznvwDSNOaE
-Sw3OYa4kgXtXnP+JSFWQonassj8854B/dmKbTXqRlTFLlO1EVXdmrVvM1EFCwJPj
-D+xD2QpDUPClqBMOWqRC3K+ZkCnIhQ8jkZ1wHu2Cxc/eOcr4zuHinwVffRZPbMlh
-LcgkpvNgiI/HltZX9YNz3nsPCj+t7rvtWmySMPJuPZSNht9zK3rQStNpgSMQvyGt
-vRILBX2qB7aSkBwIFKDkDpzdvdS2ll1eKpk1Om+u4ilDiJ2QVzSz3AaLBUSbMkEc
-1un3EQU3Z8usN6qOwW4n9nrkzicdQ6hg3+/t4UjpR/v5n1S0mBY=
-=Qbl1
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmq1/xYACgkQSMjV5ji9
+inyaPg/8CaoYdLYFwT1DPqMaarHwLOthOl6e1lFqa12gzksVBKNE48FWvnTQbnen
+UskY7GMgzaRCK3V8GVnOxycDAcdkIehmUW6LuwbwW1riHBMp52uR/1FtoZ2X4W1r
+2x4ngF/t52oYdWbq1MhaGZXAitt+P9fxuhb1rYMPUaam3RIyq8PO5BNfZYd/6EOu
+EZdJ1qhSqYmiekMJm7Usslf8hGLwcBXJ8VjdWXtxiJVioJYL+2vrcQJ01RWi45LY
+n+1RUlwZRlABUZmikUTYPb0HhXC6ooZZUVtBt99DNHtb18g/0ndHa1qpfqPdUioD
+biphxaDzb8ND9tvL78ynwq5JPIiVDhaOXoAmjZQg1o/jWGYb6sXskILqamJTfT/6
+xga0imyY/fH4UnZxMhKondqLGdHXYvAaH0UjmMjDCLjAq70nNGDLu2w6b7NYMeZF
+BW0auJTr/WxOgfpz8D30cdW5/7dxj2v0rk016NAKMVRoaozb9Bk5jPDT8aVkqBDh
+FKh2mJXNJRXUi8BTbgwDXaoN6PpepoowX5c2Tob3Y0iNtHZvTKFhQ7Vv8usA4zNf
+KOqa4P9rq9aizpNCRm74oTcVCTYeVoZ1rt5aUEYc0ec0wLCiG8qXfYn2FvuDYjVQ
+NIM/gTbJMn8eoUW3lxRaGvmVgW2AJk07mnnkFp68AvS5iF9S6ko=
+=bc5m
 -----END PGP SIGNATURE-----
