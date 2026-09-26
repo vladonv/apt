@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sat, 26 Sep 2026 11:24:08 UTC
+Date: Sat, 26 Sep 2026 16:23:18 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmq3q1gACgkQSMjV5ji9
-inzVqhAAnQDRaZIuZgqbYWqw0EpjRyxTae/ZC7jeOkiXEHlp1NauFPMf98acvQC8
-ur3li72ZrKlEFfh7Vhm9gcduC24mElM2tX0QaUGHTqCk2tqU397T51hZTN8YZdzp
-QbwQNqfWf+9fBeZpU1b00Ka49rrC+qXcKpjz8c0leJcgsxMC+2xQd++Q3IalVoRW
-vNAss+TVIjP2Edc/NVu+rx/8EDec43nVawVohavfCY/RD1liEIqIMBQtrmJ0Uz2s
-48/VSys84cB7d2mqXybbtY6evJrL/retckv99uxgJCBtEFmHtbbNybxG+7KWjUa1
-KWKweblwXWWlTOQubAf1j4J6diYSaywUO5rY4bfK5TIBuLZcqFkQQbnHOWKLxV29
-RMPrTiLvwv3chXroUZVcsQpuYchHvSI6W03QMySJN+KpLm4wKhMRCpgh4EU9wFFW
-FzhofMl7Psf1AnznWvto6hwHoB9iyXCGF8OXkhNKGg5FwXBOgkBTGi46HRKj0vo+
-KKMUqHbDHeu/2kidWaL8KoI0bcezICWqhtOajlxYJ7Dbqtth4b/vi/lLmFNx2Sf1
-xYGkbm7eH1dL/DhgJ03i4EXoxsnLPLJ/sNbH88Gz51CvX/bDR4v+nNtiD/vV+pMt
-0Dj2KBs11Q7rfkDnYyXhPxXPWpL9BNivo/8iVxYWWescIAKPOx4=
-=2xgG
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmq38XYACgkQSMjV5ji9
+inx/9g/7B8n0iE03l1QRDxSNHiWtqjD9Wqe9IrzwKiDMKWLlfIogjgjSP2rf+oc/
+X7N9okFrHSUBCgnK4bCxL28h3qNfFZ9amqku/XXdQ0Pf7Wm5f5wwOBiwdvLVGOKr
+ny+1cxWXd4sjcx8Quaymyqu0FKlCDC2Bgj9A5HXqXOiUN7fZXFk64AeE2MFlb1gB
+7BX9sBGkQBEFQz6mRQhpXeVoRR5xFYE0IZXML5YRt1tsQX1xtFlnc6oznAn80qjO
+1uDlXhzIwLcwj31F3xLZwo7okoA7WrOjzNn/gz2fHt6D9fipi1Z/CQu1PaALVKtY
+yeBZS3YRNPfe7ldCK3LwbmyGC/Yx/KfyQUozg8WCu5/lb+v7+rGO2MzcDoF+1G7S
+EbUnCpWzvjPdTwbFlDxBZW9PDSnFFhccBcL62He4qWnAwWMXnizBRJBy5Yx3QiHN
+c25wnjLhSHfEG6Iu2KABep9MTZwMMvDPhSvaVAIXUAl6HbcPLVMt5Tbv/fYC8soZ
+wY7m013w5kYOFS0vRb8ywdkKkhLUjLdsuA93MSG9GGkW8pFIeAgcK79C//ZBQz0k
+k5D3OXUaRg57wt3A9hac5v6UJpmV/Pb/to5OcsCRgORYZV6WLEudkszdxOpTdEZO
+lyBbVze29bTyt2TT6J88G0XJOAVmkklSTpsgSjKrVaUU/68+IfA=
+=NM2C
 -----END PGP SIGNATURE-----
