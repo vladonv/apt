@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sat, 26 Sep 2026 04:57:24 UTC
+Date: Sat, 26 Sep 2026 11:24:08 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmq3ULQACgkQSMjV5ji9
-inyYvw/9HMGlA0YL8Yf1zTNyvDqtTS57/QoNeFYQDtl1SdQZJOHCoPdgtrazrE+g
-dbtzX5wL+r4POs7164xc3A5f0T5mBmwc6Q8BlmrxXhuxX2Sh6mWwZU/mo6YUAGyp
-q+MGoJWIGsws9LftTtttkRgJQrYozsnq28bJr8N87hBtCg1HTggLAdkKZkilE+5v
-rJ7vp7v9WvstReVflREgOjVFucDCcmMtyw1unFaj40IhEDxLe3VQYOMLxpmHF8Qk
-Gqiti1XogyKD/H5eZnkqufiGTYh/ODX+sEgSoAAeypM+fTG+13hL4ijoZJeo7i61
-2xlleW8HyjbKQ255vlROigfNSRfTNIXk7vllrTJiKZfHzVtgjYl0eKLYFh5n9g1l
-WYGQ0/14f6Fb2c6kX9skvSd1/IyY+dd8MPtfMwUPERyhgmX/L3i4OUXiru+gBR7S
-HHFN1HKzqabTJkR1TxCTjXgWS+5T30c/Ivb/pe+in64VHuz6eU1HgI/PmdP2VdWb
-uJ/K9sNlI0j28RP1gEKcGyNLdNRu+zoOvmGF/s3G8yobjW1iWTrmRRyCgpm+1yO4
-S6dwgOP29n4812aG0UmScNpQAHHafVw51lVRoClIyM4/OHKPu5i/hUDNJez7YGon
-MWgLVL5PrP8mj2a9xXE4CX1cVjVdec7ZzVFGThxeU9mdEYVS0a8=
-=WAM0
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmq3q1gACgkQSMjV5ji9
+inzVqhAAnQDRaZIuZgqbYWqw0EpjRyxTae/ZC7jeOkiXEHlp1NauFPMf98acvQC8
+ur3li72ZrKlEFfh7Vhm9gcduC24mElM2tX0QaUGHTqCk2tqU397T51hZTN8YZdzp
+QbwQNqfWf+9fBeZpU1b00Ka49rrC+qXcKpjz8c0leJcgsxMC+2xQd++Q3IalVoRW
+vNAss+TVIjP2Edc/NVu+rx/8EDec43nVawVohavfCY/RD1liEIqIMBQtrmJ0Uz2s
+48/VSys84cB7d2mqXybbtY6evJrL/retckv99uxgJCBtEFmHtbbNybxG+7KWjUa1
+KWKweblwXWWlTOQubAf1j4J6diYSaywUO5rY4bfK5TIBuLZcqFkQQbnHOWKLxV29
+RMPrTiLvwv3chXroUZVcsQpuYchHvSI6W03QMySJN+KpLm4wKhMRCpgh4EU9wFFW
+FzhofMl7Psf1AnznWvto6hwHoB9iyXCGF8OXkhNKGg5FwXBOgkBTGi46HRKj0vo+
+KKMUqHbDHeu/2kidWaL8KoI0bcezICWqhtOajlxYJ7Dbqtth4b/vi/lLmFNx2Sf1
+xYGkbm7eH1dL/DhgJ03i4EXoxsnLPLJ/sNbH88Gz51CvX/bDR4v+nNtiD/vV+pMt
+0Dj2KBs11Q7rfkDnYyXhPxXPWpL9BNivo/8iVxYWWescIAKPOx4=
+=2xgG
 -----END PGP SIGNATURE-----
