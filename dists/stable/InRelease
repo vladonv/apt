@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sun, 27 Sep 2026 05:17:55 UTC
+Date: Sun, 27 Sep 2026 12:01:29 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmq4pwMACgkQSMjV5ji9
-iny2whAAjvOCOP2jNMtjyjWpLkWakGNQu2a7dqFYz6m3TUjf91ID5QvgvW4EHZ2a
-Xp1Nhdyo94qpUqBzyN0sqNWXVjzbvFt4JN+oreOQqX04xgqciHWYBHBxp3o1rFE8
-T5SzCFMDcdf+aB8PrHXdH0HK+Yo1p1P1lQ5KkB3Vbi9+QTOfzSkaUYFF9NTjFQ6O
-Wgo2bKGxH2DlbX7Wqm+5dwe59vLUw3yPij/ArNNq1HsA9AWMMcp/MkAdfuhRwaBF
-htqmKPKTwCAjfMaXwhXX/D4l1x9mcUVHHhLiSrfy2OyqTWeTSpTe33NfjqMhwwwr
-0HsHKa8/cWjXGezw80VgeUXyB2hsUqK6KTNmAJct8thijU4KT3iLZEE2O3ZNv7az
-eq1WhwOFuha0NxcGgMaNcpHUoyIsTY5DuGyPIz0nJ+I14O6RbrtwMkEZ7IiWIBvU
-Ebo4+KAVQobGL2vK9pVvGsafCrFMpYnOvUAl57IKVLMUc+xCnDh5U4EbrcG4f2lp
-fxEES2eBlcfvvp6dUQnip0EbEaMD6rYT+2DNA7os/THxfB8VK9Y7tPIJlAHEzeA2
-m9uF3mi4OtOmVzEL2jNKbP+m9u/DL9Rfu3nxUcpQD7g306D8v5qF3DRrq3x3CZCv
-rksN76irVWF9NXWIw40wVidrvOeB+Mb4xvLyU0uTg2WY4RdEO1E=
-=Wm8f
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmq5BZkACgkQSMjV5ji9
+inwwZw/+MavhjqsEiNrsnpIQFYamcKhp8ZW2uv5KpxuAXHxF7gjmsPCI2FC+ERAA
+i+ByFZYrtJKlWAABlIF5MfHKq7vjOxtoqaXmQ32eb0g+2eCmuzU/CGCAQ2swjPsl
+7pSH+Nc4hH7xyWMeOpU7lu6Gx5dknHmKO7ADcijz0qrXD6EVjWbUJZjtlN2n+1Vr
+MI4hAFhlhKacyxQlu0BFYq4yeN+zZRjBs8l5KPJcdpEhWMYnWhRYIBFJxBy5G2IO
+Ei0VwQRcctnB9tm+8b0cXiRspRn6R7X1fSoc4NMz7E80FVQ3FYQD0LAtCkFrGkl+
+61urUK0xlUpbxFGUdp1s9iLv2Aek6l/fkn379/M2ITJEetgParskdJR92t6D66bD
+dAZKzM+PTEi6Hi5bmvNU7ojmtgn2jafzmAw1ViLcdDpHkTm4vUgETKT95POsvsB8
+VUkSiK4Y847WnSk2ZyJttKN1+HdGLnZyM+oNUW9bio/B+xkhVwT4VjMl1IoGOD87
+G5BzkUUmZjJRErzzQitXmPnvO2DIWUD86zqmmn20Q96397eTBW17by3PiHAHWg+T
+7fSK850+/J3Rxtt8lMyMniE81ceJotHO4H1IBfR09EurtRSSoetjZnhPs3qxyEdk
+3bHQBFn9wfNdiiF2lyaV/uuEdvz2WyANr67e0/YOuaXQrUW4XQY=
+=Cd66
 -----END PGP SIGNATURE-----
