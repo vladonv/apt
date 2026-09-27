@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sun, 27 Sep 2026 16:57:38 UTC
+Date: Sun, 27 Sep 2026 21:20:45 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmq5SwIACgkQSMjV5ji9
-inyX6hAAoU5o5NqjBwFhA5bMe1qq7XxG0GS2vGR3Zv0kN4LK0v9IG2+UvhowQLmV
-rrleJfH9yRTmjeGjTrsplPy5NRTnzkp9dlYld3rU0FowwJfDK/v8VumrTFYKjLWo
-kiaICh6jAIFsAsDEol2NRLvBaj3bZzeJPgopro55YUx7g+ai9E3S4qlNm/Ocq1vY
-Jwg0NZKj2h+Vb5wPVf3jJ2penQAf84I6KcHu4MOM5Ujfe76hUuih+gSOSp5iOWHk
-4A0NDuegRGplWTBvZnkpx9ewcTOusDdQd6nAIlVLifrwNbM0H+JOzNnZoi6aPnT/
-SrdNmy8ptCVz0plBeyB2iV+6SuObYrMooNhhu64gzy/zT8YAku+lCHDBAkDnlub8
-CWb/kZl04Uz1eyWOhOnJOzISXrj5IO0mZQ8jXpgvdjKPrel4kwkwmRYY/FJkX5YG
-jXk0FN5eXHJmQ3EqvI2pLEbYJA8L6S7xoBHEGoYEfJjL068fWVwnu17kj6Rgaudy
-/s7F/oi5TrepbB9DoLRzN5wj063BwOUDFmBiUnaW6ZONGdY8yA9PHoXviA35G6AO
-2uGTO1opCKQatIMB1gX0z5eCN5ByiB/zo3hHSQ40JfbRZHQ1VUWfpO94wrOX06qz
-1RMKEYFUgAS8b3BjQsn1lgS9p5hb8IBo1bI/zC1Y4kiZUQ6vW9Y=
-=oiz+
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmq5iK0ACgkQSMjV5ji9
+inxFlQ//WmQQ9MNM7iVUXlYxX5tT6mr9w/f0BfSDJOIp5BwktBPshtW9BTVFkXU/
+o9C1CRSLlJDa26ljJr5d3JeQuffTQ38PcgB7ht8J6PekInyIDBppHKgEt6rQMag3
+me9m7wfhez185iiMBsk2MXuxLdGOmmyspBcDmt8f1PRJYut3ulcFkBbYV0yXPO+e
+KQxXI72rlhGUaQp2oarPYPGYEiHLGm/N4fFuKy2cv2GFHKv9R5dMN2KCWYfviUuj
+PwVTF63LKq7c7RPaHwGZn3SiZUJhYvcKRjc8SC68pBQGOQYgdTI/hT5LtVbqOIlM
+dynAqjAB8SJMpK5NYQqU7Z+83DM1NGELDtrzC7HfC2/crXLw9rjVvSV9R3QavJZC
+ZgkWyuuN39ggmOAWPGnPYygAMucnTnaJRlB2myaoa71LfbthoETrUxMM3O/BPKKs
+ZKviK18SxLoIP5THmYtCqxXdeI6FYiYzql/2WgflmxzP8pm6zpavq1Rlfy69CXC4
+u3IMYMU5dC47rryItYS9p2OLNQ6xf7/x9MWTblLm64EuzqpoNUuUbsZ3aXOv8G0J
+HF0rMcVe4aQOgPDM/g8DJ92OKwbzIPIiVx4f2oLZbplFyatav2YgpheuKhaa6YO3
+7NMqp8mf2cUeFavma0fHxCbk9WU4ycjIrNqvq68abKcMGVog7xI=
+=KFxC
 -----END PGP SIGNATURE-----
