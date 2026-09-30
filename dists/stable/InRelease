@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Wed, 30 Sep 2026 12:33:31 UTC
+Date: Wed, 30 Sep 2026 22:15:15 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmq9AZsACgkQSMjV5ji9
-inxl6w//aqr3xFTy9sVfrnrZR6GTmjYxKAumKRHEK6EeZWTvgH1ZO/DXd+RfynWe
-ux8Ir0RGbdiZeAWSsznSJ3R0EX8uzgY6Z8r9cGzlG9EGyWbXombQBAd3qYXQDGF3
-uH//XNvkbLgZZ8bIk2Tx09RDB97kV5RnVtpSq5duV7p2j8TSytVU55TZePvgrDqD
-VKgWjP6t3UzKMZZvG9feQY1iw8PCYfB/qGSR+XQSTnk02M03PHYvBauUcppj7H4b
-HBJ4H+WHROFJFTf0VULWumhR4OxIf6mLb3kqU/tE4Xe3+RO74JEcbHo/QxNiGgk8
-Q10L9WYCDyp3bCykZWCC0ljnwD+CJWe9WmGI0V0aQS6ONp0yyl1Li7AN6z5RVvPU
-4SLylo3PjfZ3kadki2t8BSTsuesCkFvG+0A+Hj2p+m3YIsPNSr1P11iTa8ayQI0O
-uH496IAeF05nd4paBD+v6tqu4qoomvDUeSpH+AbxkfrsJAtw08BlDrkX4eJdbIPJ
-NkR15kutwqSyL4NDCjcp7wnykynlPtebUU6mqgOmcO6kTudtaxld/r8Gf5MbkF/J
-qp9idDp2BnNyPAjNv6RtbEhqNp7yENgfhYtDoLQ2wVZJLXu6b/sxUyl2ym5VG88D
-TxQD3DwCUfu0xYGf8ujuVUc3RpKoIiFdNbSMK80jxreRj/O7e9Q=
-=c+SN
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmq9ifMACgkQSMjV5ji9
+inwbGw/9FlmG/CgoMwYyq1DCxTVBiLs1WgbP9Tsd0VYAbQeNHYfm9XVxEvI3hJti
+crxvnTrabcL2uQwnBaBeBQIdPhUbb4qPf0R+z/i+Ed52YQD4urJ8XoVM5WF/8EjT
+wsu05iG2I2FXMr1Ejkp0In3LuPOT6Mt/AJmGrumIzI8g6B/60bx5ZK4XvNx01Kkk
+PBlQBNNwLPJm7furaH4x1LEvQcFHdT7X7aY259moNDRQ0K7g7y0JxYHV7LbNTQGF
+laPiC+xoM/QNfp+ZnwtyGE1x27m/u30t1Za+BrN47DPSHPIptxAKIcU4Z1WmaPU5
+r2FN2ARuL+YXDtR0m+96T0gJ/wS5fOx9imAMe1T5eb+JuSil3GYZuQj2+OAx4XuG
+ykQ2x7N7D4hMRcli4ejffWAYH1ost+hjIyqBRw1mGFisvZbVFhravla6uM89gmEZ
+ce1dP7vkUSuniMIb4jDVK6bv+Rj+J4Lp6gDOc4HpHRAbUFA/0jJmnQE76XlOC3DR
+3mtkw62+IVCdj9CBLlcO0EjcWEhSGR7DDGY08ELM2dOa+RUdFPz+3ncmAv6aQwtv
+vui3NgfR3orquqYInsx5qwTBUGmKaINQB/YF5Kz1VrDa6kFNIls3LEawap5+EKRG
+sHuW+UCTyP8jvgLBkVmf+Se/WDV2SzPViBzM5vKgyXzLrDC9Yes=
+=8SBV
 -----END PGP SIGNATURE-----
