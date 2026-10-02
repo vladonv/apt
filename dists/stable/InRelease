@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Thu, 01 Oct 2026 22:40:49 UTC
+Date: Fri, 02 Oct 2026 05:36:24 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmq+4XEACgkQSMjV5ji9
-inwsTQ//SQUXRF7TvD+/CKeweqVn8ejuvJJ/NQ+gV/KvMN7Dnv4RoA7oHphivNjs
-BCnURRwL5lyQvu+yzF4Hmoe8sesW1c3SUjHp8V+5R3BzBaeU8X8N6WxQIXXwhQRX
-X+XEyt7k3V+sHOxBg7tAj59Af33+woPkib7ACQE0uCVc417ntENBweZD5O49gpao
-d/txwqetdLGGatnYZAxWH/G9lPZpvh4xZ8SOd2X3J7KUzhQhD565fiwWVDJcgh+G
-3I1TFIxBnxLhzAIjkKdn4M8GcSlDPDKRt8TovQ/1hyokK81N28R2yMkF9IOCIHlE
-wUOytWQ8xZZVqQLGN0jvTOTG5cHp5ipi5btdcMq4JDJmN9/nRirAcyC03GDPBGdo
-Han4+w3lhGQbPzEDD9U7oWRnUD8hisebzhugIuUzk9NCLYd0dtDHYNCytUGWwnbf
-hSLMU430Q+OL07s8ljb+TsIZbIl0kHA6c839VrKuPhEWaLy+h9a2FOlKWPKXwo4x
-ARLpGH2VWbzyERfr7vU2MF8pEgCfrWdoFaEbaVYuq+g75NQjOH8sxXCCxvFSL1Rs
-zzte4i3NvnoPxtVetTaus3HBxi6LDeeGkPctd0JSybw9FCAi0nbIV+YH1DBiP1/V
-Ewiyowu0y98K86fTpaLYInE3PnOoRmtnRVHLDFFQ4tSvbdnXgOY=
-=+rwC
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmq/QtgACgkQSMjV5ji9
+inyytw/9F/DipRAIeP8mYEdDnBua/AIDQFrxfXJkNPz8pFV32rDGb3LeWXF2tgxM
+0Pj4FCU42ZjntKgJTUMH2i6G2hPs0OBUSHMcByYCNRvULNUbFo9SIs2gh7vJjyc7
+Xkc/fmVa/03ZQ8ckcI9Gh64FCzhf9nnlQiZOrnPw++pwq29+CgkJJlDWT4YbDyq3
+NSNRMTdHCVaE2dLd2anbnq/57oXWEOh2xHl2rAvEQzAQMTOCPn35ThzUxuhqWelB
+3RSwmgQUjtDCsjdZxZstlmcF6sOZKCiMq44Suq6eL7vYSdz9gaaT6VYdiOZvzSo/
+ywrxzi+jYsLEJFgpDIQQfyLd50fGB3v/HNz9sg737iaFzOoO1RTUacFgylMB3E+w
+1oI4hnwkVn1cmXwEELyAXlM/a7i5f31IRanN42WqRcqQzMjjkRPlBomvLf67nUDA
+93yv20ulXlLaYeGbb38tSPYS9BzAz4ION6jCOclSWBWHeez5966Q6ghNFzTIW3rr
+5FyIfY+oNR9HrA9+f3KzEElzSRprh5Y0r00KjTxQAdfsLMwaDHq/60b8V9lqdh2e
+XgRvT3mfMkwEfkW0lrARISXS8avcRLdrT1eQBgIm+9LlwHrvq+Nj/ajmrwmzS9jy
+aMz1YT+LRcAx029/WwFEu4+H1qtxvjdje82f+/wVDpmOoQ5cHoI=
+=BbYy
 -----END PGP SIGNATURE-----
