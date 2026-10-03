@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sat, 03 Oct 2026 11:38:53 UTC
+Date: Sat, 03 Oct 2026 16:17:23 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrA6U0ACgkQSMjV5ji9
-inxyiBAAoM9+cAlfU4XrOCgKQOQdTc+NE5A+QJ2aTzwID3lm+yuLwHwJQd4U7pEi
-jPQWDJ8ip7bDhyJXsiE8AUJ9KJ+mzZ7rnxBbABZ3ZcFwZ+1KlSW1c5wf010gqP1R
-stnzlNeQ1AD7DscHxdqtJTNydVGVRx3IqUnN2I6ghTsTwN3jEosAcQmeFCjHAWpY
-VhoLMXaWawrbA9zQ7Q3k37WBs/d0qMJbgpE8U1Aos1Ip197h9PHkE+m4d9HCkfGS
-NwYxhEmwpLoSwGrVfPiFd/1HXFXAbld2w7A8ZFlysmYMWv8gcc3QAyKGydZ9hz7C
-t+HP0rph0r1V1ypakj20NyiQ+ph67F+Y/mOisf8f2FXUZqYTKMxL8jKSzWJeHJUB
-T0MYnVDGH1OTCjTGVaL+JF1bYkC7UKa1kBVPn++WSUM5hZWgShz4apFxrBLD/fom
-Nu4qWMvyZiMlQjF4eT/JtIzLfTGFzj3ZHtHHE3df+N7nL5Vx5cXXmYHQqz2XWCdQ
-DLuGBDUWegQCRQ0lMpWglpGnD4VqxWIuYR/DN8uStAdXYxk9Qj8dF5p1kGqyiVUq
-u3BSyW1fqQNf1VvUXNQZuyW5DKrkTbzdNMrwvBhor3YXTMsIK27OQCImfAx6/IJL
-sM8o6AWQLDuJoktZqiyHu4+dRdIVBW/8FPOh5XkJjYdbLVbgXkc=
-=T3SM
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrBKpMACgkQSMjV5ji9
+inxX1xAAq4/xNLfa+ajOPOKVuPANEnwyh7hLsesPoSGWAx3kqF408QB0a122R5Ll
+J9QBdjfy32R1NbguVZrrFr/b7xkW4dhX8oVFjX7vfVXxGT/7w6xSIcXvPwNux5eT
+R0yVgSQKKiHmDU2hvHkK5dYRxkHth+ExQHgkBfV5lJOqOXOntKQ394S9J0nBCDha
+azNV/blyhC+bsPGZlNKfGS2bmK2FSzCXjoiRTKvcTyPftYg51PRG8RPFubES9CW8
+A0pX4rBWJDpRiQRhfP92FGPo1kW79Oow/HgA6U2l1cFXEsb1wbNPAY7qNeotHoEO
+Ep4bF0gO7g4FY+/z5MnkQc8X9J0pMhuarkVmWyub6tzIKNRu0fm18Y05ymaHWtUS
+fvwH+Zf+Z2gaXrJnPFBl8ho3LKPSuyaud969UtLfn038MG0NaqtSUNKiHT4tTuLd
++lf3BAoWmrUz/YWOtDcA6XpfR8jATBcH9xE0zNS4Zt90dofnlxdaywBRq3ly2oGM
+gRPt99cifew3+DcmTS4n/Kp0UDbXPk5neycFvE1VGXaQAb1LcRSMWH8Q/ELuUzaA
+OzjrrLBnXafI1uGh/AnDoBs2/m/ERervqtMqIFfsO423K43Pc+Tzh0CdSlhleErF
+/XMhNvkuKMe50z4NWqq3KQnum0AaJGJTIREOJJcxPD9GnbIaEzc=
+=yuEL
 -----END PGP SIGNATURE-----
