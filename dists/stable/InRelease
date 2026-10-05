@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sun, 04 Oct 2026 21:23:50 UTC
+Date: Mon, 05 Oct 2026 05:38:47 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrCw+YACgkQSMjV5ji9
-inyBFBAAik68SUhfQY9Ad5anL+Ov7A9pqHL5H5EISRi8EDbYs0d/vBEmKWC5tDH2
-umcWSLzMM6NDGz7oSQuTAnPvlH36jXvTNl3rpu9JAsu9RlyNVqhkhUasp8q7P0Cm
-xzC+tLDL3bGh9Nd63xdEQP0KZYujoboV98RGWVYOWxnYq70ZENJvLGB/1IMDGrxY
-nJ7p4gHrCToD4HRItCyzPoaGSmA6r+lbUdueNUS6fsUoS1oXbhzbif+kbMsBUpLU
-Uiq/7y4paGOLW3jsjDZ22A1MQctnq7DcR7NLt48x7/JsqSO5mV2DpaiWy6CUUYuT
-u12TYpxoPYI6x2bR6GpXON9CWyVOPQ3b78QHA8BgSFHBtA+Uuk0TE0BcOfArxERn
-fG53kaf0IH+ebBe6HFMCHj/AeOpaKeorSO9VjK/6th3MEv4QFRrJQ/XHMLCfTLuC
-dE2vQNH2ZXGwpMVlLrMD8bAorFvoJE00g8zoB7R57fgLqyuPfq1AmO9OsBV1OOj1
-Fho6Rbei8i3FSzsqqFua/acnLfo5CToRMCeHbdtZr/hNmxF/i3JEpuvahCgthMwv
-2zSDgQoZ1cTeHplzmykJ/tCuE7zHF43orajU+40S7UNXiRNaqXEmLtjX7C0a8f5E
-an7M6JwvmH5E+QBiQJmwTFF7FCgCYks/d0DjL3EgFWVuP5vK9oE=
-=OCmS
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrDN+cACgkQSMjV5ji9
+inzaVw/6AuBf7Yd8BUPYj+uVdn6mIJHNQmhQnI7J3mqQBWTR/H9Gg7ZXO5scA45A
+f116titmsw6WcUMmRD6tIcPD0klkGaQjAkG42eBANiY3eUZmPIXs04phvfvvLXPc
+1LELixtn+nt/PRXvJmfqmzV69T5O713CB4+qabtgjfLj26sCKptPOGp3ebvLzJ0m
+jNPNQihjvChxhHXnNlVjZA1wh7GuAiC4RETw1KLZB08LwyAHlKbzwCDnPe5pjQdk
+g8D+cRJ6cgmTILPSg238QEDdwn7RCsYos0Whwo1JNR9FfRsI5ZZnK3ly4TeM4++S
+wvH+DE62Z85x8y5dEz2sCstejvcqEmjQThT5In/UlilUN+YdUtvWk8mi18ksOn96
+uDGGqMcof2xPMCxtc2as/Xr+ZMLrbNqQacxPL/Tvw8pINoecJqp4doIhqE6p71Ka
+254Skbvb/WOmPEanKSibP9tMMhIAOSWkDHWaECrBJVFAy121/tJhyQatZUl0Tj48
+DLc/dIvkBH/wBfOLAVLLvYzCUTQ0uc5xQkfSnCNgfZsqRno0WGdlpwF21DRna0b7
+2cNdlMr4mus6SMRQfjyAOz5MAdnIaUmI1LEXP25Y2YBC411P1B/tPywVPn0kV/mu
+mMAMPVRGv8ju33X6D0f5C+6EZZuS2O38qNu/9JHbQm6KEvfk5hw=
+=eJon
 -----END PGP SIGNATURE-----
