@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Mon, 05 Oct 2026 14:36:36 UTC
+Date: Tue, 06 Oct 2026 00:04:10 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrDtfQACgkQSMjV5ji9
-inwkUw/+NgpjxseKQlxgK4/r/EOFVCfYK0ahNQ8nlgBVtcxidgGpwIzh48sNJi/C
-KZeVz4mgxKnS/iA2RgqxAbXg9UC5Cc/w6aajh03tq/280oG+GMpCoVDZddSpD2hT
-hVPCM4pEN6Pd0a3dk0Bf36r9wpAR3EWJtnCqsejcpXqeXcTomJKBB/Bu42RM6F/V
-5CNTr2yXBRAbVv6NVKSi/Ihwn5pSJVFDFR0ZPzQyBO7CwudQMWunkgYXe/sKPUmX
-TGZcOomk/M9XK7Afutjxa2y/qg7JwLwR63xAvvLEVr7q3S5pjys64qEQKePvcnjk
-1Dy0Jg11l5NVYzvJpHXPtZIHxKRcmYslLpkVHp1Tl+Zo40Br/C4I/jbO5ByfdRVv
-lb+Mf+Pc6Cr+jM2ulODn+IZFszyAsHghevCQVRajjlGyEJwUgGmqHZ1dWGWUOXVv
-sGAh3AbBtdAz49dRIweomSksrNqdXgZiBaWv4fY4V82Vt0bCZmhTWo6FX2LU3UiE
-MWHtuvpHxccUhgdLHKWnsz/wMLtBFAh6CN7Rv8NCgLTJJakOoPbQdy3J2ZNCC857
-mgiZprADR2fTLurmvV3CDojYrdUAXFaS3xSHl9ALwW+G31HWe+xkciby1hXegg1+
-nzuHiCwxrgKm0Dyrr5C0oSO4BFuruddcRfb8A9Y7fqVA9IwrN7E=
-=0A52
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrEOvoACgkQSMjV5ji9
+inwFrRAAoCR+ArhLy5nATpC71OLqjISCivYR1NSVz0ef9avOXVlgVTK8IdNQiatg
+IKDG+iB/+aEKYFdIFHFTU5v/QbZgbK5oZ6H/AWTdhdIP5dfaXkm+D82xxCWrNitl
+Dmj8BKG06jnDDUZb8uBdyO1eDXLiMcNv89VCJFar3LD3UZDgzFKABFSkuFmIK1dz
+nOELJ6gZl1xozD2oGF5oXmv6K5BJ9uv+xLLYsNMscbL1xsXQhzG2430N8fgaq/Du
+XHAxnyQbHRLErBnvK0xR3ZMbdTWQ7/qwmqhs6K4Z+7Fk75zchdm/Ms30eCkqRM7M
+OYasRW4fTOEbKJVnatvqjDQXGSINCzDQ71ptICso2qZhrNJGQoBtzw0WBOBdmK6p
+FT23+AGCAPw3peEqlm5gyoY1kPnW0E/z4I2IcdpH51hmgiKJ+mFYQtTieIPf4Y4N
+NPuimVLDEdgUXs3KEw0gYthuHgFHBGYDF7aMkbN8xn0wlKZlOjl29XQvwL0cO1sE
+OMClqMv4w7H/2zx4bXjeJWWUvG7duTEGrbQJreNzFBq5qi9vKBHLL4npXyQiaebX
+mk3LixX2ZcXD/lNgg59VX3gG79B8/7zuqpOtcoDA4ghu04sbUajV/ZAx1KnduIQP
+IyU5nfHn8aZvnqyhzGamuFn+9nBcUUfXrq6tr11S7AKcISlan/s=
+=E33U
 -----END PGP SIGNATURE-----
