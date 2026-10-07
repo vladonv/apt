@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Tue, 06 Oct 2026 18:21:25 UTC
+Date: Wed, 07 Oct 2026 05:58:10 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrFPCYACgkQSMjV5ji9
-inw8sQ//Y1yM7/TSVGoduq9j2Rd8jy9UUd5CnE6yV0FVFlvrz1fjLdTiF46dsKVu
-DImeu0W/xCHJzxVBk0djZoEN4+GsYPTl64cW7bH7OnnrPhcYqP5mYweyl7udgQGS
-WBDMFDDgQUi6pYqOUCHaz+GK/spx+ea2bhXm+lGEw8Cl95ii6RuLGihZP4Rqdjcf
-VBDSWPbMBOURTzNESxtnydzcWTLzXO4r0/KgqljexTPNYoc/Gq7M3zDHNJt+eYuf
-UwfbDFxgUd508KbIQ5f6Wq9gLncj104ZlDBZ0ponIcOc1TL0n1hnBD9bh4qmnuW2
-GUNaU39LxHa0/SActwJ4kHjgOau/HaBaQgVa/91eh+OF/yXgwTtvMsPc20cG2Z83
-fUs1a3KdxjhcFjG+1BrTKJUFQROFpdNfvuKPvNKh3DiyajhPBDl0BR7QnMW2UEXS
-EFdp74yHuJhWNfyWud51sff72kkJ86f0ExJr41kpNbyQ6E0vMC1SU8Z13cjss/nF
-AqCjwWf8eP6zSWXpFF50+eg/OHVzDeooaoZDOwFXGmWAlvEXXwjztYs+tQsBhObL
-AhpCDmusuKFlQcycSTF1BYCBG4IOS9Nv6I8B2IqYQpymhsKPs/N10woOFd7rp/rD
-rJWg2uUnxGLOjHKNqMlGDdZu2Es5C38bbaBeev6Ln8KwcXqZUvY=
-=x3LP
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrF33IACgkQSMjV5ji9
+inzuPBAAz17NrOfYMjx+E4euhCku7E0eAD5neLMCqMVtDBq4k7l96S9h+qyLJGgi
+/tR15Azo4xn+x6dAZO7dkpNzAub0ckzrRuUxbi7ckQ/Q0uzc3/VxFKKxi82pWR3z
+sOlTWgSvxc+SCvUVryTo6utMwYRMOVHgXEJ0bntJAX54dQOADmjcFxyArE27KaFy
+a9ISaIliUTEUMD06136U/TwATWXXiq1SjGPfrjHN3KLhHca0D7+rGvlO6ovCjViv
+RvI+NIWo0aI94tnxiQBWU44R8L7Lcsm3KPhNPzRCv2maLxd73igqXYproo+CFwW5
+hSorpq/7wdBKf77NvK95dkVk78zy32Sq092lh3Uwmdfi6fUUay2Rb7HI/XbrSrjl
+7oqO1r57ULgLenXmf0jx1x9AvsOxft46PshT/jbf6pecDdCv48i4adO0fac7XvxZ
+X/EK5j9/YIxdrMKabGDsOX3JM7FrG/COPYDIzU7+YDYN8j1AyArKaM1nwaUHgTtT
+S3PBEnJ1DXlY9dP366S3DtpOIBUY5U3aW1nud3Aoq8XRsCSpIGOKWTWvEP/QvOIN
+Rc0YPiZTMZ726WAeq84zdVM1Rjk6Yf6llY2Ra/s10hFNcfthFeGVHYFmhLBfxfSy
+UGxwHErrS1wV62nfyw/UbEmetVg3imHjilvXywHAtiy0QoxWt0w=
+=ELWr
 -----END PGP SIGNATURE-----
