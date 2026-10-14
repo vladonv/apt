@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Wed, 14 Oct 2026 04:52:30 UTC
+Date: Wed, 14 Oct 2026 11:50:47 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrPCo4ACgkQSMjV5ji9
-inyA0w/9GMc3ucXc5vBgNkoTr2kvzhLhMhzeu/RaZZpFZU0RL9OGuMIdj0IfCsLS
-UqzwOX2G6nD9+a2oSKGX0fGlzMdff8g7h9cKhFZVkjHxPWHVz82muxEhzps16LPh
-RLiJJOXBAprihDw24kyCG6GRHqMO5/Wa7bLqbCDiICfyjmDRVhY3iv11ebu6LsUF
-I7DOTQOeQnvKiC3BmbSbk8dvVPu5paVERrxFt2WID3eLFgpcxZPxVgNlrQB1P8IL
-zNGYcb08oNltt6Nt2zpbltHwd0osCsi8BavqtOeud/BPpVccpWNzKFlfEGq9LboV
-ZpKDlXssxF6aXK5lwMGX3YATaoDpjLTlLRl0XSSsR1n1gWZhZ/XAKjF0SAhpnEQB
-Oc2EH8764PCYu6TRnjszugQ+qZMap8wZp2xgG5UgtoERskNB8yaxjFdOcaym6+Es
-hwWuLuBgCiQ3fdcRgcnOAh+NIi7EAIkYNZxi9KOKUsOP0IVH9ShlyuMfr+LwWPWN
-2Apum8c0M39p+vOH2zAbwkC6l4VAjtQXhRBh7BYtWnJVnLWmR2peOYeG8dYLdWvZ
-IrXeRSbDZMU5JokrGU1kGuO7seGXAl2BgldYvcRJM0cilLRe7+AN9lWl/iwT6h6S
-syZ8RcCRkoqynv2TPRVGtUCoN4fJb5XMrrWUkQ8gF24SWHpUCW0=
-=3C0u
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrPbJcACgkQSMjV5ji9
+inytQw//XfQcG1G79QNlleJYXrhjVVwJScyrJmD4MbOYGNF+gDG4lBUic7vGzJhv
+PphFTesIWENnAnMH2rXEfcCAgF7/1+xY5yDH/PxmGjdyUQQJBfoaYhJuvMUfIqhY
+tP3pbN/UiwU9q1+lEsLSxxoHR2DDRJHRPWFy8NtDrEAh8vFA5tkWJg0N2J0ccf4c
+t95PP8UIP4fw+q/wqi3VNAcVdURHaweOX0NrnnXy5hlaJdlSGVfBIN8IpsizUWzi
+Oo/25L5dgp20sL8XKq4mnS2S9imOW92G+jk6ljaHfzIrJaAfEQ9qEjnBfd1VQTsE
+kngIkiQig2Kgtm2ZIRD690b0vr4eoqW2bkT+uy1LEIhJ7My+I2usye7+aIyL984G
+1oJdHJ/F4t4SE2zEP9W8l5CBUQpxX52e52KgFW1fbl9wc9/E7XqvTeGwuDWcCbAl
+pKeRCOfjv/BzicDZjUDTHiCAv3A88jBBfQ0pRf4KqWXlDy1lC5sMthlJ+QkFmi2P
+Vrjlc/SNS4fvoiql2a+nTL1RTzEQQZ1PFV/03ww/asDMhI/4w4ELCLyAVSm6bqrV
+as5GTxs0JKFMSefmfj2sSKTGOuO7iM8Sc4RnsRKg+SuJ+2kZGMPDA4kdK6z5chqL
+FmBSTUxV9+M4X4j/YE5TkJLuT9ik9zPzYfn0YdhTjyaxONW+NP4=
+=bCEO
 -----END PGP SIGNATURE-----
