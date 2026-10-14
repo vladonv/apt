@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Wed, 14 Oct 2026 17:09:38 UTC
+Date: Wed, 14 Oct 2026 21:40:34 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrPt1IACgkQSMjV5ji9
-inwYrA//YGAqXMkZDMWJ3zkdQ7sgfmQVQh5OOgSQmoWuRPZg/HW8tUOWMR2HxKyj
-CiuYKmxFnMcxOq35wKUfyWymQanfvNqveyPPFHU4hzlTbD/kFi0rx4gV1pyiRVkt
-7Di+yz/EdhHD0ImiAgNraFJGZ2p86pZrxP6I5jYM9dcJLeXvUffyN8ykEerg0rIP
-Y+f4TSO3eBahPfkd1K3KqNRhYhi1FlN1MUp3WEgxEgZq5khkpwUkG3BG2Ce9xGxM
-Isv9Qmk6PAhYABXdoFihA58XRh2hgFQ7jt02WjXB8XlEjVLdN179/Lwg1Akm7azf
-3qcYCOJfM/d/wmKvU36vPW64u5ZBgyoxE24iVWlvO+O6PnMcUqEr2utEu2YQrX9U
-Cb2kA3NMtknuALGBzG24zSy2zyMsjpm1ZRTD0vBEupGqZ0q1mCYsq4nI3BufJVZP
-LfJQKiWmRsd9m6WGsySQ+wIJKcdBgrECi9o+oewxzpBypn2bnaL8ryqo9cKBzjqS
-FOuL6tYB7gNmqFhD9TBxpiO+BrTNq75rj+EIEFXNpRhEt95oJuCmZiN7WwIXOsOB
-erIHYEP40ESr2A7El1s+2fbHJd/zaADVCeN+0/07e/w6hA6ymEoqruT39tnK0pLl
-MbfX1JHHLcDvKI0Hivr+zvGm930gpfhdMqVyoxCJ2Nt1HABMOCI=
-=JLlA
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrP9tIACgkQSMjV5ji9
+inwiqBAAjrvE29cYPjAOCNZGW128nspf9nJ6/88RF3kMU+DrWgtpPgzjtKuKOkei
+fuHuq2E0lMAZUzXChld8ffmsGTOf6srnwhwaZRhO5vHI6gysxdks8RVHZJT01EmV
+ussRuP8fmRePTSB19zmRwkMkAl5ajpB1u+0a3QKlUJovOT1Dt9Mbud6jLxM5MIhi
+gmoY/3+K8gNiai4IyLOMr0ryRTqfemoMBn6biTwXCs5aD2qJQiFbCC/vf2X1bicw
+uEpk9LZWOxq+xQ102gXeiBYbgE2hOZTDpEh1Z44FoeNE3k/dJ1WLKQ95W7w/FW+d
+vGBPcfoX3y4BBEn9l9VyQ0+enZAqp3nG8tsI447Xuv1avozW9cowG07b/nZ/qRuz
++r1rK/dkcZf1Z5fv+xfgelJyg/fCciFlsPTcMcyVCCbCdEffVmzA4DQOgPvBFZ+Q
+N5ThMy6FyvpaAqWALqozXcRT1YYxl9DPQEg66J52Zvn3fwYz7YPP+AY/zhWCBx9o
+EzvO9Ftyz2xU1RELgPJdpmElvtavtRZPNbrCkB8UhhV8ceU6b5i1G8kJDbgQP6EE
+toMy3W26ogjE5EYnxRA2HrXx0yRBx4sikcwODgLTpzKOPKAue9ttr7tONP7nFFCe
+Oa12UoYlFl0F/i21jvmEOBiH+aWMiB5721j05VxgbceLsviTIxA=
+=pcr+
 -----END PGP SIGNATURE-----
