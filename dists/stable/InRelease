@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Thu, 15 Oct 2026 16:59:59 UTC
+Date: Thu, 15 Oct 2026 21:22:01 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrRBo8ACgkQSMjV5ji9
-inykhg/9Gi3OGhFXlGGSswvta226XJPE7Eab1fI7I2oeNt1Shsbo8r0Qhy/FApr4
-MQpobTDMrIRNHmoCsuvcA5ryu0OK8duU4foh9S3gxWAbrt1ACGtbBtN1WLcXI2x9
-ictEeYeDUQnH5cuvLQ5OkDt1qmYTC9GKQt+3TkvE9hGXOT/HGQeGcbO+7wRwTwr8
-iT1X8ykHwknDVzsp6JeX60lIk7PWbeob0LaSl1/80DiNUc/YLgCM0uQEjTGRp95W
-/ueKdylZku0vLkFEF19omg5Cy7kpdKYMSME52NVQP10OgCtXXwJHHOeQZ8On+iV0
-eqzDKbAUCCtLWSZhH/+G8tpdHsHBrWJT9uoGqGhnU1dCPZU5i9Z7vh0F8fuqNJLC
-nxQQKCdbnd76OWMM29IxEMj3gPWa1/zAyGD6WzoJAOdX2pqNC6Q/AxKxpQvqzEZF
-pjPo9UEDa5TJexLC7RKXnD5kI4EX/j9w3odmEVvgckQ+OiQ0+LG3/idN8AYLFdtw
-oHL1rk5PAsbUA25954fYK6zlCtOp4i1jVwoz533rq1xWdOsna9JsThl+N8U9E32+
-ToXcWlp0eMPACmX4sHBgkV9pfwaaj2/50M+Io1pk22BB0TaSC5oFhsBvDhsXZAV4
-O9gzuKbYY1M4gBIiZof/pZgh3V+NNsFuAqv4aAmYSxxgrIuVFeI=
-=Tae5
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrRQ/kACgkQSMjV5ji9
+inyuWA//Y7cUE/plluVHrgK6PDzfuR7mcvaJVqwPRcQnGDcVL9JkZSaF66mEXAso
+kH6m/lz6deeWCueo3pejmb4b7ntnb95lE2vU372ChlWBAp0sPY5YJhzHxPplVRvd
+LrQNkxulHKHhamrWVaehvlLrdkCpqMsGplmRAMOJGaOZ2KF0wMs0wB1DIxE9PS1a
+oR8q3eneZF7BxQV0bFTtbZpVG0te4IjurzgNhEDb4utleZ9okCQ9zI3Pgz68BtT1
+YUYSV8+Oo1cIWSElr/EFza183PYvqI8gHEzUVsjGPv4HHPaKnk7iPkOEhm1heMz0
+A0+Llt4VOR1W8fTf6DfqN0W0SebXtX2vHOjgWXsiW+LzdObqbcDk3+ggxHFy8x2Y
+tkhNzTnlKpAxUqoi/iFLoetiOxfJp+FfNcW1QMzTaeVvsV6Il1NxLUqDUZsKODpx
+jdA18aXcYnC5fKbCugM9sBCdXZsYzsgq94IQivvIbTOovmMUamSCaL8Je7PCBo7m
+43Y2tGIDb4JhrxaVHgpMSzMN2HGjmTiOx01Ff6hNJvjTd9WEIgoi4AqIOj1fP0XU
+HaEC+rg7qoz/JfW4vUvb0xKB4msHSOh3jslTBigNCPMaPpMXgIs2m8fC/3D769wK
+UEP/4ycN6R83olNvn2TCe3y56t0RjRmruWydCLsytltkyYbvifk=
+=p+TV
 -----END PGP SIGNATURE-----
