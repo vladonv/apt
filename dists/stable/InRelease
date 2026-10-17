@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sat, 17 Oct 2026 04:24:33 UTC
+Date: Sat, 17 Oct 2026 10:42:52 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrS+IEACgkQSMjV5ji9
-inyVZQ/+MsxmPd+9/FWLv36XuAAEF6d7EkQ4MC5BbHIppSfQxoXqEgWgxy0PGpJE
-qACYdI9IGvFtTTW7KUb7c+LvTmORXXqcmk0kzArDg2H8HaH3YTHZmHuYLxhjjXI/
-iT4RygWTn7FUS/+A4//XSJQCFxmZYfK4E8SW8aEcZ58thg6X6w90oJgFYcNfbMHz
-LpxT/Mjg53l0FjJAN5HakUZMGPgGrzk/CSSWsS+h7bsD3d063eh6pq5sSd678bss
-O2gU0ktOnIpu8qRQgY8lO8bQohmqcsUwBadIODVO4fABJmC/pxtL+49X3kReMXCk
-Jelq5f4FcQPaoGIAvrLJggrknqAmK0JfOkYm3oMS+3q98z4313leowvhy0n6aMkC
-gFMehzsXUbX9OP3nN5D8iipM9nopF2v/SCISHHZcDEDzrNxgfBE/wJkSPDZ7jcEP
-g6S30LZTciMHP96r0gfniWDSUAn11EcJX0ND58nE9ED4ZqS0/wrCghpfEXAoIBpH
-1Vy7AM197rWoKcviZEMMkQL9jeRX+ySF4tgAA09di9ZTmmCa3Of6dSJFK+DAxkUh
-vTgML30ftP9GQrK0+F6K+9rtyAhQ31PqKdXAh6MJPUziW5wtgwH336b1YDsn+LbO
-U0UMS/CIcJmq0ZGmczb7PE5h0bFG3aZghC81RSCKJp3Mm7td5G8=
-=eX8+
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrTUSwACgkQSMjV5ji9
+inxyCA//ZH/L4GgoECqvRxKIpRzfNTeMRvjWFFxa5y0zRbRqsGtqC1vDVP4bDx3y
+8aSp822CaAg6BX9t7uNJLy5JlNchTNoMGHzaERB6tgzA7Eu5jyPGECPwtFrhIir9
+Bt8O3OsCAAjOQtaarTy77pWp4LTl42/m1/cBB+VlTXKDwk0grUdP181Qo6GJJyuL
+tOqk85DrImslIcmz2QGnp96LQSrDKVEQcmiXDv78wNK53HJKK4K8rSJFU0mNqFC7
+EfCcGeifE5EWV5dGfssZKt+lHRJ5FJjiM1d79xcTiKjZ2v3P2SsHe+LX0TdGmV3b
+VP9P7plhMPgD2vlHZsHke4MDQBZoZk/OSJ08enl4uW0ah/VZFkFEYxZqdEyre9eB
+OovSN4NZXLwXB/NAaAU/6SAC4DkGnlyK5GUTvGnvWYWUfmizW6YJltYXVivXpAWk
+yfAk60lyHsdjY22GLUyQbH5f1EBAhCcIwroVoRg2C1meO8s9rAyDB2OMdvTKYFw5
+sJLgAV10nmI79pFki83w0BaAcoA89F482j6k87I4a4TDeNhXjbwGy9zPvQfpO5fu
+56NnTL1GGngPSNE6au+4qhw+EJNk9sBDH2PDcPfJfJzXh9Oh+FkYXk0hHfRJaXul
+P3/VoTHfHDzZzHawsr2GTdJHTVugrVIGeY9ey2zbnSiBjgSgsWY=
+=TH4j
 -----END PGP SIGNATURE-----
