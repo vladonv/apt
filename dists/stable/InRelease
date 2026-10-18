@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sun, 18 Oct 2026 15:51:28 UTC
+Date: Sun, 18 Oct 2026 20:41:39 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrU6wAACgkQSMjV5ji9
-inwTxg//UWmbpZxfSWWEKAtVzFDWtV8OMPPkIqCeE20xEV2muDkyke8qTrdemK1I
-1n9DHiZwNR8cHI+XXDhxDDdYZv8gRY28riX4zEoP9ePin8kBhT0DveZUGaNBRvyG
-cIJGV00w1++oOZ0Jhsity5OVRPCaOtaaM0QLDpQNqglachtK8LEKEoiwpT6O8dLN
-88w2msFM+y6GQFNxXXimz3NMjL/mSYai2QivUgvpOJGMk2sm/fk8Rs1wRnFP/F4e
-+txm4oRP0eU+T63Cyd/6hLT5iEwxOMBTMTv1vPCLoF4M/HMCpWCBfinc+e9tAMtV
-Bp0vwQO9DP5wZZ0CvF8PFtsqVAlWNXQtVrcsyQhc4FWpTcGUrTWEF9YYSudp3N7O
-MWtgdrj1/mWZsGvhagihUW8wZXQXOTSgt+DWzgA20ult2zHIBuVf35DPdG9AxHpF
-A7twvklFLIA+ytL+oeWpCjOrZ+IRdRM5MXOG5oeXYiWX7piSlzEk8uywxpAhDcYh
-6uEAHv+06HOhLIMDfozIjflKgPezxy9OHU+mhb9gIfOYbTtTy9865f7+Hf9B95ey
-miASBpls7AFLrkuSXHaEgroBmRNIb/bxDWxzROnim0uuh6poQ9SheQH9jQWjmMNz
-inkzwdoFpn/c1zG1EYwIIiNXLS81F/tTxMB1jWEn04bDHmMIm1o=
-=Ifkn
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrVLwMACgkQSMjV5ji9
+inxLrg//X+xS+vFCi4t7p/vHIX1P2PjiWPHjGw/2O8tncj2t43Qou3dya5lD8Ag5
+dCSwO/njHpIkJ+uNdJsqPwKGJYxK50EjBLbo8Z9+PDcd4izEeSiG7oavyyE2GdlS
+ttAFII869Nl++FI6HJZTGtD7DFsNB3p8MFaTW/OZWmejmjWqShf+5V4RodC7Jzdn
+hw3vX40QfYlCXBMBdrTC1OqOgIGZaa+m7fECsJCY6dNC2a6iLTkyP5g8MNWVzbWR
+ts6fMLIXs+EQsOulXEEdbgSl/PuD6rJsqJ2EAr7YFGgDkHYUcrhEloOIoo8yLOMd
+79S7WJ4vVd72x9/DPjuNOSt1wlaxPiFcC4HWy/sLulsyWpH4pCJxchfvHOTxptYI
+rkB9VY3/vcvKfKF18FWuuzOziT92pBLNehkZAtUwGhonW1VTMZdNISwfMYgrER+C
+njQT4yyGYAm/nSa0qQRie+/kLP9ib7O63DUBcKZsbF7qRl67r/7Q2egNb0eEwz52
+sCviUvTyd6S7c80YDMFdyhzQVLFOw5Gi4IgmHFVduUxr9fRFS9mpSnl/UNAGRIxs
+W8jfFjU1HUUwUWJkXK0GY2wFPgP/CMWJhm3Spom3vWLB6kRAV1wcwgcSaZf2qzGc
+eP+GjYTDK8gl8iTfrnrAmvxKSLiahJ7o43rxFgNvkrhblOo2U48=
+=medU
 -----END PGP SIGNATURE-----
