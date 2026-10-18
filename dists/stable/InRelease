@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sun, 18 Oct 2026 11:03:16 UTC
+Date: Sun, 18 Oct 2026 15:51:28 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrUp3QACgkQSMjV5ji9
-inyPXA/8DCWZSMJfOmm+QmIJkBPAplMXqZ5AXcoWUaOkwuqJ0GL/rydXsEg66lJF
-EBnDtaiQJy9L9lHRx8j9byAYDoVFMpEsYCR5IgkXGSwFYU05M2CARwJ+P5wL1m+r
-i8gTep1LELiquJ7Rirj085R7Ynnr9HCk5/45Xw5HrIMg4KIOKAd2LS+dhomL2P2L
-hT0Xrmb9gQj/ra+w2x8XDDEkKw9AiqV3nQLaS9uBDiVhj9YY3Yy6hAMzEhv0gWgL
-95/UNhD0El5j+Dj7qU19c49iwKA3U3wy+Ott0Ei4ReAJLHec4ehFpHss6NL4gTh/
-49y6EbPmU/90TQXX30PDVxcEFjdwy6/i4wwY5Vghh5ARRNNsvlrsVegeViGmHkeZ
-Q4ROL+znOtPzvT3lncWLcGPPc9c5LM+RLk8OMTf+btUb0YJ54/TwoAqkINkRgWU1
-+L+CAWQmP9fytvljbd8PdYUkzNnAmpVPEcoaFxP+IlF9UA0eN2ZVgYGGqHSWycZM
-JTNx5I3kPKHqqWIAQI0wZAUYN2adG0hQy/U35f5Wt43ilApgABautpHNQbdRjEqu
-vvvOGamzA+joF9bYH7Dq4pbOEwbdGytDXpTmDlW81q+baOknoUIhim2KoGydhIUD
-tdJ0cRPsfV74SrSUnNqudmkrImdoajP03HxpwztdsnbZ1pH8gnI=
-=Fo4Q
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrU6wAACgkQSMjV5ji9
+inwTxg//UWmbpZxfSWWEKAtVzFDWtV8OMPPkIqCeE20xEV2muDkyke8qTrdemK1I
+1n9DHiZwNR8cHI+XXDhxDDdYZv8gRY28riX4zEoP9ePin8kBhT0DveZUGaNBRvyG
+cIJGV00w1++oOZ0Jhsity5OVRPCaOtaaM0QLDpQNqglachtK8LEKEoiwpT6O8dLN
+88w2msFM+y6GQFNxXXimz3NMjL/mSYai2QivUgvpOJGMk2sm/fk8Rs1wRnFP/F4e
++txm4oRP0eU+T63Cyd/6hLT5iEwxOMBTMTv1vPCLoF4M/HMCpWCBfinc+e9tAMtV
+Bp0vwQO9DP5wZZ0CvF8PFtsqVAlWNXQtVrcsyQhc4FWpTcGUrTWEF9YYSudp3N7O
+MWtgdrj1/mWZsGvhagihUW8wZXQXOTSgt+DWzgA20ult2zHIBuVf35DPdG9AxHpF
+A7twvklFLIA+ytL+oeWpCjOrZ+IRdRM5MXOG5oeXYiWX7piSlzEk8uywxpAhDcYh
+6uEAHv+06HOhLIMDfozIjflKgPezxy9OHU+mhb9gIfOYbTtTy9865f7+Hf9B95ey
+miASBpls7AFLrkuSXHaEgroBmRNIb/bxDWxzROnim0uuh6poQ9SheQH9jQWjmMNz
+inkzwdoFpn/c1zG1EYwIIiNXLS81F/tTxMB1jWEn04bDHmMIm1o=
+=Ifkn
 -----END PGP SIGNATURE-----
