@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sun, 18 Oct 2026 20:41:39 UTC
+Date: Mon, 19 Oct 2026 04:39:31 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrVLwMACgkQSMjV5ji9
-inxLrg//X+xS+vFCi4t7p/vHIX1P2PjiWPHjGw/2O8tncj2t43Qou3dya5lD8Ag5
-dCSwO/njHpIkJ+uNdJsqPwKGJYxK50EjBLbo8Z9+PDcd4izEeSiG7oavyyE2GdlS
-ttAFII869Nl++FI6HJZTGtD7DFsNB3p8MFaTW/OZWmejmjWqShf+5V4RodC7Jzdn
-hw3vX40QfYlCXBMBdrTC1OqOgIGZaa+m7fECsJCY6dNC2a6iLTkyP5g8MNWVzbWR
-ts6fMLIXs+EQsOulXEEdbgSl/PuD6rJsqJ2EAr7YFGgDkHYUcrhEloOIoo8yLOMd
-79S7WJ4vVd72x9/DPjuNOSt1wlaxPiFcC4HWy/sLulsyWpH4pCJxchfvHOTxptYI
-rkB9VY3/vcvKfKF18FWuuzOziT92pBLNehkZAtUwGhonW1VTMZdNISwfMYgrER+C
-njQT4yyGYAm/nSa0qQRie+/kLP9ib7O63DUBcKZsbF7qRl67r/7Q2egNb0eEwz52
-sCviUvTyd6S7c80YDMFdyhzQVLFOw5Gi4IgmHFVduUxr9fRFS9mpSnl/UNAGRIxs
-W8jfFjU1HUUwUWJkXK0GY2wFPgP/CMWJhm3Spom3vWLB6kRAV1wcwgcSaZf2qzGc
-eP+GjYTDK8gl8iTfrnrAmvxKSLiahJ7o43rxFgNvkrhblOo2U48=
-=medU
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrVnwQACgkQSMjV5ji9
+inxQ+w//aTcmZLAgtVaLavXEWtFnSM2oONEDAVWUumjOtLv0Xa6E+xRLADAKsSn8
+MMvyHQhplrpEhZZH1xeL/f5XiANE7pWWUhVM6YEpdgu+PJiOo9+J2sIiAqB7aKTA
+KUTjZnoZ4l7NQMlZ1oe+eI4bny78TKfZYS2U3EeSIR3AHehGDpeOE3B/T9aG+9Dq
+iqrO30AAOq52kycIgAyU59AtaqgvuR6yVfrxeWUvSNpqTM/rsa+sdvTZ5hA8GLuP
+0xTPEVQjYqtmbWbpo1L2ypSfM0CbRDI8WUWknu5XnbwggxZMM1l3/q0ghQN7QU5K
+ujJ8KV2ei/8baOiiEh87AMwxyWb4gwLMDe+BuiwKPZbFzmcAR0s0QO6U7hMFE3Pi
+YWVhpiMDOGRktzIxCJcv+PPscCaXSsnxESDJ0nt1USpyk/WJ0Er2Y/qQGeORAyuR
+q3RBpMXjqldYVc6J5jEWa8LtHF3mOtk6Ok091KRdh7puTuZPJvBykxoKUQsTTUNL
+uHlSEgSFyA8DoCWYR7kCNnELlWm5ouOPd9/ntEgc7iSagkCsKM9eBPJc5eMEDm6a
+Su0Mrv0hrDu6iow5CLATCQ2Hl2hwZ9/V+To9fR804gS0WF8Ll/tfSipmMvaWkYy5
+quITYJ+NZ9oG9z/Veq4arLsdJfzhuDQW+MzjjpO6wQAhTD70moA=
+=X16Y
 -----END PGP SIGNATURE-----
