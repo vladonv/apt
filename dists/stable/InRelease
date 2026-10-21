@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Wed, 21 Oct 2026 17:11:18 UTC
+Date: Wed, 21 Oct 2026 21:42:04 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrY8jYACgkQSMjV5ji9
-inwWnw//cxSBlGL/OPtQUWXb9oHnywCk0Sj9fW0QXHmgpwJrcksEzQaf73w/4fOr
-M3SBRnMmLx7FAVv+X7NOBE9I544ydjg8ejLA6f3lXnL3U2Wf15uOdSEkg2mbTthD
-isZA64UtW2invh5GM6ZUnzL6vthOdMt6Iy+PLmgoq0ucP7P0HGE5+NBToimJ4TM5
-ssWo/74jNfiESgLxDVB7Mv1hSJFkotzSlaoKQb/L7n4Nd73RfNirdJc4mv7qOF+o
-0Y06e0w/vDBaIc0mXyZlFLIgMvn9G9Z7mwnwcxxKasUSVB8OzlrMNHPZpEi5eD//
-lOQVArjky580OaseuvB/6iQzWdYZsJumdDBTDDTLJucVlEde4AwgfHvR+qsNxUkl
-SD7PL01VAWmhzNG4RwE4k3Vjchyee5KqlcTmyas+KAuGJMkFBgsBrCQS8o5VLhO3
-rtLGGV9sPbSGNi5LLiYKlZaFLViGXblFAtrk6KmSkk/h2YfiUypMmAwb1QwTrLJv
-E5b6FE2LY+HHg9+UyayKBanvzHgBkLFKpOpduz6joVKGvc+L6kExhu1FQfl1HbB4
-2kYu/Sn0xsVeUJCsH8tMWHCp0t30N1qY9ynlJipIXkUJR465m8GFwEBJVxy1oaes
-Dt3ZByP+VUx9/z7whhBWr9Zx3GkKoK4UMhcOmnYSlqCjwTq6rIY=
-=po1c
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrZMawACgkQSMjV5ji9
+inyVLQ//fjP1dp7t5Em82wy0qC23PRHfMtAxxzi71LTU3fXDh3ianUABePWvv9b6
+Z1FSMSRSwCO4NlfJ97tRWytRAO/5yQsx42rg8G6ktyQPTlBJE0XCdueSClaPaCvI
+0a3HmKKXBw88aZjlCFcGHs5oIDFcKRfsDScum/OuLENoXbgn8MZ8CnGUD3JX2PZK
+JZZXPEYmtv1QtgumZXhQV6/K5nGM3XZRIuWT/W/i9Mw3ZbvYrJE51PN4U3p6FVJy
+bQEiMzBQuHYYSABQdrZnd3cOqUK5dt2n5fuKC3ZePXWLikUaOK9gkRTRxsw1o+8M
+bxpLTP5qmpuuZ+6mumr09LyycsfoquERffX/+eSS1c3lnRna/WbqYXby0NZNNMbk
+P/KGOxGxvQnIp0DNiuKKdjSlOVv8RqdnhIgy5fwxn3cfe7xCghkNeLcsopS9unh8
+GE3Aa0P+DatpSCQndM0unsJffcYwtR8pOMb+QoMUCviBoLpLR4wKnLAk1rnntVFL
+Tn08+HwZAlZPRJSSlclfcG7jP8InqqOV0P3Yyb077GOZ5LjOC5W7ru9rWOxsvEpR
+xRwx16FRZzQ0b2CoXSTrGN/liXshu81GBxhmxb4vSNt+soVKxzTRtyQTPcwzXnUO
+FDlP8pLHhuUCFB+KUvmJfOu0Q7s8j6RQyd1ZpGh8vcb54OtwEpc=
+=kaTR
 -----END PGP SIGNATURE-----

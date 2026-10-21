@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: bookworm
 Codename: bookworm
-Date: Wed, 21 Oct 2026 17:11:18 UTC
+Date: Wed, 21 Oct 2026 21:42:04 UTC
 Architectures: amd64
 Components: main
 Description: vladonv packages for Debian 12 (bookworm)
@@ -23,17 +23,17 @@ SHA256:
  75ad2a337149c2ff8ce34ce4d7699ca7ba2f6b0a953c566f41aba8c463c4b780 155 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrY8jYACgkQSMjV5ji9
-inzJfRAAhSvbEtpmk8dyyvPhkjTbk1UW/Hv8pxh25b0UcwPZ9zhTCJPZsj3LUXVD
-l85SkA4ehoJU6VbjrOO8im9gbYwgIE9QjGvvY+oRi8SGzfWwYMu7Rw/5kr7d5023
-3UNjc92D5Auhx4sbbkuLAnmehyHOGy8RA8DXMzu2M+Xu9EENxbVGcW3ol0v90pVI
-4u9oM0m7qSTmrW4Wnskj1oRjSKIT770zsuo4/dk3Z92HXqF4S+X7vzwFU5z0hXhY
-DSdNTFG3hO6rxs/q+mv2QQqkCPlILgYGZMKyj3VhdGuwQBnlKENb130whFN4bq/5
-ohINdLKJN4/u9R4SDqbFo9jWaoUuSdnA0fF81Ttk58Vmiw68tB+9Gg9gZqfTRv4F
-L0B38LqtyYyqyalet4uup7zdH+uRFdyVGsRO3rfiZ86e8PXpyqHomv3JwNfJQzlt
-eQrQQC2cY2+OOCaKOk8f0lm//3kjTLUowFICjl4sg/HCllb286GtrFzmGz0qwcNP
-qMQzYTVj8mm77NKMHjCg2O0eEd27183sG6nHoBU53UQ7w/k+s8bYegLdSH/aUaiJ
-nmBYkFvUD4kEPfFtOrVEhNU+XgFt5iNU80EJQkjyido6krO3IvRRp0dpoefwur9g
-hnFh6Gggy8GiGegt4ZS5x0mtFg9AV3LgLAW1Q05ibh22ddsgbgk=
-=XeeA
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrZMawACgkQSMjV5ji9
+inzlQhAAp5s9fwEOUZUxCyzW19UY75UxT1UbuePAMbhUj99m1dt5Ypa8XYwkKFav
+RFk0i9uvpoqNi3eQof/NlSXRDZxmccqg49ipkEZuForRjL3q9AJNWMBnOtVL2tzh
+IRBBdSSSWBiVAU+dOk6VX5yalkVSoqSQKVUooYH5xGEXFlsh21qAengFEmVJBG0w
+pYQ0UCXdvkpdA8R55NUrIonhLSE8Xdfs1JUut6pfwMdnUTmR9O5R3xVcCi6m4fc9
+PKDAyTbKhiVv9OBRfeFmC7DfsYabaq86BfEpXozrw+ILTBO5Ssyb6jTQOHDo44wV
+4k0lvw+ArlapjAS0Gc1VhSokQ026wWb24np9kSLZ0al8+rqpxUGXQ87hlMJ8ZrdT
+VRKRyoe/a26kREBxzcPmlbWAjsFKCyt9VazhzgvR53cSUI/DG4UNcSLUBmij+Gch
+uybH9S3GfJmiv4Dm8n7/ZO2q/aopAWD7EIRGXcyS/YhKgIjBddwsHgngVN6fiDTO
+Q02A71d53Hxzvvj1f8Xw2VnJlq3ZI16Cbkur2KTbWhtg2G+pXM+NS4apEitjTNar
+NCS8eAuIgFMEkmGPnCEs1swbgRkKsihN+naZHSC2616sCT61Wr+JGswbj8eT/0sj
+tzwxAG7aLiB+zMNLnvGLfIjkSn/s+N14xQyPDH9c6uUk5UW4+r8=
+=v5Eh
 -----END PGP SIGNATURE-----
