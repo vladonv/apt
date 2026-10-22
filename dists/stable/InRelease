@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Thu, 22 Oct 2026 17:09:40 UTC
+Date: Thu, 22 Oct 2026 21:35:05 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmraQ1QACgkQSMjV5ji9
-iny4cA/7B+LIpUU3mcDu+eyvXnVA4/lyZShw5ryE2a03JrCLM11cB+/moZpbHyc5
-3k52k1ST27YxC/G8G5rw90eG0eIUwgVIjodc79mP3CS1OCUW3AofFBg58HBcmIg6
-Qd5+7YSEuAIdv73jneC3CPdCD28vaaLLO6Et30sCxlA+ehLBU/HacfTdbnAGrsfw
-v2drTSPz6eWmQPS37lOcrVh17/DPyaVQu1RKGENdaSHkMvcb455wLuJ2zDsyqJK9
-w2rsoYLEH6X2JNwYIQ4YpsOf3nljkAuE+88B8RZ1+RmVjcRywOTzg/aLkqxPqlLd
-n76eaJMGHqmhnIkn5yV6/XkFcGvsBSMnpcJqxd+fywkfNmVXRL5BXxvtbF+PqKSW
-xdK6bPpVedZRnXgvqJ0ynWpgyKsJIdev0QyeOPXKJkqvqsYxl3xblZtuLh+QsFcI
-XYIcXb6MVSY+WaMS4VolrzIsh1ipq7ctr47GKmDpFvELV7VF19S8w392ybU2k76z
-i68gSLTXcm8ZgNOEr93GlB6oTWAUo7cewJm7nEXEt88873h7Lg29ww8Y601eHl32
-K7TEcGF2drVcbTHu2vfCTwinA6j5bDj0Z4vdTAgXgCEoKfW1ZVFm539dHNDb2VkA
-kTBw2VUBMabEQE8dUZj2aOOKuNzIEQdurSy4Y24HKoiM0AWLi5Y=
-=D8X5
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmragYkACgkQSMjV5ji9
+iny0hA//dlVFYNtD/2vcGTBf0/75V1ToP/5B3ShRq8wGVo6sHCscD0Wd6RkW9II0
+W/qumwDjvLVS9bR8jjDwtT+T22a1MeeUE2S0/pPIQ+OZ/wYkC4UodsZk09Oa9km8
+1p0tAb5VFxtCXn6vAd6uVzeoi4WQ27yMCUWSY60F06y/WW/WeB2BFLrwVX4jwike
+qgR4qmK5wZDQ5vGJy/xldP2iQiD+GBAKOmHaX4miRPVaNCGftz41qMQmZcr+DFMM
+BI/2c2Igk8bA5UMMKAoSScxtEh4RFsRDNjS+42yYLZzBdCOlO9117JaF6UxuLxyC
+3caFyW6LOqBv+9JT2nB6/7ZSfYOYQAsrGExtHt5eH9cgtl6xwQpGXJOD2BKtfKix
+ILeHeUAsZuH3ewxQy14wiIPnZahKrBHl7UjZFXNfwa0UdBfGPaWmCQxeCmsBu5zN
+7mV7Y/SvxQC4mdzBN961H9vBmwpc9hITvdl8vcmUvm++toYpqEcopnrKIm7+ve2H
+ck88vNEcGlv0CQCHOKUmHNUa9VmjSd9eHN8f+/bT7FhMf5vp8VtsdNucXvyaZPiH
+im849hdUCMgTYGEaXOuJbDC87TaaQhHkFK9VIXASanVuwgNSXWz1yGMeOdnZnH+Z
+gR0IupDuTDZ75MPlaQdgt1KSgjWZ1CYL5rLY1q4LIXDr5yhyvZQ=
+=HISa
 -----END PGP SIGNATURE-----
