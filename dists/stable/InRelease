@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Fri, 23 Oct 2026 04:47:56 UTC
+Date: Fri, 23 Oct 2026 11:37:26 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmra5vwACgkQSMjV5ji9
-inz1CA//dhrVXCtf9secie9ebblfgr4SsNSOcQb3UOP8lqN/Jt3CmJK57GJtIETZ
-aAQhw4I1WA3iwLc+LM3POaX+AwJ0eo1gNBLrl9M4rxh++yrL0ymlGi6NZgMGVzPN
-cMy8/D1TG5dcy3RXofQ4MAS+pMaoKXJGbZHZkqOF7go3tClg5a5ztuIaWOwya8OL
-BK8YiTo3huR8V6zsy215a5hC64XxfZcbsur8YbWZtQnYGserec6u4Ok534l725pS
-Ebg3rolyf87gQJFobaS/1WiyA/2r7DDCFYyfPpJhRnwj9rXktAL7laXHb7CDf/mW
-gBjXJWAExrDipglzfI2xjBhtxN6PFAYNZcjbvVG1G9jz8/97FtuzCYdN+iqfHK0O
-9fmzjBPT7+QriUoiSBvynRhpf+Q7hMF4UR0SGWChBzocMpjF9ZE+Xe6B7Y4BT3vk
-es1mCq5hFXxnA1Couqd+eTkFQto0XSk4p/z3WkXLBabW+kh6SBxjqOfVvkLWMjnr
-XnbsDDYsZLzQoGzodvoDOhvNMbcY+Qjs4n19kigX5yklvCFm/CoRDMznVFteIpIa
-jA9i2ucdwNmKIBipoAkRczq0WtcrwAuw2dKSUaZs1bqK/IHTB82rJ+45mNOr06iw
-wPY5FH1sLOgzrggiQh2q5rx9soS80yECq5V10MSW/RztrggcCzc=
-=+M3I
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrbRvcACgkQSMjV5ji9
+inwyDA//cfMW3s+1OLfj/XUTWQDBaJjcnJc3suC6OGBAL3iUvgGssehkVRhDvXou
+DYaYQlCuuHgu0OklNKzB9MB5633WbArDK+lyKJC54JZy40LbE2HxW8sqzaJ6QaBX
+hKy33+eBR/AhGVt2ks1TgS0ocl8rpgoRx4Ox+OTHUh2QAaulgOLhhIcv6Nvj0EnM
+z46z2g/6cQoWqY0hEmW3/qqeu6c4YtSOdfm3Ost9av5yvcXUtTSskjekcFoOc9HD
+E1aCm0j5Akc2Wdl9/6er4Q9HqtziHrHyeB0seTJaU2hcmCaonl+yiqC/FCa1v2ku
+WlA+gP7BLHZW+MQX2SHq0jWSxKUpi/vM5mFMVVJk8w9130iQKT0yzw1POReKcNOw
+sjsjqDnJNdl/m8wJwbvMR6p0gl8QAevJ8zp8QyCqSnLmJMLNywJYfcLUdt4120Qe
+BUnyHuKOUctzs9nQTI9c7GwxhjffL3tv85aWmqilgI5YsfhrPtHbl8uI5aPzKWt/
+xkrWQH+zUy6bdklQIg/hzLrywA0+Se9WA++kgt3GhQ2MJqZoX/D+L4gXcqLbKpgw
+wpw5zLSfLpTLXsS1sNVgAsGJfr+pHXPCZ9TyGibjhXBg0ZDtx6x5bqDIMJELka8Y
+8LXVqf2npycV3Hqe/7vOddj1Umk6dFOURqq6sFDtrhk0ykiPYD8=
+=upc2
 -----END PGP SIGNATURE-----
