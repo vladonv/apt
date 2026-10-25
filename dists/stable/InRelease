@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sun, 25 Oct 2026 04:40:06 UTC
+Date: Sun, 25 Oct 2026 11:27:09 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrdiCYACgkQSMjV5ji9
-inwmQw/9GFISTj2Rrn81M7JYKwXYLFLP/YdyAhaxTXpgEh+w32fiHneSYvdz7JAE
-3QMTEunsi0Jn1TWNLjujyzPXfgsD9XZmZPyRcHK2SAopfrDheopRu88+Bc8svbDE
-std2UKRsVJWK99mEU2yxCz1aKBJmUvBC14Vpb1aTMlHTIkEG9U5hL9DlvdMc31tJ
-rxXjVvv/NaxFTmZ4gtKHi/3H/mUbscUFRjdAB/i/ObFmxkpDMG2BCP/REZv7Pc1X
-1qHWCjcOQoFVFbHyQCmKeQ0kSjEvqwOGpxPH6UW/6Ui1B+EYsKmzHOpAvNjZzKon
-91TenW9kpehUYEpeLpJMN96BGPJZr7W+ZMIvAporN+61zO8soAuY3hjG2nWhmR3d
-aHr8P9HX+BAlrK9kakDPHvdtPTLR9nAmyLQbJbyaTkw6I77yz9oDi3Nx6xdkVkZc
-P6zFrln6xtsRSg89GRQFpr5+N7VS4T53wHApvYPkN/Z7Kn9OezwtNTrb2mmPxRrp
-q8T98ZucX39Mv+vzmJfzEzvejJJiGWqd67zm+kENVadPpst3raOlJYZ7rZCxXJ6E
-LmOvz6xsJBfebsNXS7vO1qKkY3eXGcO2na/fovl9tb675qN1mDDBVBI29TklfAv6
-zP+mlikp520Xl2CCXZ0Al+cV5wOeqw9v+mnUvI9kU7g10uSkTnY=
-=Za1A
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrd540ACgkQSMjV5ji9
+inwlDw//U0fUdg3m/EGLAmQQD1ZXOX3SUk+hF0GnB6mFrMiVHz9kNhhq+wv+ano4
+MSXUqzJUv86n42IjZ4k7MiIu7N3m0mzO4/IXzCymFV3mw485D5Fl3Dvx45N9LVKR
+/Trq5h7sJmisN6sUfI5AbI0eRq0FxgAP4BLF9toQoOAt9l08Mw7zsVPk+XjdOXhc
+1nH8OZNIhp/UTYhitQBBD/gSXHlYkrwW6AH91yeKxc4FbO1bvuiWGFVONUER7sCL
+XIjwa2IGyLzqBfPpQyI65NEsWWRYex2ZAC2dRCjjq24wmjEMjos9gLbQUMQpZKMa
+ErZrmqQrF3uCVmGuHkR72gv11ruYsuUPo1yOmAOtCxaqqUIL68WkPhD4Ukewnn0l
+Xa8JSd/ZpYXYb4hne26oQufPqCej/aKWyGIhyy8RWqGo1q1nswuzBKBfULbRdsRQ
+u8u/9/9PefJzG0r/EPbh4hObp3DR6o8MuMtXGLmFCUtbUsG467nkFMroCiLWy8zN
+gyh0WzLfPvp2cm3iz0wQBiY47A6lKydHoPfcea7xIYRPV9+VKcKiUY7uv8o3sdgT
+RHVUmTjbJ/rLXIdnIH70P3NREbC4M/vYTP9ZWPmprAu3jJH74XBYIsJ3rUcv19lz
+dVm7qzCx4EBcmCzMvi5KiTcPaBB6R/wjMESL2CkyvOZoHLohcUg=
+=2T6b
 -----END PGP SIGNATURE-----
