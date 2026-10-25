@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sat, 24 Oct 2026 20:48:12 UTC
+Date: Sun, 25 Oct 2026 04:40:06 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrdGYwACgkQSMjV5ji9
-inxsEQ//bBPTDxto4ktioxZNWJkZslgLlcv8HSrNh3e8QYom6RJmsV1ImWU1bFyw
-B8ZDic2lQwk0UyQpjHimSPFeahcWC7sVBv6RzI9Iin2otuSXRE8l1ldWzm2urJEL
-ofhA74H5vN9VuYN+Mf1Cvxr51UIVNS1DDt0kkFY/iioqIuT2Mub/TQUR/1mFMJ5z
-qIcsXnvtZO/HSMBkRjuWXkwemYdZcI9YuKzO8AZpICQEw/DuyBgAG3YkEsfu5hZu
-4IgrU6bjFh0JB8uYlIUrBwlIv2lTfv4/28QpK5QWXBa19gqfubuPC0+qnQIgekpy
-lXKv8MknbmYfqBKAn0bnjA/USi9xtzVk3r6PqjxZ5o4tNj/z0VJMKBa7IbeqRV4d
-Nrq4yevlXcwfVp67Le6U1mQ18hI+0Iaqzg7jWQJEz/gZhk5ibmcFcNuGS+++7OjF
-iyHKBXb/mQTdZmApv/KXDj4c7RS7tfRONTlYNaSbaKvyrXolvyoYfn1mM5Uj+z0U
-in2AHiagq3jC4PvShjlPhdXAfmop5/agZ/mbjj0Ghur3v6iAyu6rd0IT7dS3EegI
-P0vJM+WWJXiOpEP5lyBn0iIsqYNHZEwD9QqyGKZxwFiGKa3u4N66wztQhlrX4XxI
-A5a9lpoN9RdJBrnZPzMH1hiPeJPjtYN9BvJjnyZz2CfEWZmByZ4=
-=7zZm
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrdiCYACgkQSMjV5ji9
+inwmQw/9GFISTj2Rrn81M7JYKwXYLFLP/YdyAhaxTXpgEh+w32fiHneSYvdz7JAE
+3QMTEunsi0Jn1TWNLjujyzPXfgsD9XZmZPyRcHK2SAopfrDheopRu88+Bc8svbDE
+std2UKRsVJWK99mEU2yxCz1aKBJmUvBC14Vpb1aTMlHTIkEG9U5hL9DlvdMc31tJ
+rxXjVvv/NaxFTmZ4gtKHi/3H/mUbscUFRjdAB/i/ObFmxkpDMG2BCP/REZv7Pc1X
+1qHWCjcOQoFVFbHyQCmKeQ0kSjEvqwOGpxPH6UW/6Ui1B+EYsKmzHOpAvNjZzKon
+91TenW9kpehUYEpeLpJMN96BGPJZr7W+ZMIvAporN+61zO8soAuY3hjG2nWhmR3d
+aHr8P9HX+BAlrK9kakDPHvdtPTLR9nAmyLQbJbyaTkw6I77yz9oDi3Nx6xdkVkZc
+P6zFrln6xtsRSg89GRQFpr5+N7VS4T53wHApvYPkN/Z7Kn9OezwtNTrb2mmPxRrp
+q8T98ZucX39Mv+vzmJfzEzvejJJiGWqd67zm+kENVadPpst3raOlJYZ7rZCxXJ6E
+LmOvz6xsJBfebsNXS7vO1qKkY3eXGcO2na/fovl9tb675qN1mDDBVBI29TklfAv6
+zP+mlikp520Xl2CCXZ0Al+cV5wOeqw9v+mnUvI9kU7g10uSkTnY=
+=Za1A
 -----END PGP SIGNATURE-----
