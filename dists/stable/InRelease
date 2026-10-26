@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sun, 25 Oct 2026 20:49:56 UTC
+Date: Mon, 26 Oct 2026 04:45:54 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrea3QACgkQSMjV5ji9
-inzyyg/+Jm/MKMC3fv9ndDe9NFBc7R9/tuRB9lm/BeUrrKV3xG24KfpLPlG6bzU2
-pEUboisWuK1EKQVuFpu2D2Y4p7MIjxmU95k/56bCZurexDVNxjAu2z/6bZPtZlP7
-cG47x7y0kJCPyn70hOAR+K4DV5heIUx7PACjZ4AFUDPWLSjjzAWXe0q/Yvv2EL6B
-0exuOSsjG67CsVTBZY3L/E6ecQgQhMfi3APrROlAGH8Ez+HNy8TEEvAnCAFdZXDS
-QC5Gv1vuS2YZhV/ldaq5F2rGX1jPEEz5+3dQHnwiMTdZtC5TC3c8mYtMO6MT4yEF
-lrxWhYY+s8YsOvY0iMjhvcGouUdtAfZsD2GU9uqcUJfIIsdos/yPJ4zFnEofS3Rp
-x5KAseDn5HBQfDHtQSDDtPPDv8A7x3ash0V8cqSD8SdzCN3Co0psDGL4o0X6OxkM
-Kd4+LnishAr4vOa1l9prAVkkFnft4iIUTJQR6UINK+QADk9vsrkSpGlwPEpb+jRN
-i/T+MAJxD0hAOrpjvqBxn0XDdQqeCgGE4FH3hwynyTz9PkKPTBEUiT+ijFrwRHoH
-VBUOZWmqcSnnDtkn1GFWYH6HwAI2GmPAdJoRLumbtQRoMP6Gm6XKYIry8xybw2LR
-K5N0S/UJA/AdZbTZQDr0omUTc1sMNDmnObFlf9W1B0oF082yF/o=
-=aY9b
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmre2wIACgkQSMjV5ji9
+inwZSRAAvmfyN0U0NkKFnNL7TJFNmXDYsI7X5dZvN72tJuHjGCVaOsUM0m11xmc0
+HplGcWYKOb2eAz8vcOKvgfvpdJ0Un8cqS+70/aBVBSG3ecfn8sdjviuMB4sx4w3l
+/K2IipLAiptikvka56QSddMquqRkkJjhiw/Hlap1qAszLMob1JfcNrckJB0l/Uhp
+Jb4L5zGQQxcfeeXsctagkYOlm5+5Ad04IzSXUjpAuMbp4pZ/nywfS5L4F/rPBGHh
+TWq+HFMfrw3rT1imOhkrYP1DoKE0S7Sd1vN2oWBZ4ETlV/i1Dk4fvtObBwv4ucGA
+WeQT+sAfgckUvb9EdQ8LJuQv2IqmEbaYI+mdxhsDYva/GwaaIZyiSDv5acnz1Rox
+9UzftG2gN3NiDI/g0p6eGZad8fvkV+/MOzUZ2tkwcDskjzDm/BNk3QIQSHO0zBDX
+hThNt3GUXlal7F9Jj+2r31dMs6hFdu6vttqsV+gIfOqiWlfFihTIscNt1UhlktG6
+01uSUeXIoWnxIFsZQGupJspMcAgW0QgpobvV/FCSm/JiDU0I//Ea+ctS287SODqz
+CSA8EFBVg7E0e7Qk3PboB77ydbyGlZm6riOgVhUVL04r0G5l/v2ISNx+gPVBHpVE
+dIMbFddqNiBuU2l7a7ZhPL61sXjkiLeuPXW6HAY9s+MekmFCmN4=
+=1ItX
 -----END PGP SIGNATURE-----
