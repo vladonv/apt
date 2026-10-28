@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Wed, 28 Oct 2026 05:40:53 UTC
+Date: Wed, 28 Oct 2026 12:53:12 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIyBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrhiuUACgkQSMjV5ji9
-inxZUA/438Vb/dTbuzbuaTDCSqVgNi+GhzTQWamEHq9GGOIozFD0nowtwWsg1jfd
-bQcUs1cPTQBkNfaZ40nuYNw5EcJe+hAhW43NnOP6GzP1dKDzXhp3pf0UuHNqkL2a
-Gm+yCwVjjq522fUfEu3mNrdayWMdueJte1VLFMWvVY91T/vHncdl9d7DduvjFEC5
-ejGVeikuOoFW9DgjwqpFOKCwVmHGf3JEvVCaHuscT/2dsDOJCSTNfxUUiE73Ahav
-P1/0dPIU8qjRIwnQjgEiZi7ejyIV7G+OVFqFgAOhpcDXDWgHtphYgQTT3qepJiEl
-AO0wSbHyS/Z+8Bg7UHdB4aTlcmzms7X25+2dfnEhRACvdHQ+uBXUqzFbA90or3XV
-IG9AFwGCkWY8c4d+wj50/KTxQpzpiuC+qI9tz70OSE4i6yEwbX9+24Zbz7nR/4Pj
-HE75nTVcRxYx05VX+IGFEw5mQNuAlf3w/CUYFVOTqIRhiGJFqFrdrUksIJWPFreD
-ilcAzze7tCSGmzxxxByGOza4VCmR/0eZlm2sREgKHj1DtOj00IL7za4Ix2y4xZ/J
-6CTvK3w24kIaTvd01qTYJWpYBPfU6KatjT0hqsEIZZ9fWt6JS+7aMnlyafMAgFGJ
-ZjzFNK9q7aP5YtGJJT0xWl3hXA0Y0zfMClPNB8te+kNYdXOSZw==
-=sgH0
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrh8DgACgkQSMjV5ji9
+inySKRAAoaAFU4TStsntd+W+wE4iaLCNY8egtSlJrci8GlDHxwmji7eovbkn+7tl
+2lrWEojd6IKHCGuEM0NMcQU28/brMCHVWTtiRJb4gARsgZ6FMG7aGlbFqvN/7D61
+oHFyvRrO6o+YfW9loeahmzNwb5VIb5NNWHM1CEK3FW3W4OGulJTPCBqpyqcGv6LH
+Xb6GGRkuh3tANXrfPd7L/yTwSqrc8O4uSw78FuHsRImz0mcmv4pB307gD99rsXym
+H0JVfr4YbB55QwkFNKyMuwu4GwXxOYZ+Bhyb73txHx8onAIbpZRzotyj3n+kG58F
+z1/w7seSQKGCTADEkkVbydpkBcWWpEv0Gie0ZPBSuyQNiLsU2Uc/p3FTE9+oB+Iw
+sGBPNt1PSq3a4Q8cr18XkmLwQ4hikB6/1hBSu4HlHe8GzSp+VeuySiQDAsr6Xxfr
+B94+kXqdc7zSAJDocHiWFOCIN2H2s8OKSqEGBRLDpwbhKyhyFOyC68FTsgSAwDcG
+legO0Vrmq7C3CwUgjjpCPRB9biziVZNvnpERqFWpqZBGr8ADXFYlkXr12POPcKzl
+O8+Bn2hBgPg9TsaaloQmQMXRkyp/LE0UfU7LBGFmL2xYO65W0hWnvoqI9WjWCtOJ
+An38vP1BOOa4H5GWRX7gQ1HPtgwVUdXNqTqFXDfMhji39g5EKKA=
+=MaZN
 -----END PGP SIGNATURE-----
