@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Fri, 30 Oct 2026 12:54:12 UTC
+Date: Fri, 30 Oct 2026 22:18:23 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrkk3QACgkQSMjV5ji9
-inxRyQ//eeDpZR+etW+BPVFV6BowaDjgeEGRpyMDoALTtezncnwTKvapvUJq5t58
-J5vtG6Q4dgn9W5aS6WzrLLWAtBsvObv8N4CV3NUsnT5P+zUG3+OECeejz19njqxn
-BVfQoQxaTGlg6ybgPITst7dFv+tu0gQdHI8OZYzvRUM4ql/H4PQ+kEMi43m8Q0uI
-2O/iSFHA4NzsN7Kn2I6HlgOnkBSs7SR3h5ABETu19M08flW84HKYEt5swqOtmIdh
-51wPH8I4RfEzfLeDZePez8zWWOYidGCIOEMLnqJtoveFFaK3o1BNvVWcUg0vjBub
-/tc9E1YLt+kN5SyJdDcfoWqCmnM6/Zr5ceAH+gj5jWioOjfNcmrUBsrYuD/bs8Z5
-23fqLCRJYoAltqsQCSQv9GvQNURShqWPR6wIjsP3twUKj19l5iaiNX5Wi8c07Sdu
-7MWcjfQ7sFA8go0oL1a7PWHWE6JeP7AxSVQvufGUbYsmg08ahTjXfQp1fAk/EFrO
-d5wowg8CX4P9qLZgeMU3WUKAulKaBRKRSB1RWZCQnEobtpj6C1oq2jbfPsey9+gE
-5CSWrEN6tM+yNDlVd8p/a2kgmkPT1gScb55G1mJsFjwxJTW78QnS8hhuuYDSeQQH
-z/zOnFzdtzD0ZF5/LW6X+bZGBNA9O+KJbSKFgPD+bC1rMUUnJwA=
-=LCxr
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrlF68ACgkQSMjV5ji9
+inzeAQ/+M6A8jytcy9rrM2gv/57kzkKdZZvSvOnCjZV6VzVs07bhIC4J7DYb+J9X
+3nlh2EyOTxfZgvOA+HCTStSQ9e4K3+jLhynZsLB1aFFfJ8VF6yLR1fsqBBGIVBFj
+RIYrpy7vt65U6aIHhOscBjZFxSrAVe9bFfqAqpUD9OU92hZrkhCTKwEH8dBp5M7x
+N5HXho+2og3+DmHmnFSQrpCRisghXSjw5f/foyRLlRqMuXYS0s8hzhj8NH0QtKih
+0NAVvnZvdC6rIxTgMZlVfvKs08FWCzNfcEVCvh96uDIszuwH9fdQ+x6qRupxS3bH
+JyVIhekSyIBtYoaaEDhTvEMdzokqV4DNrxELJ4oouqyaP63y7GnWmI0bfeEHkfZO
+xOYoTp3C+7vuKcuYcrfhxuXuG820uqCdbv+ICJhKhkwFsvQIxB6y+Yk27BxD3+kY
+EoOtUIWeCOrQpn5xdjdaZikbApaiEnIpDu7YQrAh27nr5JoRFuBkqIZbyfBeRjno
+Y8tTkp8z1kVF8uz6GxAvt3Gos1zYf7fzFup9cYYX3NagoXY38yUFugoRst2cUBWY
+ZEv2ng2RbIULAQsMH7iuNwhDifZXdyHUXvGCGYyaNs+Lo8Gm1UTYs/fjGtbtY5nn
+U+45MW0e1U9zMTZTUyS8MKs/rexyng30P8EJFRfCcHDNnsJHcCw=
+=0IEB
 -----END PGP SIGNATURE-----
