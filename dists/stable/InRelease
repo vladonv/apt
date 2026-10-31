@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sat, 31 Oct 2026 05:39:05 UTC
+Date: Sat, 31 Oct 2026 12:26:16 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrlfvkACgkQSMjV5ji9
-inzX7A//dqzPwT79PDBCUi0mhyzSvjYe7dkSOcSSAVGSajBaCw/jdaKIXCMesjyJ
-+hQFNFmL6Ktf2p6zhQVmlTMQaFOYCzbPjeMtYw4OX8uuz4GbBGBDc10nO65WRey1
-p3mejXTnbkXis8ttQwNvvFEdF4ATc6dp6H3hrsyPRspGxeaOyzX0qx5HN+CY3u7F
-w10wbTwlFuuahL/IXEFbnv0F/WUrOcqJBPT6OCk8fQNzYi+2G3SI7PSPu80NGpb7
-KRlDX7QAhZozbNvKPTEQqpIjQ1v+M2+g8lYvs2hvr589OI6jnEnh79IUVE9gNlgU
-AhFFAsoouF72Cdom4fvePrV2CFEb86v1sryieN/o6cE4g1c1Y5CGGu3YCSxTBjgn
-Cqqegp08NwP1MZxdTx2ETJkRZxnrhXhCfIVoQMQUPWGEMPVCwdWYq2D1AKyM7sDx
-HaaVN0S0w+TYYzAUAuiygBMvAxQq94UoaaNOpD4DElZVR1W26SVGledHWjxpLdbl
-eMX6Z/f0cSjniD7UZZyqTXcCCbL/+JwqnEtusuga2ma97eniyDiey770LH12vVQ7
-UM9PqPbQRtYdn92Syhhs6zcuptvSKEsT/2QcDgr0izstUmAaT5q9Tyg1kpEJttK4
-ZtLRFk4YjRvMZcrZB8FJkk784zbTdgXgMfdj4YbB5C9BOmlBqQw=
-=VYlC
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrl3mgACgkQSMjV5ji9
+inw8GA/+OM8G0ieEHHLEjk4tJQuGkb6AXvR7QTphbpmfYME+vH3V5ZlSCydf6s6Z
+HeAWT0KGu0oIZWfnEMDGegpCHFCPjBig37AK/D71Z525XW0dk97gS5SyEl/+01XV
+8WyL4flT+tTZ5VzsPb3bo7sxOOFB6vqjH3VY7M6lq35Pe8J9cKYdRkqoCzvWdPrY
+B3eC7Fy0tbOrgH5pmuYo6LhEhX1PFJI5sYYbk/mZNvNRYXXmi7kJtYDlnNuogLWv
+j+cT2nDVXlr6ugBHRWY9i9gtkWw58QfhaSMd8d3QPjZZ0lXMh9fKb8RPsWw5vY2L
+VJ2nDlWekrQuHG+qOi4u0OMRqGkYZS5AV891HNGKnBj66eab6SWIoPKMT0NIkqP1
+IlH6D7cH4ylL6PZZeGXAWCv871B8LxqH7QL51bF6+Po9h6lU3CRqFAF0KhCquUBR
+zDCqGjzx6UrQ/gYZJ3mO6FpSoVjJ6+DZajpJQzDoAXx3jHhJjmdV9N7+CytBlvwo
+Zx5DK15ZWpgLy3NC9BkC7uRVIn1JBemYiVXD/GrskzbWrUxfvYqAfE2wbJlF7teN
+5KNe4VZgZuX/lNl/zQjN03Xa29PMGyV0j5xYTLXKdn2l38Md5e4banbi+67qYYDN
+Az8/WCepfYlHDF2ufYBDuP4YvNWBEWeouFzTP4nfTUdAqxo79/0=
+=CmRj
 -----END PGP SIGNATURE-----
