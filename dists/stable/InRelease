@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Tue, 03 Nov 2026 14:12:20 UTC
+Date: Tue, 03 Nov 2026 23:22:50 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrp68QACgkQSMjV5ji9
-inw1sg//aA7KM+w/Coi3d4N9OW82pTK3CVA8sVerMDPJHV88ii0zGXTe8RJ0/jxl
-5+e7XytITknNK+Dh8Ov/UXFbYaEwmAAdP2kNsL1ae1zR2aop7omRNuZ4uo7TSL4Q
-YZIe3JuVAWLUIxTWeR/9DNiOGCzINXojqrt33SYk0rc/H8ckJwHujJAARollz58K
-sHGlYmcaTY5TnbRuaQ3ofWPm6q+EDiLjtYDKDqMvtZQI4o/2wRt4AOJDva1/yooK
-Jn/f1JUN9AKpqSZ1aFbNTQySwPSXbb1DJJvd5auIgrFvRkhBWM5dmPB1mWLGAhRg
-Gpp1hYp3nEl3pKiqP3FVpB08BpMdrfcqPPbGPWih/I1xQldN5EslnlzVD+L+fa8i
-lslubwOlnAC7t/eoGpMqSHm8n9w4JqZhB7nMfGaykQy+0r5RA9im/qPMC2r62Cva
-O9omk9k0Js4iTwQEtkngo5OkAA/tzNRZNBzsO+v/Sk4hSDWzV8c3wmwHsKWiFC+z
-MZi6B1g49lcAEBuHdrYUcWNw1ihLHLY8Dajem29PaJYW7v6ccYQxNumehp1Q+O1f
-87qu3xktV9JAeJyzrvqm/0/PrbRr6WXqdrfXljHkbNDbuVQJ4j41ol8RXIC8uCAF
-G1bLJH8f15iDAgS9a2WIStdJAUx6Joc/RLolie+PJBCO60DH2gI=
-=6QiR
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrqbMoACgkQSMjV5ji9
+inzMoxAAuWRZMcpvKS+RguTg+8p7FW09zPhE/yz6byESQw2ifVCf4JUhgQPd7heU
+EKNUVCuz4zxOuJqiRmpcapeDUjUYGKKP/V+2mgKRzKAY33Hw4T559AbM6Sj/z2H0
+vMO8T5oGMwCNBdR/0il9QRjY6U37qfdmZeBu+pJ11UBYU73lVOzE1eCYw3ivVP2x
++hfTrRDRfVP/IHGahEdCRVnoIHBBL0WakCFySllNPUs7FB8lvSciOX47XX+1mEBI
+t4BTuX2tK/GntO1jGdaPVgcwaERSkqLAKsnC1J5wvilxw2zDdT9asHykHVRPODhO
+Qv34KjJAhoIG6u6uKcbHaCpv0ETkBDveAdwT69PrK8xYo+Ajzfw8e3PWQppTQwyN
+DnCCbrcTFZ8mhcJ5DmD6Igpy0S1ihw3pM9hn6gJTK4gCCuluN1oTshnj5d1R9KYi
+TGZygsbA/viwkqjWew4HvuGpVYdFT5GgsxYSbr8UH2ovSU84f08SJMiARfoyuMWo
+vvsdiObxbhTA+xHQH0hRivj3hVpNge1OfOqpv38t3CcmwqjxGh9/muYXKj0obLxZ
+RUXAWGoPakAKlgkEc+7fBAuNTatf69z4oESjjtafHlGuaTuOc+UOX12WlGO5p0Jd
+Uw2pIaq0kGOxLrMk8e4CcwHd9S3ljfq3sgFwjkB9WZ6SbVtZN4s=
+=wd3k
 -----END PGP SIGNATURE-----
