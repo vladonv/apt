@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Tue, 10 Nov 2026 07:16:07 UTC
+Date: Tue, 10 Nov 2026 19:42:51 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmryxLcACgkQSMjV5ji9
-inwSVg/+O/uHPwH67JEZS46vRFj/BnA+aZxniV+I5z6dDBK0tSLvi7l33jSL8Kbn
-Cbrw1CKMX0Q4TRvnbacwdVGgiF4tOsq1VAppmMVFxWFZa5svEIrxYR3u2oahgLVl
-/nKKjE7Elia4n9FBD+aFWBPoROkF8Lz79tf3JIHHRuX1R2i0a7XQYg0TYr04es68
-j4JwNDkIs7VtUkYEdodlW5PbKepsRctXEiuz6doFktxGz8SG+mnBNe8aUlx3ACUY
-nasCMjMHnLJDH06qo8LlmjXc2dH6fs4C0iCXNV+qHevafDvSuurwS9AgXToh88VK
-gVQrE6ikGLp4vNOxiNDDYh66Kq1ah7hHGK+Bx6tPZMAmAcEJTZoHZnr5Dg9rFUdd
-rYdToyQCBhSPsaajeXsk0XuW0Elxq/BeA6AQAOMvPxZQQHEbmma9bfg8p87zuN65
-btzMmpc1I4ItgY8f0azLA9WkyJJiqGb84a+iimDIHfQt9JQ9hPACNHyAlJLSQWdP
-A0OWxjQsjtGE/7ChXBiPYH1oYg8CoOwgplggpac+31L8jpeqUFD/zkhBKgZHhGtc
-VnC3BcqAwnaQyRhLgOwIpBaFQ8PiwvSqIWBaXEWm0Y9GMByvSyQzOq6Wo1icR0AI
-a1GGaWGY9ELJHhN/EYRY1WZtyOtjTpUDQhXT1Mmaoo+7xlggVoU=
-=1kag
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmrzc7sACgkQSMjV5ji9
+inyPbw//RGpcMJ/hNuJUjXDR1SgM+Rb2uF2i6brctHZM+xzKi2scRAXOEHKV6foQ
+FjG8OC95Q/ekTgMJuHFVJD6nnXLMJ5IeEdfo9hsw3NkY9D6UCnlRms6WzjMvvBNM
+WztlcKxThy+jgO/icfabNawujrzH4NRzjlfzV0d9FokAkzzGNHIe/P7w8VkcPv6a
+ubXT364m7+O/Ymm6cH8Rd/cbJwgO4iNzxgzCsmvQWv2Xi+WKtx3DtqRoApMQxYTG
+n9yBzfIbhrYjonlGfgY38rTBLFnfgGfJerHnPO1/UqdukvXAldDSeBRIFkwqnBu5
+UIc5olwQ2WD65JeprNrpu6NGLBEJJpINtI1NUfGBRj4i9a52rhVUpRizxjNFKlhM
+uT9B2/N0DSful58SsYcYQ8CxHL587P+O5aGUPbYg4vvJVZTnAd/tx1UYI1I8t5LV
+7bvkZ6peiJPRLve7WkixRImEz8zlsjy0VvDXQ3unGOKYYNJvEBoVAF0ZzMYObfeI
+GMUDjAfdEcnV2gHcG3KFOo8J0pX0rCU13nypNdfEyrg+7D4o0QaZIxGzna9Lmz6E
+Rhc/y8JeCdVB0/Agf9Z0ElnpBKiS2AGNGqXxoJxYTt5dbiMI7BaNBgah5BJnypN5
+9DAbm+ZPtH9LDQFj4CjJOK6DlUouJ6lDDJfL/8R6xDQBrUpL+lg=
+=JbUw
 -----END PGP SIGNATURE-----
