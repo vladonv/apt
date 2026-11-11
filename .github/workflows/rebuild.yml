@@ -26,10 +26,25 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v7
 
+      # Retry with backoff - the Azure archive mirror GitHub-hosted
+      # runners default to intermittently fails DNS resolution
+      # ("Temporary failure resolving 'azure.archive.ubuntu.com'"),
+      # which was failing almost every scheduled run.
       - name: Install reprepro and gnupg
         run: |
-          sudo apt-get update
-          sudo apt-get install -y reprepro gnupg
+          apt_retry() {
+            local attempt
+            for attempt in 1 2 3; do
+              if sudo "$@"; then
+                return 0
+              fi
+              echo "::warning::'$*' failed (attempt $attempt/3)"
+              sleep 10
+            done
+            return 1
+          }
+          apt_retry apt-get update
+          apt_retry apt-get install -y reprepro gnupg
 
       # Uses a maintained action rather than a hand-rolled `gpg --batch
       # --import`, since it also writes gpg-agent.conf, sends RELOADAGENT,
