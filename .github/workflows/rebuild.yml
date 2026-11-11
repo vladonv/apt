@@ -223,9 +223,12 @@ jobs:
       # Deployments to the `github-pages` environment aren't covered by the
       # workflow-run prune above - they're a separate API/list (repo's
       # "Environments" / deployments view), one created per deploy-pages@v5
-      # call above, and GitHub never deletes old ones on its own (it only
-      # auto-marks the previous deployment 'inactive' when a new one lands,
-      # which is also a precondition for DELETE to succeed here).
+      # call above, and GitHub never deletes old ones on its own. Checked
+      # via the API: deploy-pages@v5 also never auto-marks a superseded
+      # deployment 'inactive' (every past deployment here just sits at
+      # 'success' forever), and DELETE 422s on anything not 'inactive'
+      # unless it's the environment's only deployment - so mark each one
+      # inactive ourselves right before deleting it.
       - name: Prune old deployments
         if: always()
         env:
@@ -235,4 +238,7 @@ jobs:
           gh api --paginate "repos/${{ github.repository }}/deployments?environment=github-pages" \
             -q '.[].id' \
             | tail -n "+$((KEEP + 1))" \
-            | xargs -r -n1 -I{} gh api -X DELETE "repos/${{ github.repository }}/deployments/{}"
+            | while read -r id; do
+                gh api -X POST "repos/${{ github.repository }}/deployments/$id/statuses" -f state=inactive > /dev/null || true
+                gh api -X DELETE "repos/${{ github.repository }}/deployments/$id" || true
+              done
