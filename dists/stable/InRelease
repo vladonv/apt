@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Sat, 21 Nov 2026 07:05:09 UTC
+Date: Sat, 21 Nov 2026 19:14:39 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmsBQqUACgkQSMjV5ji9
-inxD0RAAm4uk3ljbD9m0OvpJwnVbz4hSMyHFxY/5K0mnHpA/RCvPHApC9N+XP4cp
-kXGSS0X1UeeVFDSCPLKotWZi+DvrbvH4LgYot+z/lkaU4BSUs8Y9Ia49vzOx6LB7
-xrg/0HCRBwFBTt1FJnUrq6GMWUUng5ySjZYBTKiaBVWzpcDPkzmrPISuKDQSpsZF
-dETGsLGyOrtv6mZeGY/Deqg17hDLhV2hWzuEJsKl7mxdhd3ZQoW0nTg4N3EN2zQq
-rbVj4eIkbfZDYicqZDlwp8/wnPrw7BHTgVkwrzLUI2qcV8U7QvXJEhRe5WQfjSFX
-OAtN5u+bnJYX9/TRC3nRKtlwa1yS0TTRVxRrq3BpaYXa3E66doeKMCrgt76/1vda
-7vnJeLIfKsA12ZfXnl3ydx1tEplkddrGBgfgpd5jtIjLJGevMsti4npfHxcfkrn7
-WQhyntyQiaHMRGH1xUB9Sk+68hnPy/Lw5ryGHJpsjIwtO4HK9NHo5tzci86yPWgm
-oMcerVakQTosD66HXN1WVXHi8wMwKqMLs3AIq7k6G44Xa5IQ8VmiW+9/f8lrMAa0
-kGORROX9Wbqxx7bs0NzBxBG6sT4KhjAWmf53Cp1ud/AoNdnwmJbfahIQK8DGRgnm
-WmxfbzVGwJBLXWoLGpWVP8XpGyW/AY6KHe9guLHjpYAKmLk+/ec=
-=d8/k
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmsB7Z8ACgkQSMjV5ji9
+inySPw//QHm077BUo6X++n/qe1Qgt33XXmhZey8TxOXmvZ/oAAB3Io1cTfhSNmxb
+2/ws5+U5OXMyOw501M5Zz7bvGArb7uis1v3pfhqgxiHX1EIg0BDgSZuloVp/A+Pe
+NLthlWi7S4LX5mTTwmpWjdfaH75ATDyesJnArJZ5jzA9g+omVXYHCL1j82G870DU
+7MXf8vBECmGbP5gtgkR0LhpMcy27R34TN/3/bOkxmjjiNbt9AkqZh4LsjG0VUmpw
+Ixw3801LkZnjhOapht7KdbB+GlKJ3Of1ka5XnT+nAdk8skOIsLR0Jht9Qh9nNRpX
+D89T1n52mjj/70hGz8OlAqVHMeqPrVLsOhLrhxm2PmcBH4zroP6CdMiHwIRwPBz2
+5J17SPGQ0m67swbUHQOgsnzvbmYjLf9K+0IqjM/9zW58crbVpmlXGmkHsfmW3i3t
+jGcvTI5s9u3Y2YseUu9LZJJ5y1nJlmWRGKp4Om62UGxSc2E2sYJtt8t3N6T2Op/y
+S11fuG6Z9vwjwfOAfBT+pNoQCS3I4BaUJOkHKpRSZ9/L/4WDGMKLxU1w/BaudX2v
+vdynvhVXdDfdhScCoARO6QDj5auBIL5DVWOKWbrsJ4qUqA2lj9KPKLwQFzkbflnL
+rDofvFJzRco+6uKB6EJvuPPD4NbgUTAtPN32UvjzhX0KBZOz9E0=
+=FACk
 -----END PGP SIGNATURE-----
