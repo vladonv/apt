@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Wed, 25 Nov 2026 08:30:44 UTC
+Date: Wed, 25 Nov 2026 21:40:53 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmsGnLQACgkQSMjV5ji9
-inxd3Q/6AqW5OQFJ7VXKU1Tn4aOkj+/Iutqne8BX6kziMxOQLqVIb4jv+PEe8N+/
-Tz4HPLcIKY8av7Sv5S95x6efocR5pGQvm5NwG5C3VpMHZVLAg2NAAmOWbd66FiEK
-6O8EfPE7juZMOERHlQ/1BognZCqmQMT+6bqOSE0cBWGnh5exRfMTjGYj8goYqtzP
-diZhlzlHDKWxqU2N5rkyFrygsQ6UJSALmk1Blr1PazO9DN24zEB1aZxknm/V0I6H
-kaPTiATvWZ8DfasBoYx5Cy45riiVTfCDOvt+0PrAXfNAwg9Hp9gvbWS01Sn3BD3U
-FIqFy8tJDrm8C4zbZsCIQmfCDnyU6iVvElm5QWzWyAwTXf46VDfqxAZTMZXsdL+u
-vx/XhYaOLrsKFCMrmS8gMoSpDtidmJk+383UuDnYNEw8w4QAqy5vMxSy9WirVtqp
-an2ZJ8SkIYwl3QnSfb88TKmVpyDGFPSbMLMcEUva64zJeEKzYgygrgBLKXUlcUFg
-sYNgvTadgT0lAFxtxpAFznepSlE8rgT0tKfbCbvJ7uZwO2T189rZgT4kG4HA05MJ
-3fJ8t776SUyGvR9ANLa69o72bxAS76pfGQEpENNjqRhOM9EKrgecyxH7V43AmNW5
-tDVp8T7VQ5Eq5Tqah44b/p7pFn6TZfK0ZTLDuNFyUAO31dpp1QY=
-=mRdQ
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmsHVeUACgkQSMjV5ji9
+inwzvxAAkXvvMKy18+lxcxfQyAu3YDApIi8WnLhHtWqDtyIwtPctiDZXlTkHrfY6
+hs5f8m50YxdZNuuWIv2EUhLfunXzqgUsOazmaN+0JPuzCE3GOfbOkPdsWh35NY8u
+NR6MtcyBJ48uo4vWQZCVuIcEMcAdwbg+bn7tseksmhYHYWEaIJrJ5MZfKY4L8Vxc
+wAiiZre5NZG7W89H1vJqp1mFj0UooxVte4F8TgaYEkr+Z2UFK1MKy22DBtCLOz8d
+mkKyy2F+4LMbDNTipMd1eFWRoDoyd3qhCK9zprlPcAtBV5Nf6P0Pgnybd/vP197G
+2AL8QdkhSfGEVnwLACb+vFsrWnm6YL1IkyN9oVMVwggTI41Egm4+8367udErEyrn
+DEv07d+kPzs9skdg6upzUMuybxZfNJI8X3TSftofYEzShaWk3druJM4iSWkyAgSO
+4cWd5jBYJ/3bSr/wBxla0LPc/x9KliDKdND/0IFI/zWXH1cOuR9GENe8hAqXyv+w
+FAyLwL01vnThFC6TQUxp6Zh+ztSLVVlhcMsCdVxUK0o4muudwcl9cYTZ38jJTsYb
+Wso3KsTGvBIGR/5G73N8NLVa0ptFnzDyhdbtQAfEM+qvnBYHM32KU4EdVS3rUICZ
+O6GJO3FIUGjGU1lMZVZFboN330m1P8W04KW8SGs7ZbGJ1vbJSNY=
+=CTGN
 -----END PGP SIGNATURE-----
