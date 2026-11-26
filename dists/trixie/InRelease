@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: trixie
 Codename: trixie
-Date: Wed, 25 Nov 2026 21:40:53 UTC
+Date: Thu, 26 Nov 2026 08:14:37 UTC
 Architectures: amd64
 Components: main
 Description: vladonv packages for Debian 13 (trixie)
@@ -23,17 +23,17 @@ SHA256:
  9e9aaed9341699f253fc3083c2f84d3d7a153164994a86da0bd63455718dfb7b 151 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmsHVeUACgkQSMjV5ji9
-inyTOg/9G4tXqg+mTxWO1N7XV3Cz+CjhBb+6FU547essjX6I7FhlA6RDdApmJ40t
-+7yeOngSYEVrL/Qn3oGXywbUCeC3+rjHa7TzKziE2G9hoc2yOvD9z37MSp195Pms
-l6T4bnO6Jk8PQb54z1zXxy6K0N0ak8tvnctXgP7dVZXNhMBymaSogcwcejk5LvAm
-CChGW4BybJXJRqsRHf9584TGAgkVVdV+00Tt3fgoq/HasSDF59qG60v8Eqe5l2Dl
-iVG4aH/U/v4VjvwrjtUDTeuS1EBY7JRpgyuYU4CRpoi9iJ8Pzan+r0T+0xVg1LS4
-6Wh2wbklWJsDRsZEFgovGogJdtQXA/eTghTi/papS52X660aeLBulHvpjNazZGZq
-T35IYSmADi6Kx089a3l/YVhVhcTphVskkpuRh+Y+DziRU6mVDQeIp/vBAgfFtPxl
-yxW2p/rcq6Aljne6PLxjpysbhPI5wKhKRVmaM8PjcGlPqjys+Bxb9QxR6wkbSDr0
-XbQfS0cUgpBCJKhG7xIJn/r2jMg0JBeSa/Zwmkstwvw/Olldova8F94whFxtv/3B
-5szdoJ/G5ayL3mvLM4xCiN0PlWEY7VSWlcwHsWS0nA6ONoynXnT46QUM5rovXE6R
-FvEqSHH2bHngPJQ3VepAhl3QjUY9OWat8Dw6WNOvxjuywfEFHRc=
-=hF1v
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmsH6m0ACgkQSMjV5ji9
+inyXuA//c/HmAtaEFXEzh7UZEUu0jzUfPfz54TWNTx81yIe/tsl2FPMf5npSCB1T
+fJ6dYfSB55CgKd8zWyORjGokH5FFb+amhyM/nfgDNQWzujB+rtuu3RF1JsvR3gYb
+nHH+MC8tS8JKzdTaQyxYuBr3TjJShG5q2qq0AASsfNMsHVUmh0y+YK7Jt7izqEm/
+JfyZyU2R5o7IScnYfk4JHeE3qStu448LdJ131j+tGA1mngaVg2UfY9HTnDH4I9X7
+460KV0On7Kf2pNJ+NfjYrs6oXjM5jTlSptpj4uFrD3i4pZxlt5fc4xnHfDc5GkQs
+Z/ev67w3RaqI4oCpJn5PG2ypesaPlchrSxzh2X0ZjhP5FR78urdd6LRE8Y/RuWa/
+46tHZupsLa9IDA8fmUwlf6El3fm+gcmCnnoGUq7bh07TIgGdO2mMahJ8SMZtB4p2
+h9s+D0LuHf9KrH4QxzeBaj/rtXn6m+PuHnuuGWnKzYJogGyLckU36qGujwej8q2d
+YqChGbXQyOCKkJGP7OVD+hasOypxzhdKxRt3X04JGBEWQdhcWa5puzLjAwpHo9pe
+vUuXRNP1xZ2AY3Y0ZuIUN9/NrYYr8uY0eg1ZiuxJaJQxrBlq3t1xq/XUZxVZw6y1
+0qDqIAwRY0zWmgDAM6W0eZHa8iWeItqMBRZe9aeL6byVwF0/IKk=
+=Wnyj
 -----END PGP SIGNATURE-----
