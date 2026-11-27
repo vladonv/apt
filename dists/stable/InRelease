@@ -5,7 +5,7 @@ Origin: vladonv
 Label: vladonv APT Repository
 Suite: stable
 Codename: stable
-Date: Fri, 27 Nov 2026 08:29:20 UTC
+Date: Fri, 27 Nov 2026 21:15:59 UTC
 Architectures: amd64
 Components: main
 Description: [Legacy, kept for back-compat - use bookworm or trixie instead] APT repository for MonAst (monast-daemon, monast-web) and its patched starpy dependency (python3-starpy)
@@ -23,17 +23,17 @@ SHA256:
  d4b10252d68b4615308ea96e4d7e676620fa1b2327fc264a3a5614a3786e2305 280 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmsJP2AACgkQSMjV5ji9
-inwK3RAAuvHwWdWx/vp/KxfVvx2aTxKJS3A+TehQrJ592q5kPP16QX+zpE3AljmJ
-1SfpAHe21YMdw5a38QxZ99tQnMzJgREQRcUnbDb1Pqjy3Q0t2rTipbvuifxEZv7T
-Rmn/IsHgHJMf2q2VxCwwi/gvVMda20eZ+UtY1I91t8/X6hohHj+3oXJdESQy32OG
-hmFoOUlBoNvL4EPF9gaTpOhhTvBknQIgWX1al0XSz2AZy6kiaij8bJwaWB6rr/o7
-+hXghugESYAUR4d32S21o0j+VEBDVxQerupitQRzygZWd+sgvogSl4tn9snM5ko2
-zIOWE+rDzp82fNWhj8tptYmr8um5FX2Kw22ildxx0SccVF3s3NKJ+e+IgHhgsxYn
-T/8c0ZxXusLs8u6yn3q5VoFnxwivvxkMukFJTfQ/JpOxBA5mJoqpbToYazJiEyB5
-My2LRoAlwlRlxNSnkssfxKXC7yyENBVqsEoMwDOK7bEDA8nwS1Y/AA/5WiKYFOfD
-dooIMWki89cDNwqXu9610LGcm/ooGPCXMYCorR9YqUir/d2clfx8riC5oGWkiRZi
-Kn/GpigMOi+1jR1ejhCAmZTji1VSV3wJ87a1iR2+EelG7WAh2ofAwtBWom05/kH9
-HDoBbZeGwQBl1OqaFRkRAgFmc2Pkwk/lKcgmLfQkqk2wumS6+o4=
-=mx/V
+iQIzBAEBCgAdFiEEz2OQUA78gkxSqn3mSMjV5ji9inwFAmsJ8w8ACgkQSMjV5ji9
+inxn7RAAgly7I7QuX8fquTo3UMR3UEBVLwaY3sV8rKK2qPrl2mUfJ57mo7tRYaZG
+cswEBL03UA3tddI7EaYHXp17agqoM8kc2HjJNAhyu1/rJQ5hWrHnOB6uQ9Uids07
+yev/dCBR1NAG9p1YkujLhpMfLIAkqsipfSTSgZ5gakk/84wHAwPh6iH3MOBThDmY
+W7SrPmA/JSa77jLPJYZlUzVg3JxthAkmWw1p6pbbhG8TUpLSuMgzjEcaMMAne8Nv
+2N8E7Y1VomIq5Ci5iM+WDGPHFtfmoTcIIWhTrYhvgTklFEGT+9Iz4AUTmDABw76X
+RFAqOwcSE8g937eCNi6qoImG323XYqnASnhVc6yZQ9qBaNVT5fwN9kZGUTtJP5u7
+vW6/MW+r27iAJyzM+0Y9DkFCaYTOobCTQx4x1puGVltNPM/CRNma/sSWxH6ZgoXU
+1oWdNR7LhyrCFfkOoOGfW+4kJrPt7GjBGxs5B9zRQkOQvalP4xqAtCm+4ZhFOgin
+tlUzh4cnaZAUReH4Q+R5bPWkF/K8YXnn6lC3Fzk+hmDZG0l8V1J6DMQkCT/aPfgJ
+fOub6xLgAfjH/bteD+MMUmVXpOZ8ZWLNT5H/h5l65h8FkJXgTEd5He9QadD/8OlQ
+w3nItostjaikIWPUM5GEiHviGd5bnIVMT/Aoiy5Ts8q2wypdEns=
+=JtNr
 -----END PGP SIGNATURE-----
