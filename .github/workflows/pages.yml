@@ -29,6 +29,14 @@ jobs:
         with:
           path: .
 
+      # deploy-pages@v5 asks GitHub's API for this run's artifact right
+      # after upload-artifact reports success, and that API has been
+      # observed to still answer "0 artifacts" for a few seconds - the
+      # artifact index lags behind the upload response. Give it a moment
+      # to catch up rather than failing the whole deploy over a race.
+      - name: Wait for artifact indexing
+        run: sleep 15
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
